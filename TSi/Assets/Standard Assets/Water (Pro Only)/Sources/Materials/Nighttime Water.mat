@@ -98,7 +98,7 @@ Material:
       data:
         first:
           name: _RefrColor
-        second: {r: 1, g: 1, b: 1, a: 1}
+        second: {r: .380028099, g: .727941155, b: .612769902, a: 1}
       data:
         first:
           name: _Fresnel_ST
@@ -114,7 +114,7 @@ Material:
       data:
         first:
           name: _HorizonColor
-        second: {r: .149019614, g: .282352954, b: .380392164, a: 0}
+        second: {r: .114619374, g: .218059108, b: .29411763, a: 0}
       data:
         first:
           name: _RefractionTex_ST
