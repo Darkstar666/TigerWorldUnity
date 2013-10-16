@@ -16,14 +16,9 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: 5, y: 1.81521833, z: -19.7960606}
-        inSlope: {x: 0, y: 0, z: 14.4019222}
-        outSlope: {x: 0, y: 0, z: 14.4019222}
-        tangentMode: -559038737
-      - time: 2.51666665
-        value: {x: 5, y: 1.81521833, z: -4.38838387}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        value: {x: 7.46999741, y: 4.48122978, z: -8.66227531}
+        inSlope: {x: .0171966553, y: 0, z: 0}
+        outSlope: {x: .0171966553, y: 0, z: 0}
         tangentMode: -559038737
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -55,14 +50,9 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 5
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 2.51666665
-        value: 5
-        inSlope: 0
-        outSlope: 0
+        value: 7.46999741
+        inSlope: .0171966553
+        outSlope: .0171966553
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -74,14 +64,9 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: 1.81521833
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 10
-      - time: 2.51666665
-        value: 1.81521833
-        inSlope: 0
-        outSlope: 0
+        value: 4.48122978
+        inSlope: .212630078
+        outSlope: .212630078
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -93,15 +78,10 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -19.7960606
-        inSlope: 14.4019222
-        outSlope: 14.4019222
-        tangentMode: 0
-      - time: 2.51666665
-        value: -4.38838387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        value: -8.66227531
+        inSlope: 2.04085112
+        outSlope: 2.04085112
+        tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
     attribute: m_LocalPosition.z
