@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 9852d62421552d645bb369195d05ae08
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: group1
+    100002: group10
+    100004: group11
+    100006: group12
+    100008: group13
+    100010: group14
+    100012: group15
+    100014: group16
+    100016: group17
+    100018: group18
+    100020: group19
+    100022: group2
+    100024: group20
+    100026: group21
+    100028: group3
+    100030: group4
+    100032: group5
+    100034: group6
+    100036: group7
+    100038: group8
+    100040: group9
+    100042: pCylinder1
+    100044: pPlane10
+    100046: pPlane10 1
+    100048: pPlane10 10
+    100050: pPlane10 11
+    100052: pPlane10 12
+    100054: pPlane10 13
+    100056: pPlane10 14
+    100058: pPlane10 15
+    100060: pPlane10 16
+    100062: pPlane10 2
+    100064: pPlane10 3
+    100066: pPlane10 4
+    100068: pPlane10 5
+    100070: pPlane10 6
+    100072: pPlane10 7
+    100074: pPlane10 8
+    100076: pPlane10 9
+    100078: pPlane11
+    100080: pPlane11 1
+    100082: pPlane11 10
+    100084: pPlane11 11
+    100086: pPlane11 12
+    100088: pPlane11 13
+    100090: pPlane11 14
+    100092: pPlane11 15
+    100094: pPlane11 16
+    100096: pPlane11 2
+    100098: pPlane11 3
+    100100: pPlane11 4
+    100102: pPlane11 5
+    100104: pPlane11 6
+    100106: pPlane11 7
+    100108: pPlane11 8
+    100110: pPlane11 9
+    100112: pPlane2
+    100114: pPlane2 1
+    100116: pPlane2 2
+    100118: pPlane2 3
+    100120: pPlane3
+    100122: pPlane3 1
+    100124: pPlane3 2
+    100126: pPlane3 3
+    100128: pPlane4
+    100130: pPlane4 1
+    100132: pPlane4 2
+    100134: pPlane4 3
+    100136: pPlane5
+    100138: pPlane5 1
+    100140: pPlane5 2
+    100142: pPlane5 3
+    100144: pPlane6
+    100146: pPlane6 1
+    100148: pPlane6 2
+    100150: pPlane6 3
+    100152: pPlane7
+    100154: pPlane7 1
+    100156: pPlane7 10
+    100158: pPlane7 11
+    100160: pPlane7 12
+    100162: pPlane7 13
+    100164: pPlane7 14
+    100166: pPlane7 15
+    100168: pPlane7 16
+    100170: pPlane7 2
+    100172: pPlane7 3
+    100174: pPlane7 4
+    100176: pPlane7 5
+    100178: pPlane7 6
+    100180: pPlane7 7
+    100182: pPlane7 8
+    100184: pPlane7 9
+    100186: pPlane8
+    100188: pPlane8 1
+    100190: pPlane8 10
+    100192: pPlane8 11
+    100194: pPlane8 12
+    100196: pPlane8 13
+    100198: pPlane8 14
+    100200: pPlane8 15
+    100202: pPlane8 16
+    100204: pPlane8 2
+    100206: pPlane8 3
+    100208: pPlane8 4
+    100210: pPlane8 5
+    100212: pPlane8 6
+    100214: pPlane8 7
+    100216: pPlane8 8
+    100218: pPlane8 9
+    100220: pPlane9
+    100222: pPlane9 1
+    100224: pPlane9 10
+    100226: pPlane9 11
+    100228: pPlane9 12
+    100230: pPlane9 13
+    100232: pPlane9 14
+    100234: pPlane9 15
+    100236: pPlane9 16
+    100238: pPlane9 2
+    100240: pPlane9 3
+    100242: pPlane9 4
+    100244: pPlane9 5
+    100246: pPlane9 6
+    100248: pPlane9 7
+    100250: pPlane9 8
+    100252: pPlane9 9
+    100254: //RootNode
+    400000: group1
+    400002: group10
+    400004: group11
+    400006: group12
+    400008: group13
+    400010: group14
+    400012: group15
+    400014: group16
+    400016: group17
+    400018: group18
+    400020: group19
+    400022: group2
+    400024: group20
+    400026: group21
+    400028: group3
+    400030: group4
+    400032: group5
+    400034: group6
+    400036: group7
+    400038: group8
+    400040: group9
+    400042: pCylinder1
+    400044: pPlane10
+    400046: pPlane10 1
+    400048: pPlane10 10
+    400050: pPlane10 11
+    400052: pPlane10 12
+    400054: pPlane10 13
+    400056: pPlane10 14
+    400058: pPlane10 15
+    400060: pPlane10 16
+    400062: pPlane10 2
+    400064: pPlane10 3
+    400066: pPlane10 4
+    400068: pPlane10 5
+    400070: pPlane10 6
+    400072: pPlane10 7
+    400074: pPlane10 8
+    400076: pPlane10 9
+    400078: pPlane11
+    400080: pPlane11 1
+    400082: pPlane11 10
+    400084: pPlane11 11
+    400086: pPlane11 12
+    400088: pPlane11 13
+    400090: pPlane11 14
+    400092: pPlane11 15
+    400094: pPlane11 16
+    400096: pPlane11 2
+    400098: pPlane11 3
+    400100: pPlane11 4
+    400102: pPlane11 5
+    400104: pPlane11 6
+    400106: pPlane11 7
+    400108: pPlane11 8
+    400110: pPlane11 9
+    400112: pPlane2
+    400114: pPlane2 1
+    400116: pPlane2 2
+    400118: pPlane2 3
+    400120: pPlane3
+    400122: pPlane3 1
+    400124: pPlane3 2
+    400126: pPlane3 3
+    400128: pPlane4
+    400130: pPlane4 1
+    400132: pPlane4 2
+    400134: pPlane4 3
+    400136: pPlane5
+    400138: pPlane5 1
+    400140: pPlane5 2
+    400142: pPlane5 3
+    400144: pPlane6
+    400146: pPlane6 1
+    400148: pPlane6 2
+    400150: pPlane6 3
+    400152: pPlane7
+    400154: pPlane7 1
+    400156: pPlane7 10
+    400158: pPlane7 11
+    400160: pPlane7 12
+    400162: pPlane7 13
+    400164: pPlane7 14
+    400166: pPlane7 15
+    400168: pPlane7 16
+    400170: pPlane7 2
+    400172: pPlane7 3
+    400174: pPlane7 4
+    400176: pPlane7 5
+    400178: pPlane7 6
+    400180: pPlane7 7
+    400182: pPlane7 8
+    400184: pPlane7 9
+    400186: pPlane8
+    400188: pPlane8 1
+    400190: pPlane8 10
+    400192: pPlane8 11
+    400194: pPlane8 12
+    400196: pPlane8 13
+    400198: pPlane8 14
+    400200: pPlane8 15
+    400202: pPlane8 16
+    400204: pPlane8 2
+    400206: pPlane8 3
+    400208: pPlane8 4
+    400210: pPlane8 5
+    400212: pPlane8 6
+    400214: pPlane8 7
+    400216: pPlane8 8
+    400218: pPlane8 9
+    400220: pPlane9
+    400222: pPlane9 1
+    400224: pPlane9 10
+    400226: pPlane9 11
+    400228: pPlane9 12
+    400230: pPlane9 13
+    400232: pPlane9 14
+    400234: pPlane9 15
+    400236: pPlane9 16
+    400238: pPlane9 2
+    400240: pPlane9 3
+    400242: pPlane9 4
+    400244: pPlane9 5
+    400246: pPlane9 6
+    400248: pPlane9 7
+    400250: pPlane9 8
+    400252: pPlane9 9
+    400254: //RootNode
+    2300000: pCylinder1
+    2300002: pPlane10
+    2300004: pPlane10 1
+    2300006: pPlane10 10
+    2300008: pPlane10 11
+    2300010: pPlane10 12
+    2300012: pPlane10 13
+    2300014: pPlane10 14
+    2300016: pPlane10 15
+    2300018: pPlane10 16
+    2300020: pPlane10 2
+    2300022: pPlane10 3
+    2300024: pPlane10 4
+    2300026: pPlane10 5
+    2300028: pPlane10 6
+    2300030: pPlane10 7
+    2300032: pPlane10 8
+    2300034: pPlane10 9
+    2300036: pPlane11
+    2300038: pPlane11 1
+    2300040: pPlane11 10
+    2300042: pPlane11 11
+    2300044: pPlane11 12
+    2300046: pPlane11 13
+    2300048: pPlane11 14
+    2300050: pPlane11 15
+    2300052: pPlane11 16
+    2300054: pPlane11 2
+    2300056: pPlane11 3
+    2300058: pPlane11 4
+    2300060: pPlane11 5
+    2300062: pPlane11 6
+    2300064: pPlane11 7
+    2300066: pPlane11 8
+    2300068: pPlane11 9
+    2300070: pPlane2
+    2300072: pPlane2 1
+    2300074: pPlane2 2
+    2300076: pPlane2 3
+    2300078: pPlane3
+    2300080: pPlane3 1
+    2300082: pPlane3 2
+    2300084: pPlane3 3
+    2300086: pPlane4
+    2300088: pPlane4 1
+    2300090: pPlane4 2
+    2300092: pPlane4 3
+    2300094: pPlane5
+    2300096: pPlane5 1
+    2300098: pPlane5 2
+    2300100: pPlane5 3
+    2300102: pPlane6
+    2300104: pPlane6 1
+    2300106: pPlane6 2
+    2300108: pPlane6 3
+    2300110: pPlane7
+    2300112: pPlane7 1
+    2300114: pPlane7 10
+    2300116: pPlane7 11
+    2300118: pPlane7 12
+    2300120: pPlane7 13
+    2300122: pPlane7 14
+    2300124: pPlane7 15
+    2300126: pPlane7 16
+    2300128: pPlane7 2
+    2300130: pPlane7 3
+    2300132: pPlane7 4
+    2300134: pPlane7 5
+    2300136: pPlane7 6
+    2300138: pPlane7 7
+    2300140: pPlane7 8
+    2300142: pPlane7 9
+    2300144: pPlane8
+    2300146: pPlane8 1
+    2300148: pPlane8 10
+    2300150: pPlane8 11
+    2300152: pPlane8 12
+    2300154: pPlane8 13
+    2300156: pPlane8 14
+    2300158: pPlane8 15
+    2300160: pPlane8 16
+    2300162: pPlane8 2
+    2300164: pPlane8 3
+    2300166: pPlane8 4
+    2300168: pPlane8 5
+    2300170: pPlane8 6
+    2300172: pPlane8 7
+    2300174: pPlane8 8
+    2300176: pPlane8 9
+    2300178: pPlane9
+    2300180: pPlane9 1
+    2300182: pPlane9 10
+    2300184: pPlane9 11
+    2300186: pPlane9 12
+    2300188: pPlane9 13
+    2300190: pPlane9 14
+    2300192: pPlane9 15
+    2300194: pPlane9 16
+    2300196: pPlane9 2
+    2300198: pPlane9 3
+    2300200: pPlane9 4
+    2300202: pPlane9 5
+    2300204: pPlane9 6
+    2300206: pPlane9 7
+    2300208: pPlane9 8
+    2300210: pPlane9 9
+    3300000: pCylinder1
+    3300002: pPlane10
+    3300004: pPlane10 1
+    3300006: pPlane10 10
+    3300008: pPlane10 11
+    3300010: pPlane10 12
+    3300012: pPlane10 13
+    3300014: pPlane10 14
+    3300016: pPlane10 15
+    3300018: pPlane10 16
+    3300020: pPlane10 2
+    3300022: pPlane10 3
+    3300024: pPlane10 4
+    3300026: pPlane10 5
+    3300028: pPlane10 6
+    3300030: pPlane10 7
+    3300032: pPlane10 8
+    3300034: pPlane10 9
+    3300036: pPlane11
+    3300038: pPlane11 1
+    3300040: pPlane11 10
+    3300042: pPlane11 11
+    3300044: pPlane11 12
+    3300046: pPlane11 13
+    3300048: pPlane11 14
+    3300050: pPlane11 15
+    3300052: pPlane11 16
+    3300054: pPlane11 2
+    3300056: pPlane11 3
+    3300058: pPlane11 4
+    3300060: pPlane11 5
+    3300062: pPlane11 6
+    3300064: pPlane11 7
+    3300066: pPlane11 8
+    3300068: pPlane11 9
+    3300070: pPlane2
+    3300072: pPlane2 1
+    3300074: pPlane2 2
+    3300076: pPlane2 3
+    3300078: pPlane3
+    3300080: pPlane3 1
+    3300082: pPlane3 2
+    3300084: pPlane3 3
+    3300086: pPlane4
+    3300088: pPlane4 1
+    3300090: pPlane4 2
+    3300092: pPlane4 3
+    3300094: pPlane5
+    3300096: pPlane5 1
+    3300098: pPlane5 2
+    3300100: pPlane5 3
+    3300102: pPlane6
+    3300104: pPlane6 1
+    3300106: pPlane6 2
+    3300108: pPlane6 3
+    3300110: pPlane7
+    3300112: pPlane7 1
+    3300114: pPlane7 10
+    3300116: pPlane7 11
+    3300118: pPlane7 12
+    3300120: pPlane7 13
+    3300122: pPlane7 14
+    3300124: pPlane7 15
+    3300126: pPlane7 16
+    3300128: pPlane7 2
+    3300130: pPlane7 3
+    3300132: pPlane7 4
+    3300134: pPlane7 5
+    3300136: pPlane7 6
+    3300138: pPlane7 7
+    3300140: pPlane7 8
+    3300142: pPlane7 9
+    3300144: pPlane8
+    3300146: pPlane8 1
+    3300148: pPlane8 10
+    3300150: pPlane8 11
+    3300152: pPlane8 12
+    3300154: pPlane8 13
+    3300156: pPlane8 14
+    3300158: pPlane8 15
+    3300160: pPlane8 16
+    3300162: pPlane8 2
+    3300164: pPlane8 3
+    3300166: pPlane8 4
+    3300168: pPlane8 5
+    3300170: pPlane8 6
+    3300172: pPlane8 7
+    3300174: pPlane8 8
+    3300176: pPlane8 9
+    3300178: pPlane9
+    3300180: pPlane9 1
+    3300182: pPlane9 10
+    3300184: pPlane9 11
+    3300186: pPlane9 12
+    3300188: pPlane9 13
+    3300190: pPlane9 14
+    3300192: pPlane9 15
+    3300194: pPlane9 16
+    3300196: pPlane9 2
+    3300198: pPlane9 3
+    3300200: pPlane9 4
+    3300202: pPlane9 5
+    3300204: pPlane9 6
+    3300206: pPlane9 7
+    3300208: pPlane9 8
+    3300210: pPlane9 9
+    4300000: pCylinder1
+    4300002: pPlane7
+    4300004: pPlane8
+    4300006: pPlane9
+    4300008: pPlane10
+    4300010: pPlane11
+    4300012: pPlane2
+    4300014: pPlane3
+    4300016: pPlane4
+    4300018: pPlane5
+    4300020: pPlane6
+    4300022: pPlane2
+    4300024: pPlane3
+    4300026: pPlane4
+    4300028: pPlane5
+    4300030: pPlane6
+    4300032: pPlane2
+    4300034: pPlane3
+    4300036: pPlane4
+    4300038: pPlane5
+    4300040: pPlane6
+    4300042: pPlane2
+    4300044: pPlane3
+    4300046: pPlane4
+    4300048: pPlane5
+    4300050: pPlane6
+    4300052: pPlane7
+    4300054: pPlane8
+    4300056: pPlane9
+    4300058: pPlane10
+    4300060: pPlane11
+    4300062: pPlane7
+    4300064: pPlane8
+    4300066: pPlane9
+    4300068: pPlane10
+    4300070: pPlane11
+    4300072: pPlane7
+    4300074: pPlane8
+    4300076: pPlane9
+    4300078: pPlane10
+    4300080: pPlane11
+    4300082: pPlane7
+    4300084: pPlane8
+    4300086: pPlane9
+    4300088: pPlane10
+    4300090: pPlane11
+    4300092: pPlane7
+    4300094: pPlane8
+    4300096: pPlane9
+    4300098: pPlane10
+    4300100: pPlane11
+    4300102: pPlane7
+    4300104: pPlane8
+    4300106: pPlane9
+    4300108: pPlane10
+    4300110: pPlane11
+    4300112: pPlane7
+    4300114: pPlane8
+    4300116: pPlane9
+    4300118: pPlane10
+    4300120: pPlane11
+    4300122: pPlane7
+    4300124: pPlane8
+    4300126: pPlane9
+    4300128: pPlane10
+    4300130: pPlane11
+    4300132: pPlane7
+    4300134: pPlane8
+    4300136: pPlane9
+    4300138: pPlane10
+    4300140: pPlane11
+    4300142: pPlane7
+    4300144: pPlane8
+    4300146: pPlane9
+    4300148: pPlane10
+    4300150: pPlane11
+    4300152: pPlane7
+    4300154: pPlane8
+    4300156: pPlane9
+    4300158: pPlane10
+    4300160: pPlane11
+    4300162: pPlane7
+    4300164: pPlane8
+    4300166: pPlane9
+    4300168: pPlane10
+    4300170: pPlane11
+    4300172: pPlane7
+    4300174: pPlane8
+    4300176: pPlane9
+    4300178: pPlane10
+    4300180: pPlane11
+    4300182: pPlane7
+    4300184: pPlane8
+    4300186: pPlane9
+    4300188: pPlane10
+    4300190: pPlane11
+    4300192: pPlane7
+    4300194: pPlane8
+    4300196: pPlane9
+    4300198: pPlane10
+    4300200: pPlane11
+    4300202: pPlane7
+    4300204: pPlane8
+    4300206: pPlane9
+    4300208: pPlane10
+    4300210: pPlane11
+    6400000: pCylinder1
+    6400002: pPlane10
+    6400004: pPlane10 1
+    6400006: pPlane10 10
+    6400008: pPlane10 11
+    6400010: pPlane10 12
+    6400012: pPlane10 13
+    6400014: pPlane10 14
+    6400016: pPlane10 15
+    6400018: pPlane10 16
+    6400020: pPlane10 2
+    6400022: pPlane10 3
+    6400024: pPlane10 4
+    6400026: pPlane10 5
+    6400028: pPlane10 6
+    6400030: pPlane10 7
+    6400032: pPlane10 8
+    6400034: pPlane10 9
+    6400036: pPlane11
+    6400038: pPlane11 1
+    6400040: pPlane11 10
+    6400042: pPlane11 11
+    6400044: pPlane11 12
+    6400046: pPlane11 13
+    6400048: pPlane11 14
+    6400050: pPlane11 15
+    6400052: pPlane11 16
+    6400054: pPlane11 2
+    6400056: pPlane11 3
+    6400058: pPlane11 4
+    6400060: pPlane11 5
+    6400062: pPlane11 6
+    6400064: pPlane11 7
+    6400066: pPlane11 8
+    6400068: pPlane11 9
+    6400070: pPlane2
+    6400072: pPlane2 1
+    6400074: pPlane2 2
+    6400076: pPlane2 3
+    6400078: pPlane3
+    6400080: pPlane3 1
+    6400082: pPlane3 2
+    6400084: pPlane3 3
+    6400086: pPlane4
+    6400088: pPlane4 1
+    6400090: pPlane4 2
+    6400092: pPlane4 3
+    6400094: pPlane5
+    6400096: pPlane5 1
+    6400098: pPlane5 2
+    6400100: pPlane5 3
+    6400102: pPlane6
+    6400104: pPlane6 1
+    6400106: pPlane6 2
+    6400108: pPlane6 3
+    6400110: pPlane7
+    6400112: pPlane7 1
+    6400114: pPlane7 10
+    6400116: pPlane7 11
+    6400118: pPlane7 12
+    6400120: pPlane7 13
+    6400122: pPlane7 14
+    6400124: pPlane7 15
+    6400126: pPlane7 16
+    6400128: pPlane7 2
+    6400130: pPlane7 3
+    6400132: pPlane7 4
+    6400134: pPlane7 5
+    6400136: pPlane7 6
+    6400138: pPlane7 7
+    6400140: pPlane7 8
+    6400142: pPlane7 9
+    6400144: pPlane8
+    6400146: pPlane8 1
+    6400148: pPlane8 10
+    6400150: pPlane8 11
+    6400152: pPlane8 12
+    6400154: pPlane8 13
+    6400156: pPlane8 14
+    6400158: pPlane8 15
+    6400160: pPlane8 16
+    6400162: pPlane8 2
+    6400164: pPlane8 3
+    6400166: pPlane8 4
+    6400168: pPlane8 5
+    6400170: pPlane8 6
+    6400172: pPlane8 7
+    6400174: pPlane8 8
+    6400176: pPlane8 9
+    6400178: pPlane9
+    6400180: pPlane9 1
+    6400182: pPlane9 10
+    6400184: pPlane9 11
+    6400186: pPlane9 12
+    6400188: pPlane9 13
+    6400190: pPlane9 14
+    6400192: pPlane9 15
+    6400194: pPlane9 16
+    6400196: pPlane9 2
+    6400198: pPlane9 3
+    6400200: pPlane9 4
+    6400202: pPlane9 5
+    6400204: pPlane9 6
+    6400206: pPlane9 7
+    6400208: pPlane9 8
+    6400210: pPlane9 9
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
