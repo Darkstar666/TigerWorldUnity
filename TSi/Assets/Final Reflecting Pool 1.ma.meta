@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: a821ab029a738a74ab7bd12c80f62ce6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bace
+    100002: Bace 1
+    100004: Bace 2
+    100006: Bace 3
+    100008: Bace 4
+    100010: Bace 5
+    100012: Bace 6
+    100014: Bace 7
+    100016: Bace 8
+    100018: Bace_Cracked
+    100020: Bace_Cracked 1
+    100022: Bace_Darkness
+    100024: Bace_Darkness 1
+    100026: back
+    100028: bottom
+    100030: Central_Pedistal
+    100032: Entrance
+    100034: //RootNode
+    100036: fluid1
+    100038: Gazibo_1
+    100040: Gazibo_2
+    100042: Gazibo_3
+    100044: Gazibo_4
+    100046: left
+    100048: Lilipad_1
+    100050: Lilipad_10
+    100052: Lilipad_11
+    100054: Lilipad_2
+    100056: Lilipad_3
+    100058: Lilipad_4
+    100060: Lilipad_5
+    100062: Lilipad_6
+    100064: Lilipad_7
+    100066: Lilipad_8
+    100068: Lilipad_9
+    100070: Lilipads
+    100072: Main_Roof_Strut
+    100074: Main_Roof_Strut 1
+    100076: Main_Roof_Strut 2
+    100078: Main_Roof_Strut 3
+    100080: Pillar_1
+    100082: Pillar_1 1
+    100084: Pillar_1 2
+    100086: Pillar_1 3
+    100088: Pillar_1 4
+    100090: Pillar_1 5
+    100092: Pillar_1 6
+    100094: Pillar_1 7
+    100096: Pillar_1 8
+    100098: Pillar_2
+    100100: Pillar_2 1
+    100102: Pillar_2 2
+    100104: Pillar_2 3
+    100106: Pillar_2 4
+    100108: Pillar_2 5
+    100110: Pillar_2 6
+    100112: Pillar_2 7
+    100114: Pillar_2 8
+    100116: Pillar_3
+    100118: Pillar_3 1
+    100120: Pillar_3 2
+    100122: Pillar_3 3
+    100124: Pillar_3 4
+    100126: Pillar_3 5
+    100128: Pillar_3 6
+    100130: Pillar_3 7
+    100132: Pillar_3 8
+    100134: Pillar_4
+    100136: Pillar_4 1
+    100138: Pillar_4 2
+    100140: Pillar_4 3
+    100142: Pillar_4 4
+    100144: Pillar_4 5
+    100146: Pillar_4 6
+    100148: Pillar_4 7
+    100150: Pillar_4 8
+    100152: Pillar_5
+    100154: Pillar_5 1
+    100156: Pillar_5 2
+    100158: Pillar_5 3
+    100160: Pillar_5 4
+    100162: Pillar_5 5
+    100164: Pillar_5 6
+    100166: Pillar_5 7
+    100168: Pillar_6
+    100170: Pillar_6 1
+    100172: Pillar_6 2
+    100174: Pillar_6 3
+    100176: Pillar_6 4
+    100178: Pillar_6 5
+    100180: Pillar_6 6
+    100182: Pillar_6 7
+    100184: Pillar_7
+    100186: Pillar_7 1
+    100188: Pillar_7 2
+    100190: Pillar_7 3
+    100192: Pillar_7 4
+    100194: Pillar_7 5
+    100196: Pillar_7 6
+    100198: Pillar_8
+    100200: Pillar_8 1
+    100202: Pillar_8 2
+    100204: Pillar_8 3
+    100206: polySurface1
+    100208: polySurface2
+    100210: Pond
+    100212: Pond_bottom
+    100214: Roof
+    100216: Roof 1
+    100218: Roof 10
+    100220: Roof 11
+    100222: Roof 12
+    100224: Roof 2
+    100226: Roof 3
+    100228: Roof 4
+    100230: Roof 5
+    100232: Roof 6
+    100234: Roof 7
+    100236: Roof 8
+    100238: Roof 9
+    100240: Roof_Strut1
+    100242: Roof_Strut1 1
+    100244: Roof_Strut1 2
+    100246: Roof_Strut1 3
+    100248: Roof_Strut1 4
+    100250: Roof_Strut2
+    100252: Roof_Strut2 1
+    100254: Roof_Strut2 2
+    100256: Roof_Strut2 3
+    100258: Roof_Strut2 4
+    100260: Roof_Strut3
+    100262: Roof_Strut3 1
+    100264: Roof_Strut3 2
+    100266: Roof_Strut3 3
+    100268: Roof_Strut3 4
+    100270: Roof_Strut4
+    100272: Roof_Strut4 1
+    100274: Roof_Strut4 2
+    100276: Roof_Strut4 3
+    100278: Roof_Strut5
+    100280: Roof_Strut5 1
+    100282: Roof_Strut5 2
+    100284: Roof_Strut5 3
+    100286: Tempol
+    100288: Walk_way_1
+    100290: Walk_way_2
+    100292: Walk_way_3
+    100294: Walk_way_4
+    100296: Wall
+    100298: Wall 1
+    100300: Wall 2
+    100302: Wall1
+    100304: Wall2
+    400000: Bace
+    400002: Bace 1
+    400004: Bace 2
+    400006: Bace 3
+    400008: Bace 4
+    400010: Bace 5
+    400012: Bace 6
+    400014: Bace 7
+    400016: Bace 8
+    400018: Bace_Cracked
+    400020: Bace_Cracked 1
+    400022: Bace_Darkness
+    400024: Bace_Darkness 1
+    400026: back
+    400028: bottom
+    400030: Central_Pedistal
+    400032: Entrance
+    400034: //RootNode
+    400036: fluid1
+    400038: Gazibo_1
+    400040: Gazibo_2
+    400042: Gazibo_3
+    400044: Gazibo_4
+    400046: left
+    400048: Lilipad_1
+    400050: Lilipad_10
+    400052: Lilipad_11
+    400054: Lilipad_2
+    400056: Lilipad_3
+    400058: Lilipad_4
+    400060: Lilipad_5
+    400062: Lilipad_6
+    400064: Lilipad_7
+    400066: Lilipad_8
+    400068: Lilipad_9
+    400070: Lilipads
+    400072: Main_Roof_Strut
+    400074: Main_Roof_Strut 1
+    400076: Main_Roof_Strut 2
+    400078: Main_Roof_Strut 3
+    400080: Pillar_1
+    400082: Pillar_1 1
+    400084: Pillar_1 2
+    400086: Pillar_1 3
+    400088: Pillar_1 4
+    400090: Pillar_1 5
+    400092: Pillar_1 6
+    400094: Pillar_1 7
+    400096: Pillar_1 8
+    400098: Pillar_2
+    400100: Pillar_2 1
+    400102: Pillar_2 2
+    400104: Pillar_2 3
+    400106: Pillar_2 4
+    400108: Pillar_2 5
+    400110: Pillar_2 6
+    400112: Pillar_2 7
+    400114: Pillar_2 8
+    400116: Pillar_3
+    400118: Pillar_3 1
+    400120: Pillar_3 2
+    400122: Pillar_3 3
+    400124: Pillar_3 4
+    400126: Pillar_3 5
+    400128: Pillar_3 6
+    400130: Pillar_3 7
+    400132: Pillar_3 8
+    400134: Pillar_4
+    400136: Pillar_4 1
+    400138: Pillar_4 2
+    400140: Pillar_4 3
+    400142: Pillar_4 4
+    400144: Pillar_4 5
+    400146: Pillar_4 6
+    400148: Pillar_4 7
+    400150: Pillar_4 8
+    400152: Pillar_5
+    400154: Pillar_5 1
+    400156: Pillar_5 2
+    400158: Pillar_5 3
+    400160: Pillar_5 4
+    400162: Pillar_5 5
+    400164: Pillar_5 6
+    400166: Pillar_5 7
+    400168: Pillar_6
+    400170: Pillar_6 1
+    400172: Pillar_6 2
+    400174: Pillar_6 3
+    400176: Pillar_6 4
+    400178: Pillar_6 5
+    400180: Pillar_6 6
+    400182: Pillar_6 7
+    400184: Pillar_7
+    400186: Pillar_7 1
+    400188: Pillar_7 2
+    400190: Pillar_7 3
+    400192: Pillar_7 4
+    400194: Pillar_7 5
+    400196: Pillar_7 6
+    400198: Pillar_8
+    400200: Pillar_8 1
+    400202: Pillar_8 2
+    400204: Pillar_8 3
+    400206: polySurface1
+    400208: polySurface2
+    400210: Pond
+    400212: Pond_bottom
+    400214: Roof
+    400216: Roof 1
+    400218: Roof 10
+    400220: Roof 11
+    400222: Roof 12
+    400224: Roof 2
+    400226: Roof 3
+    400228: Roof 4
+    400230: Roof 5
+    400232: Roof 6
+    400234: Roof 7
+    400236: Roof 8
+    400238: Roof 9
+    400240: Roof_Strut1
+    400242: Roof_Strut1 1
+    400244: Roof_Strut1 2
+    400246: Roof_Strut1 3
+    400248: Roof_Strut1 4
+    400250: Roof_Strut2
+    400252: Roof_Strut2 1
+    400254: Roof_Strut2 2
+    400256: Roof_Strut2 3
+    400258: Roof_Strut2 4
+    400260: Roof_Strut3
+    400262: Roof_Strut3 1
+    400264: Roof_Strut3 2
+    400266: Roof_Strut3 3
+    400268: Roof_Strut3 4
+    400270: Roof_Strut4
+    400272: Roof_Strut4 1
+    400274: Roof_Strut4 2
+    400276: Roof_Strut4 3
+    400278: Roof_Strut5
+    400280: Roof_Strut5 1
+    400282: Roof_Strut5 2
+    400284: Roof_Strut5 3
+    400286: Tempol
+    400288: Walk_way_1
+    400290: Walk_way_2
+    400292: Walk_way_3
+    400294: Walk_way_4
+    400296: Wall
+    400298: Wall 1
+    400300: Wall 2
+    400302: Wall1
+    400304: Wall2
+    2300000: Bace
+    2300002: Bace 1
+    2300004: Bace 2
+    2300006: Bace 3
+    2300008: Bace 4
+    2300010: Bace 5
+    2300012: Bace 6
+    2300014: Bace 7
+    2300016: Bace 8
+    2300018: Bace_Cracked
+    2300020: Bace_Cracked 1
+    2300022: Bace_Darkness
+    2300024: Bace_Darkness 1
+    2300026: Central_Pedistal
+    2300028: Lilipad_1
+    2300030: Lilipad_10
+    2300032: Lilipad_11
+    2300034: Lilipad_2
+    2300036: Lilipad_3
+    2300038: Lilipad_4
+    2300040: Lilipad_5
+    2300042: Lilipad_6
+    2300044: Lilipad_7
+    2300046: Lilipad_8
+    2300048: Lilipad_9
+    2300050: Main_Roof_Strut
+    2300052: Main_Roof_Strut 1
+    2300054: Main_Roof_Strut 2
+    2300056: Main_Roof_Strut 3
+    2300058: Pillar_1
+    2300060: Pillar_1 1
+    2300062: Pillar_1 2
+    2300064: Pillar_1 3
+    2300066: Pillar_1 4
+    2300068: Pillar_1 5
+    2300070: Pillar_1 6
+    2300072: Pillar_1 7
+    2300074: Pillar_1 8
+    2300076: Pillar_2
+    2300078: Pillar_2 1
+    2300080: Pillar_2 2
+    2300082: Pillar_2 3
+    2300084: Pillar_2 4
+    2300086: Pillar_2 5
+    2300088: Pillar_2 6
+    2300090: Pillar_2 7
+    2300092: Pillar_2 8
+    2300094: Pillar_3
+    2300096: Pillar_3 1
+    2300098: Pillar_3 2
+    2300100: Pillar_3 3
+    2300102: Pillar_3 4
+    2300104: Pillar_3 5
+    2300106: Pillar_3 6
+    2300108: Pillar_3 7
+    2300110: Pillar_3 8
+    2300112: Pillar_4
+    2300114: Pillar_4 1
+    2300116: Pillar_4 2
+    2300118: Pillar_4 3
+    2300120: Pillar_4 4
+    2300122: Pillar_4 5
+    2300124: Pillar_4 6
+    2300126: Pillar_4 7
+    2300128: Pillar_4 8
+    2300130: Pillar_5
+    2300132: Pillar_5 1
+    2300134: Pillar_5 2
+    2300136: Pillar_5 3
+    2300138: Pillar_5 4
+    2300140: Pillar_5 5
+    2300142: Pillar_5 6
+    2300144: Pillar_5 7
+    2300146: Pillar_6
+    2300148: Pillar_6 1
+    2300150: Pillar_6 2
+    2300152: Pillar_6 3
+    2300154: Pillar_6 4
+    2300156: Pillar_6 5
+    2300158: Pillar_6 6
+    2300160: Pillar_6 7
+    2300162: Pillar_7
+    2300164: Pillar_7 1
+    2300166: Pillar_7 2
+    2300168: Pillar_7 3
+    2300170: Pillar_7 4
+    2300172: Pillar_7 5
+    2300174: Pillar_7 6
+    2300176: Pillar_8
+    2300178: Pillar_8 1
+    2300180: Pillar_8 2
+    2300182: Pillar_8 3
+    2300184: polySurface1
+    2300186: polySurface2
+    2300188: Pond_bottom
+    2300190: Roof 1
+    2300192: Roof 10
+    2300194: Roof 11
+    2300196: Roof 12
+    2300198: Roof 2
+    2300200: Roof 3
+    2300202: Roof 4
+    2300204: Roof 9
+    2300206: Roof_Strut1
+    2300208: Roof_Strut1 1
+    2300210: Roof_Strut1 2
+    2300212: Roof_Strut1 3
+    2300214: Roof_Strut1 4
+    2300216: Roof_Strut2
+    2300218: Roof_Strut2 1
+    2300220: Roof_Strut2 2
+    2300222: Roof_Strut2 3
+    2300224: Roof_Strut2 4
+    2300226: Roof_Strut3
+    2300228: Roof_Strut3 1
+    2300230: Roof_Strut3 2
+    2300232: Roof_Strut3 3
+    2300234: Roof_Strut3 4
+    2300236: Roof_Strut4
+    2300238: Roof_Strut4 1
+    2300240: Roof_Strut4 2
+    2300242: Roof_Strut4 3
+    2300244: Roof_Strut5
+    2300246: Roof_Strut5 1
+    2300248: Roof_Strut5 2
+    2300250: Roof_Strut5 3
+    2300252: Wall
+    2300254: Wall 1
+    2300256: Wall 2
+    2300258: Wall1
+    2300260: Wall2
+    3300000: Bace
+    3300002: Bace 1
+    3300004: Bace 2
+    3300006: Bace 3
+    3300008: Bace 4
+    3300010: Bace 5
+    3300012: Bace 6
+    3300014: Bace 7
+    3300016: Bace 8
+    3300018: Bace_Cracked
+    3300020: Bace_Cracked 1
+    3300022: Bace_Darkness
+    3300024: Bace_Darkness 1
+    3300026: Central_Pedistal
+    3300028: Lilipad_1
+    3300030: Lilipad_10
+    3300032: Lilipad_11
+    3300034: Lilipad_2
+    3300036: Lilipad_3
+    3300038: Lilipad_4
+    3300040: Lilipad_5
+    3300042: Lilipad_6
+    3300044: Lilipad_7
+    3300046: Lilipad_8
+    3300048: Lilipad_9
+    3300050: Main_Roof_Strut
+    3300052: Main_Roof_Strut 1
+    3300054: Main_Roof_Strut 2
+    3300056: Main_Roof_Strut 3
+    3300058: Pillar_1
+    3300060: Pillar_1 1
+    3300062: Pillar_1 2
+    3300064: Pillar_1 3
+    3300066: Pillar_1 4
+    3300068: Pillar_1 5
+    3300070: Pillar_1 6
+    3300072: Pillar_1 7
+    3300074: Pillar_1 8
+    3300076: Pillar_2
+    3300078: Pillar_2 1
+    3300080: Pillar_2 2
+    3300082: Pillar_2 3
+    3300084: Pillar_2 4
+    3300086: Pillar_2 5
+    3300088: Pillar_2 6
+    3300090: Pillar_2 7
+    3300092: Pillar_2 8
+    3300094: Pillar_3
+    3300096: Pillar_3 1
+    3300098: Pillar_3 2
+    3300100: Pillar_3 3
+    3300102: Pillar_3 4
+    3300104: Pillar_3 5
+    3300106: Pillar_3 6
+    3300108: Pillar_3 7
+    3300110: Pillar_3 8
+    3300112: Pillar_4
+    3300114: Pillar_4 1
+    3300116: Pillar_4 2
+    3300118: Pillar_4 3
+    3300120: Pillar_4 4
+    3300122: Pillar_4 5
+    3300124: Pillar_4 6
+    3300126: Pillar_4 7
+    3300128: Pillar_4 8
+    3300130: Pillar_5
+    3300132: Pillar_5 1
+    3300134: Pillar_5 2
+    3300136: Pillar_5 3
+    3300138: Pillar_5 4
+    3300140: Pillar_5 5
+    3300142: Pillar_5 6
+    3300144: Pillar_5 7
+    3300146: Pillar_6
+    3300148: Pillar_6 1
+    3300150: Pillar_6 2
+    3300152: Pillar_6 3
+    3300154: Pillar_6 4
+    3300156: Pillar_6 5
+    3300158: Pillar_6 6
+    3300160: Pillar_6 7
+    3300162: Pillar_7
+    3300164: Pillar_7 1
+    3300166: Pillar_7 2
+    3300168: Pillar_7 3
+    3300170: Pillar_7 4
+    3300172: Pillar_7 5
+    3300174: Pillar_7 6
+    3300176: Pillar_8
+    3300178: Pillar_8 1
+    3300180: Pillar_8 2
+    3300182: Pillar_8 3
+    3300184: polySurface1
+    3300186: polySurface2
+    3300188: Pond_bottom
+    3300190: Roof 1
+    3300192: Roof 10
+    3300194: Roof 11
+    3300196: Roof 12
+    3300198: Roof 2
+    3300200: Roof 3
+    3300202: Roof 4
+    3300204: Roof 9
+    3300206: Roof_Strut1
+    3300208: Roof_Strut1 1
+    3300210: Roof_Strut1 2
+    3300212: Roof_Strut1 3
+    3300214: Roof_Strut1 4
+    3300216: Roof_Strut2
+    3300218: Roof_Strut2 1
+    3300220: Roof_Strut2 2
+    3300222: Roof_Strut2 3
+    3300224: Roof_Strut2 4
+    3300226: Roof_Strut3
+    3300228: Roof_Strut3 1
+    3300230: Roof_Strut3 2
+    3300232: Roof_Strut3 3
+    3300234: Roof_Strut3 4
+    3300236: Roof_Strut4
+    3300238: Roof_Strut4 1
+    3300240: Roof_Strut4 2
+    3300242: Roof_Strut4 3
+    3300244: Roof_Strut5
+    3300246: Roof_Strut5 1
+    3300248: Roof_Strut5 2
+    3300250: Roof_Strut5 3
+    3300252: Wall
+    3300254: Wall 1
+    3300256: Wall 2
+    3300258: Wall1
+    3300260: Wall2
+    4300000: Lilipad_1
+    4300002: Lilipad_2
+    4300004: Lilipad_3
+    4300006: Lilipad_4
+    4300008: Lilipad_5
+    4300010: Lilipad_6
+    4300012: Lilipad_7
+    4300014: Lilipad_8
+    4300016: Lilipad_9
+    4300018: Lilipad_10
+    4300020: Lilipad_11
+    4300022: Bace
+    4300024: Bace_Darkness
+    4300026: Bace_Cracked
+    4300028: Roof
+    4300030: Pillar_1
+    4300032: Pillar_2
+    4300034: Pillar_3
+    4300036: Pillar_4
+    4300038: Pillar_5
+    4300040: Pillar_6
+    4300042: Pillar_7
+    4300044: Pillar_8
+    4300046: Roof
+    4300048: Main_Roof_Strut
+    4300050: Roof_Strut1
+    4300052: Roof_Strut2
+    4300054: Roof_Strut3
+    4300056: Roof_Strut4
+    4300058: Roof_Strut5
+    4300060: Bace
+    4300062: Pillar_1
+    4300064: Pillar_2
+    4300066: Pillar_3
+    4300068: Pillar_4
+    4300070: Pillar_5
+    4300072: Pillar_6
+    4300074: Pillar_7
+    4300076: Wall
+    4300078: Bace
+    4300080: Bace_Darkness
+    4300082: Bace_Cracked
+    4300084: Roof
+    4300086: Pillar_1
+    4300088: Pillar_2
+    4300090: Pillar_3
+    4300092: Pillar_4
+    4300094: Pillar_5
+    4300096: Pillar_6
+    4300098: Pillar_7
+    4300100: Pillar_8
+    4300102: Roof
+    4300104: Main_Roof_Strut
+    4300106: Roof_Strut1
+    4300108: Roof_Strut2
+    4300110: Roof_Strut3
+    4300112: Roof_Strut4
+    4300114: Roof_Strut5
+    4300116: Bace
+    4300118: Pillar_1
+    4300120: Pillar_2
+    4300122: Pillar_3
+    4300124: Pillar_4
+    4300126: Pillar_5
+    4300128: Pillar_6
+    4300130: Pillar_7
+    4300132: Wall
+    4300134: Bace
+    4300136: Roof
+    4300138: Pillar_1
+    4300140: Pillar_2
+    4300142: Pillar_3
+    4300144: Pillar_4
+    4300146: Pillar_5
+    4300148: Pillar_6
+    4300150: Pillar_7
+    4300152: Pillar_8
+    4300154: Roof
+    4300156: Main_Roof_Strut
+    4300158: Roof_Strut1
+    4300160: Roof_Strut2
+    4300162: Roof_Strut3
+    4300164: Roof_Strut4
+    4300166: Roof_Strut5
+    4300168: Bace
+    4300170: Pillar_1
+    4300172: Pillar_2
+    4300174: Pillar_3
+    4300176: Pillar_4
+    4300178: Pillar_5
+    4300180: Pillar_6
+    4300182: Pillar_7
+    4300184: Wall
+    4300186: Bace
+    4300188: Roof
+    4300190: Pillar_1
+    4300192: Pillar_2
+    4300194: Pillar_3
+    4300196: Pillar_4
+    4300198: Pillar_5
+    4300200: Pillar_6
+    4300202: Pillar_7
+    4300204: Pillar_8
+    4300206: Roof
+    4300208: Main_Roof_Strut
+    4300210: Roof_Strut1
+    4300212: Roof_Strut2
+    4300214: Roof_Strut3
+    4300216: Roof_Strut4
+    4300218: Roof_Strut5
+    4300220: Bace
+    4300222: Pillar_1
+    4300224: Pillar_2
+    4300226: Pillar_3
+    4300228: Pillar_4
+    4300230: Pillar_5
+    4300232: Pillar_6
+    4300234: Wall1
+    4300236: Wall2
+    4300238: polySurface1
+    4300240: polySurface2
+    4300242: Roof_Strut1
+    4300244: Roof_Strut2
+    4300246: Roof_Strut3
+    4300248: Bace
+    4300250: Pillar_4
+    4300252: Pillar_1
+    4300254: Pillar_2
+    4300256: Pillar_3
+    4300258: Central_Pedistal
+    4300260: Pond_bottom
+    6400000: Bace
+    6400002: Bace 1
+    6400004: Bace 2
+    6400006: Bace 3
+    6400008: Bace 4
+    6400010: Bace 5
+    6400012: Bace 6
+    6400014: Bace 7
+    6400016: Bace 8
+    6400018: Bace_Cracked
+    6400020: Bace_Cracked 1
+    6400022: Bace_Darkness
+    6400024: Bace_Darkness 1
+    6400026: Central_Pedistal
+    6400028: Lilipad_1
+    6400030: Lilipad_10
+    6400032: Lilipad_11
+    6400034: Lilipad_2
+    6400036: Lilipad_3
+    6400038: Lilipad_4
+    6400040: Lilipad_5
+    6400042: Lilipad_6
+    6400044: Lilipad_7
+    6400046: Lilipad_8
+    6400048: Lilipad_9
+    6400050: Main_Roof_Strut
+    6400052: Main_Roof_Strut 1
+    6400054: Main_Roof_Strut 2
+    6400056: Main_Roof_Strut 3
+    6400058: Pillar_1
+    6400060: Pillar_1 1
+    6400062: Pillar_1 2
+    6400064: Pillar_1 3
+    6400066: Pillar_1 4
+    6400068: Pillar_1 5
+    6400070: Pillar_1 6
+    6400072: Pillar_1 7
+    6400074: Pillar_1 8
+    6400076: Pillar_2
+    6400078: Pillar_2 1
+    6400080: Pillar_2 2
+    6400082: Pillar_2 3
+    6400084: Pillar_2 4
+    6400086: Pillar_2 5
+    6400088: Pillar_2 6
+    6400090: Pillar_2 7
+    6400092: Pillar_2 8
+    6400094: Pillar_3
+    6400096: Pillar_3 1
+    6400098: Pillar_3 2
+    6400100: Pillar_3 3
+    6400102: Pillar_3 4
+    6400104: Pillar_3 5
+    6400106: Pillar_3 6
+    6400108: Pillar_3 7
+    6400110: Pillar_3 8
+    6400112: Pillar_4
+    6400114: Pillar_4 1
+    6400116: Pillar_4 2
+    6400118: Pillar_4 3
+    6400120: Pillar_4 4
+    6400122: Pillar_4 5
+    6400124: Pillar_4 6
+    6400126: Pillar_4 7
+    6400128: Pillar_4 8
+    6400130: Pillar_5
+    6400132: Pillar_5 1
+    6400134: Pillar_5 2
+    6400136: Pillar_5 3
+    6400138: Pillar_5 4
+    6400140: Pillar_5 5
+    6400142: Pillar_5 6
+    6400144: Pillar_5 7
+    6400146: Pillar_6
+    6400148: Pillar_6 1
+    6400150: Pillar_6 2
+    6400152: Pillar_6 3
+    6400154: Pillar_6 4
+    6400156: Pillar_6 5
+    6400158: Pillar_6 6
+    6400160: Pillar_6 7
+    6400162: Pillar_7
+    6400164: Pillar_7 1
+    6400166: Pillar_7 2
+    6400168: Pillar_7 3
+    6400170: Pillar_7 4
+    6400172: Pillar_7 5
+    6400174: Pillar_7 6
+    6400176: Pillar_8
+    6400178: Pillar_8 1
+    6400180: Pillar_8 2
+    6400182: Pillar_8 3
+    6400184: polySurface1
+    6400186: polySurface2
+    6400188: Pond_bottom
+    6400190: Roof 1
+    6400192: Roof 10
+    6400194: Roof 11
+    6400196: Roof 12
+    6400198: Roof 2
+    6400200: Roof 3
+    6400202: Roof 4
+    6400204: Roof 9
+    6400206: Roof_Strut1
+    6400208: Roof_Strut1 1
+    6400210: Roof_Strut1 2
+    6400212: Roof_Strut1 3
+    6400214: Roof_Strut1 4
+    6400216: Roof_Strut2
+    6400218: Roof_Strut2 1
+    6400220: Roof_Strut2 2
+    6400222: Roof_Strut2 3
+    6400224: Roof_Strut2 4
+    6400226: Roof_Strut3
+    6400228: Roof_Strut3 1
+    6400230: Roof_Strut3 2
+    6400232: Roof_Strut3 3
+    6400234: Roof_Strut3 4
+    6400236: Roof_Strut4
+    6400238: Roof_Strut4 1
+    6400240: Roof_Strut4 2
+    6400242: Roof_Strut4 3
+    6400244: Roof_Strut5
+    6400246: Roof_Strut5 1
+    6400248: Roof_Strut5 2
+    6400250: Roof_Strut5 3
+    6400252: Wall
+    6400254: Wall 1
+    6400256: Wall 2
+    6400258: Wall1
+    6400260: Wall2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
