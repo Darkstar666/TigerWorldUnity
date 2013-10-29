@@ -30,6 +30,22 @@ ModelImporter:
     100048: pCube7
     100050: pCube8
     100052: pCube9
+    100054: polySurface1
+    100056: transform1
+    100058: transform10
+    100060: transform11
+    100062: transform12
+    100064: transform13
+    100066: transform14
+    100068: transform15
+    100070: transform2
+    100072: transform3
+    100074: transform4
+    100076: transform5
+    100078: transform6
+    100080: transform7
+    100082: transform8
+    100084: transform9
     400000: LeafgroupA
     400002: LeafgroupB
     400004: LeafgroupC
@@ -57,6 +73,22 @@ ModelImporter:
     400048: pCube7
     400050: pCube8
     400052: pCube9
+    400054: polySurface1
+    400056: transform1
+    400058: transform10
+    400060: transform11
+    400062: transform12
+    400064: transform13
+    400066: transform14
+    400068: transform15
+    400070: transform2
+    400072: transform3
+    400074: transform4
+    400076: transform5
+    400078: transform6
+    400080: transform7
+    400082: transform8
+    400084: transform9
     2300000: Lotus_Roots:Group10877
     2300002: Lotus_Roots:Group16016
     2300004: Lotus_Roots:Group3550
@@ -77,6 +109,7 @@ ModelImporter:
     2300034: pCube7
     2300036: pCube8
     2300038: pCube9
+    2300040: polySurface1
     3300000: Lotus_Roots:Group10877
     3300002: Lotus_Roots:Group16016
     3300004: Lotus_Roots:Group3550
@@ -97,6 +130,7 @@ ModelImporter:
     3300034: pCube7
     3300036: pCube8
     3300038: pCube9
+    3300040: polySurface1
     4300000: Lotus_Roots:Group16016
     4300002: Lotus_Roots:Group60228
     4300004: Lotus_Roots:Group3550
@@ -117,6 +151,7 @@ ModelImporter:
     4300034: pCube16
     4300036: pCube17
     4300038: pCube18
+    4300040: polySurface1
     6400000: Lotus_Roots:Group10877
     6400002: Lotus_Roots:Group16016
     6400004: Lotus_Roots:Group3550
@@ -137,6 +172,7 @@ ModelImporter:
     6400034: pCube7
     6400036: pCube8
     6400038: pCube9
+    6400040: polySurface1
     9500000: //RootNode
   materials:
     importMaterials: 1

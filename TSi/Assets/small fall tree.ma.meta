@@ -164,6 +164,7 @@ ModelImporter:
     100316: pPlane7 9
     100318: //RootNode
     100320: Trunk
+    100322: polySurface1
     400000: ambientLight1
     400002: Branches
     400004: directionalLight1
@@ -325,6 +326,7 @@ ModelImporter:
     400316: pPlane7 9
     400318: //RootNode
     400320: Trunk
+    400322: polySurface1
     2300000: pCylinder2
     2300002: pCylinder3
     2300004: pCylinder4
@@ -444,6 +446,7 @@ ModelImporter:
     2300232: pPlane7 8
     2300234: pPlane7 9
     2300236: Trunk
+    2300238: polySurface1
     3300000: pCylinder2
     3300002: pCylinder3
     3300004: pCylinder4
@@ -563,6 +566,7 @@ ModelImporter:
     3300232: pPlane7 8
     3300234: pPlane7 9
     3300236: Trunk
+    3300238: polySurface1
     4300000: Trunk
     4300002: pCylinder2
     4300004: pCylinder3
@@ -682,6 +686,7 @@ ModelImporter:
     4300232: pPlane5
     4300234: pPlane6
     4300236: pPlane7
+    4300238: polySurface1
     6400000: pCylinder2
     6400002: pCylinder3
     6400004: pCylinder4
@@ -801,6 +806,7 @@ ModelImporter:
     6400232: pPlane7 8
     6400234: pPlane7 9
     6400236: Trunk
+    6400238: polySurface1
     9500000: //RootNode
   materials:
     importMaterials: 1
