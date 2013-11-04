@@ -1,6 +1,10 @@
 //Maya ASCII 2014 scene
 //Name: OrbandCrystal.ma
+<<<<<<< HEAD
 //Last modified: Tue, Oct 29, 2013 10:28:09 AM
+=======
+//Last modified: Tue, Oct 29, 2013 11:42:50 AM
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 //Codeset: 1252
 requires maya "2014";
 requires -nodeType "mentalrayFramebuffer" -nodeType "mentalrayOutputPass" -nodeType "mentalrayRenderPass"
@@ -90,13 +94,21 @@ fileInfo "osv" "Microsoft Windows 7 Business Edition, 64-bit Windows 7 Service P
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
+<<<<<<< HEAD
 	setAttr ".t" -type "double3" -25.6540442317418 19.271069099093701 6.171348254177266 ;
+=======
+	setAttr ".t" -type "double3" -31.820101338773362 22.361272582408517 8.9166537534782204 ;
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 	setAttr ".r" -type "double3" -24.600000000007455 -66.000000000000441 3.9098452716378901e-015 ;
 	setAttr ".rpt" -type "double3" 1.2656439580731942e-012 2.1240482693636756e-013 2.6167242968852387e-012 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
+<<<<<<< HEAD
 	setAttr ".coi" 40.22181726678582;
+=======
+	setAttr ".coi" 47.645180392752259;
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -1434,6 +1446,7 @@ createNode materialInfo -n "materialInfo1";
 createNode shadingEngine -n "fluidShape1SG";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
+<<<<<<< HEAD
 createNode container -n "FireAsset";
 	addAttr -ci true -h true -sn "aal" -ln "attributeAliasList" -dt "attributeAlias";
 	addAttr -ci true -sn "nts" -ln "notes" -dt "string";
@@ -1457,6 +1470,8 @@ createNode container -n "FireAsset";
 		,"exampleParticleEmitter","publishedNodeInfo[3]","exampleFluidEmitter","publishedNodeInfo[4]"
 		} ;
 	setAttr ".nts" -type "string" "Fluid and nParticle effect - Applying this effect to a surface in the scene creates fluid and particle emitters for the surface, and connects them to the fireFluid and sparksParticles in this scene.";
+=======
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 createNode polySphere -n "polySphere1";
 createNode particleSamplerInfo -n "particleSamplerInfo1";
 createNode animCurveTU -n "emitter1_rate";
@@ -1696,10 +1711,13 @@ createNode shadingEngine -n "Fire_fluidShape1SG";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo3";
+<<<<<<< HEAD
 createNode hyperLayout -n "Fire_hyperLayout1";
 	setAttr ".ihi" 0;
 	setAttr -s 12 ".hyp";
 	setAttr ".anf" yes;
+=======
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 createNode shadingEngine -n "nParticleCloudSE";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
@@ -1726,12 +1744,15 @@ createNode animCurveUU -n "fireFluidShape_opacity_2__opacity_FloatValue";
 	setAttr ".tan" 10;
 	setAttr ".wgt" no;
 	setAttr ".ktv[0]"  0.25 0;
+<<<<<<< HEAD
 createNode hsvToRgb -n "hsvToRgb1";
 	setAttr ".arp" 2;
 createNode hsvToRgb -n "hsvToRgb2";
 	setAttr ".arp" 2;
 createNode hsvToRgb -n "hsvToRgb3";
 	setAttr ".arp" 2;
+=======
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 createNode shadingEngine -n "fluidShape2SG";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
@@ -2399,7 +2420,11 @@ select -ne :defaultTextureList1;
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderUtilityList1;
+<<<<<<< HEAD
 	setAttr -s 20 ".u";
+=======
+	setAttr -s 17 ".u";
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 select -ne :defaultRenderingList1;
 select -ne :renderGlobalsList1;
 select -ne :defaultRenderGlobals;
@@ -2660,11 +2685,15 @@ connectAttr "place2dTexture2.vc1" "file2.vc1";
 connectAttr "place2dTexture2.o" "file2.uv";
 connectAttr "place2dTexture2.ofs" "file2.fs";
 connectAttr "fluidShape1SG.msg" "materialInfo1.sg";
+<<<<<<< HEAD
 connectAttr "Fire_hyperLayout1.msg" "FireAsset.hl";
 connectAttr "Fire_fluidShape1SG.msg" "materialInfo3.sg";
 connectAttr "hsvToRgb2.msg" "Fire_hyperLayout1.hyp[57].dn";
 connectAttr "hsvToRgb1.msg" "Fire_hyperLayout1.hyp[58].dn";
 connectAttr "hsvToRgb3.msg" "Fire_hyperLayout1.hyp[59].dn";
+=======
+connectAttr "Fire_fluidShape1SG.msg" "materialInfo3.sg";
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 connectAttr "npCloudBlinn.oc" "nParticleCloudSE.ss";
 connectAttr "npCloudVolume.oi" "nParticleCloudSE.vs";
 connectAttr "nParticleCloudSE.msg" "materialInfo4.sg";
@@ -3155,9 +3184,12 @@ connectAttr "Testing:Tree:place2dTexture1.msg" ":defaultRenderUtilityList1.u" -n
 connectAttr "Testing:Tree:place2dTexture2.msg" ":defaultRenderUtilityList1.u" -na
 		;
 connectAttr "place2dTexture2.msg" ":defaultRenderUtilityList1.u" -na;
+<<<<<<< HEAD
 connectAttr "hsvToRgb1.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "hsvToRgb2.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "hsvToRgb3.msg" ":defaultRenderUtilityList1.u" -na;
+=======
+>>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 connectAttr "place2dTexture3.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "place2dTexture4.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "place2dTexture5.msg" ":defaultRenderUtilityList1.u" -na;

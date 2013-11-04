@@ -28,6 +28,14 @@ ModelImporter:
     100044: pPyramid8
     100046: pPyramid9
     100048: Small_crystal_group
+    100050: polySurface1
+    100052: transform1
+    100054: transform2
+    100056: transform3
+    100058: transform4
+    100060: transform5
+    100062: transform6
+    100064: transform7
     400000: ambientLight1
     400002: begginning_crystal:pPyramid1
     400004: Bottom
@@ -53,6 +61,14 @@ ModelImporter:
     400044: pPyramid8
     400046: pPyramid9
     400048: Small_crystal_group
+    400050: polySurface1
+    400052: transform1
+    400054: transform2
+    400056: transform3
+    400058: transform4
+    400060: transform5
+    400062: transform6
+    400064: transform7
     2300000: begginning_crystal:pPyramid1
     2300002: Bottom
     2300004: pPyramid1
@@ -72,6 +88,7 @@ ModelImporter:
     2300032: pPyramid7
     2300034: pPyramid8
     2300036: pPyramid9
+    2300038: polySurface1
     3300000: begginning_crystal:pPyramid1
     3300002: Bottom
     3300004: pPyramid1
@@ -91,6 +108,7 @@ ModelImporter:
     3300032: pPyramid7
     3300034: pPyramid8
     3300036: pPyramid9
+    3300038: polySurface1
     4300000: begginning_crystal:pPyramid1
     4300002: pPyramid1
     4300004: pPyramid2
@@ -110,6 +128,7 @@ ModelImporter:
     4300032: pPyramid14
     4300034: pPyramid16
     4300036: pPyramid17
+    4300038: polySurface1
     9500000: //RootNode
   materials:
     importMaterials: 1

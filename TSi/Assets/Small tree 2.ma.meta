@@ -131,6 +131,112 @@ ModelImporter:
     100250: pPlane9 8
     100252: pPlane9 9
     100254: //RootNode
+    100256: polySurface1
+    100258: transform1
+    100260: transform10
+    100262: transform100
+    100264: transform101
+    100266: transform102
+    100268: transform103
+    100270: transform104
+    100272: transform105
+    100274: transform11
+    100276: transform12
+    100278: transform13
+    100280: transform14
+    100282: transform15
+    100284: transform16
+    100286: transform17
+    100288: transform18
+    100290: transform19
+    100292: transform2
+    100294: transform20
+    100296: transform21
+    100298: transform22
+    100300: transform23
+    100302: transform24
+    100304: transform25
+    100306: transform26
+    100308: transform27
+    100310: transform28
+    100312: transform29
+    100314: transform3
+    100316: transform30
+    100318: transform31
+    100320: transform32
+    100322: transform33
+    100324: transform34
+    100326: transform35
+    100328: transform36
+    100330: transform37
+    100332: transform38
+    100334: transform39
+    100336: transform4
+    100338: transform40
+    100340: transform41
+    100342: transform42
+    100344: transform43
+    100346: transform44
+    100348: transform45
+    100350: transform46
+    100352: transform47
+    100354: transform48
+    100356: transform49
+    100358: transform5
+    100360: transform50
+    100362: transform51
+    100364: transform52
+    100366: transform53
+    100368: transform54
+    100370: transform55
+    100372: transform56
+    100374: transform57
+    100376: transform58
+    100378: transform59
+    100380: transform6
+    100382: transform60
+    100384: transform61
+    100386: transform62
+    100388: transform63
+    100390: transform64
+    100392: transform65
+    100394: transform66
+    100396: transform67
+    100398: transform68
+    100400: transform69
+    100402: transform7
+    100404: transform70
+    100406: transform71
+    100408: transform72
+    100410: transform73
+    100412: transform74
+    100414: transform75
+    100416: transform76
+    100418: transform77
+    100420: transform78
+    100422: transform79
+    100424: transform8
+    100426: transform80
+    100428: transform81
+    100430: transform82
+    100432: transform83
+    100434: transform84
+    100436: transform85
+    100438: transform86
+    100440: transform87
+    100442: transform88
+    100444: transform89
+    100446: transform9
+    100448: transform90
+    100450: transform91
+    100452: transform92
+    100454: transform93
+    100456: transform94
+    100458: transform95
+    100460: transform96
+    100462: transform97
+    100464: transform98
+    100466: transform99
     400000: group1
     400002: group10
     400004: group11
@@ -259,6 +365,112 @@ ModelImporter:
     400250: pPlane9 8
     400252: pPlane9 9
     400254: //RootNode
+    400256: polySurface1
+    400258: transform1
+    400260: transform10
+    400262: transform100
+    400264: transform101
+    400266: transform102
+    400268: transform103
+    400270: transform104
+    400272: transform105
+    400274: transform11
+    400276: transform12
+    400278: transform13
+    400280: transform14
+    400282: transform15
+    400284: transform16
+    400286: transform17
+    400288: transform18
+    400290: transform19
+    400292: transform2
+    400294: transform20
+    400296: transform21
+    400298: transform22
+    400300: transform23
+    400302: transform24
+    400304: transform25
+    400306: transform26
+    400308: transform27
+    400310: transform28
+    400312: transform29
+    400314: transform3
+    400316: transform30
+    400318: transform31
+    400320: transform32
+    400322: transform33
+    400324: transform34
+    400326: transform35
+    400328: transform36
+    400330: transform37
+    400332: transform38
+    400334: transform39
+    400336: transform4
+    400338: transform40
+    400340: transform41
+    400342: transform42
+    400344: transform43
+    400346: transform44
+    400348: transform45
+    400350: transform46
+    400352: transform47
+    400354: transform48
+    400356: transform49
+    400358: transform5
+    400360: transform50
+    400362: transform51
+    400364: transform52
+    400366: transform53
+    400368: transform54
+    400370: transform55
+    400372: transform56
+    400374: transform57
+    400376: transform58
+    400378: transform59
+    400380: transform6
+    400382: transform60
+    400384: transform61
+    400386: transform62
+    400388: transform63
+    400390: transform64
+    400392: transform65
+    400394: transform66
+    400396: transform67
+    400398: transform68
+    400400: transform69
+    400402: transform7
+    400404: transform70
+    400406: transform71
+    400408: transform72
+    400410: transform73
+    400412: transform74
+    400414: transform75
+    400416: transform76
+    400418: transform77
+    400420: transform78
+    400422: transform79
+    400424: transform8
+    400426: transform80
+    400428: transform81
+    400430: transform82
+    400432: transform83
+    400434: transform84
+    400436: transform85
+    400438: transform86
+    400440: transform87
+    400442: transform88
+    400444: transform89
+    400446: transform9
+    400448: transform90
+    400450: transform91
+    400452: transform92
+    400454: transform93
+    400456: transform94
+    400458: transform95
+    400460: transform96
+    400462: transform97
+    400464: transform98
+    400466: transform99
     2300000: pCylinder1
     2300002: pPlane10
     2300004: pPlane10 1
@@ -365,6 +577,7 @@ ModelImporter:
     2300206: pPlane9 7
     2300208: pPlane9 8
     2300210: pPlane9 9
+    2300212: polySurface1
     3300000: pCylinder1
     3300002: pPlane10
     3300004: pPlane10 1
@@ -471,6 +684,7 @@ ModelImporter:
     3300206: pPlane9 7
     3300208: pPlane9 8
     3300210: pPlane9 9
+    3300212: polySurface1
     4300000: pCylinder1
     4300002: pPlane7
     4300004: pPlane8
@@ -577,6 +791,7 @@ ModelImporter:
     4300206: pPlane9
     4300208: pPlane10
     4300210: pPlane11
+    4300212: polySurface1
     6400000: pCylinder1
     6400002: pPlane10
     6400004: pPlane10 1
@@ -683,6 +898,7 @@ ModelImporter:
     6400206: pPlane9 7
     6400208: pPlane9 8
     6400210: pPlane9 9
+    6400212: polySurface1
     9500000: //RootNode
   materials:
     importMaterials: 1
