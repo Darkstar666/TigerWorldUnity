@@ -46,6 +46,8 @@ ModelImporter:
     100080: transform7
     100082: transform8
     100084: transform9
+    100086: directionalLight1
+    100088: pPlane1
     400000: LeafgroupA
     400002: LeafgroupB
     400004: LeafgroupC
@@ -89,6 +91,8 @@ ModelImporter:
     400080: transform7
     400082: transform8
     400084: transform9
+    400086: directionalLight1
+    400088: pPlane1
     2300000: Lotus_Roots:Group10877
     2300002: Lotus_Roots:Group16016
     2300004: Lotus_Roots:Group3550
@@ -110,6 +114,7 @@ ModelImporter:
     2300036: pCube8
     2300038: pCube9
     2300040: polySurface1
+    2300042: pPlane1
     3300000: Lotus_Roots:Group10877
     3300002: Lotus_Roots:Group16016
     3300004: Lotus_Roots:Group3550
@@ -131,6 +136,7 @@ ModelImporter:
     3300036: pCube8
     3300038: pCube9
     3300040: polySurface1
+    3300042: pPlane1
     4300000: Lotus_Roots:Group16016
     4300002: Lotus_Roots:Group60228
     4300004: Lotus_Roots:Group3550
@@ -152,6 +158,7 @@ ModelImporter:
     4300036: pCube17
     4300038: pCube18
     4300040: polySurface1
+    4300042: pPlane1
     6400000: Lotus_Roots:Group10877
     6400002: Lotus_Roots:Group16016
     6400004: Lotus_Roots:Group3550
@@ -173,6 +180,7 @@ ModelImporter:
     6400036: pCube8
     6400038: pCube9
     6400040: polySurface1
+    6400042: pPlane1
     9500000: //RootNode
   materials:
     importMaterials: 1
