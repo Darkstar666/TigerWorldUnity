@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: e62ff34632e81f542bc471cd24ce93ad
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Buddha
+    100002: //RootNode
+    100004: Buddha_Statue:Buddha_full_export_3:Group1
+    100006: Buddha_Statue:Buddha_full_export_3:Group2
+    100008: Buddha_Statue:Buddha_full_export_3:Group3
+    100010: Buddha_Statue:Buddha_full_export_3:Group4
+    100012: Buddha_Statue:Buddha_full_export_3:Group5
+    100014: Buddha_Statue:Buddha_full_export_3:Group6
+    100016: Buddha_Statue:Buddha_full_export_3:Group7
+    100018: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    100020: Buddha_Statue:directionalLight1
+    100022: Buddha_Statue:Ears
+    100024: Buddha_Statue:ZBrush_defualt_group
+    100026: Collumn
+    100028: Collumn1
+    100030: Collumns
+    100032: Floor
+    100034: pCube2
+    100036: pCube2 1
+    100038: pCube3
+    100040: pCube3 1
+    100042: pCylinder1
+    100044: pCylinder1 1
+    100046: Roof
+    400000: Buddha
+    400002: //RootNode
+    400004: Buddha_Statue:Buddha_full_export_3:Group1
+    400006: Buddha_Statue:Buddha_full_export_3:Group2
+    400008: Buddha_Statue:Buddha_full_export_3:Group3
+    400010: Buddha_Statue:Buddha_full_export_3:Group4
+    400012: Buddha_Statue:Buddha_full_export_3:Group5
+    400014: Buddha_Statue:Buddha_full_export_3:Group6
+    400016: Buddha_Statue:Buddha_full_export_3:Group7
+    400018: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    400020: Buddha_Statue:directionalLight1
+    400022: Buddha_Statue:Ears
+    400024: Buddha_Statue:ZBrush_defualt_group
+    400026: Collumn
+    400028: Collumn1
+    400030: Collumns
+    400032: Floor
+    400034: pCube2
+    400036: pCube2 1
+    400038: pCube3
+    400040: pCube3 1
+    400042: pCylinder1
+    400044: pCylinder1 1
+    400046: Roof
+    2300000: Buddha_Statue:Buddha_full_export_3:Group1
+    2300002: Buddha_Statue:Buddha_full_export_3:Group2
+    2300004: Buddha_Statue:Buddha_full_export_3:Group3
+    2300006: Buddha_Statue:Buddha_full_export_3:Group4
+    2300008: Buddha_Statue:Buddha_full_export_3:Group5
+    2300010: Buddha_Statue:Buddha_full_export_3:Group6
+    2300012: Buddha_Statue:Buddha_full_export_3:Group7
+    2300014: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    2300016: Buddha_Statue:ZBrush_defualt_group
+    2300018: Floor
+    2300020: pCube2
+    2300022: pCube2 1
+    2300024: pCube3
+    2300026: pCube3 1
+    2300028: pCylinder1
+    2300030: pCylinder1 1
+    2300032: Roof
+    3300000: Buddha_Statue:Buddha_full_export_3:Group1
+    3300002: Buddha_Statue:Buddha_full_export_3:Group2
+    3300004: Buddha_Statue:Buddha_full_export_3:Group3
+    3300006: Buddha_Statue:Buddha_full_export_3:Group4
+    3300008: Buddha_Statue:Buddha_full_export_3:Group5
+    3300010: Buddha_Statue:Buddha_full_export_3:Group6
+    3300012: Buddha_Statue:Buddha_full_export_3:Group7
+    3300014: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    3300016: Buddha_Statue:ZBrush_defualt_group
+    3300018: Floor
+    3300020: pCube2
+    3300022: pCube2 1
+    3300024: pCube3
+    3300026: pCube3 1
+    3300028: pCylinder1
+    3300030: pCylinder1 1
+    3300032: Roof
+    4300000: Roof
+    4300002: Floor
+    4300004: Buddha_Statue:Buddha_full_export_3:Group2
+    4300006: Buddha_Statue:Buddha_full_export_3:Group3
+    4300008: Buddha_Statue:Buddha_full_export_3:Group4
+    4300010: Buddha_Statue:Buddha_full_export_3:Group5
+    4300012: Buddha_Statue:Buddha_full_export_3:Group6
+    4300014: Buddha_Statue:Buddha_full_export_3:Group7
+    4300016: Buddha_Statue:Buddha_full_export_3:Group1
+    4300018: Buddha_Statue:ZBrush_defualt_group
+    4300020: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    4300022: pCylinder1
+    4300024: pCube2
+    4300026: pCube3
+    4300028: pCylinder1
+    4300030: pCube2
+    4300032: pCube3
+    6400000: Buddha_Statue:Buddha_full_export_3:Group1
+    6400002: Buddha_Statue:Buddha_full_export_3:Group2
+    6400004: Buddha_Statue:Buddha_full_export_3:Group3
+    6400006: Buddha_Statue:Buddha_full_export_3:Group4
+    6400008: Buddha_Statue:Buddha_full_export_3:Group5
+    6400010: Buddha_Statue:Buddha_full_export_3:Group6
+    6400012: Buddha_Statue:Buddha_full_export_3:Group7
+    6400014: Buddha_Statue:Buddhas_ear:ZBrush_defualt_group
+    6400016: Buddha_Statue:ZBrush_defualt_group
+    6400018: Floor
+    6400020: pCube2
+    6400022: pCube2 1
+    6400024: pCube3
+    6400026: pCube3 1
+    6400028: pCylinder1
+    6400030: pCylinder1 1
+    6400032: Roof
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
