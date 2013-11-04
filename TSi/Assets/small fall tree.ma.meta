@@ -165,6 +165,923 @@ ModelImporter:
     100318: //RootNode
     100320: Trunk
     100322: polySurface1
+    100324: Cap_1
+    100326: Cap_1 1
+    100328: Cap_1 2
+    100330: Cap_1 3
+    100332: Cap_1 4
+    100334: Cap_1 5
+    100336: Cap_10
+    100338: Cap_10 1
+    100340: Cap_10 2
+    100342: Cap_10 3
+    100344: Cap_10 4
+    100346: Cap_10 5
+    100348: Cap_11
+    100350: Cap_11 1
+    100352: Cap_11 2
+    100354: Cap_11 3
+    100356: Cap_11 4
+    100358: Cap_11 5
+    100360: Cap_12
+    100362: Cap_12 1
+    100364: Cap_12 2
+    100366: Cap_12 3
+    100368: Cap_12 4
+    100370: Cap_12 5
+    100372: Cap_13
+    100374: Cap_13 1
+    100376: Cap_13 2
+    100378: Cap_13 3
+    100380: Cap_13 4
+    100382: Cap_13 5
+    100384: Cap_14
+    100386: Cap_14 1
+    100388: Cap_14 2
+    100390: Cap_14 3
+    100392: Cap_14 4
+    100394: Cap_14 5
+    100396: Cap_15
+    100398: Cap_15 1
+    100400: Cap_15 2
+    100402: Cap_15 3
+    100404: Cap_15 4
+    100406: Cap_15 5
+    100408: Cap_16
+    100410: Cap_16 1
+    100412: Cap_16 2
+    100414: Cap_16 3
+    100416: Cap_16 4
+    100418: Cap_16 5
+    100420: Cap_2
+    100422: Cap_2 1
+    100424: Cap_2 2
+    100426: Cap_2 3
+    100428: Cap_2 4
+    100430: Cap_2 5
+    100432: Cap_3
+    100434: Cap_3 1
+    100436: Cap_3 2
+    100438: Cap_3 3
+    100440: Cap_3 4
+    100442: Cap_3 5
+    100444: Cap_4
+    100446: Cap_4 1
+    100448: Cap_4 2
+    100450: Cap_4 3
+    100452: Cap_4 4
+    100454: Cap_4 5
+    100456: Cap_5
+    100458: Cap_5 1
+    100460: Cap_5 2
+    100462: Cap_5 3
+    100464: Cap_5 4
+    100466: Cap_5 5
+    100468: Cap_6
+    100470: Cap_6 1
+    100472: Cap_6 2
+    100474: Cap_6 3
+    100476: Cap_6 4
+    100478: Cap_6 5
+    100480: Cap_7
+    100482: Cap_7 1
+    100484: Cap_7 2
+    100486: Cap_7 3
+    100488: Cap_7 4
+    100490: Cap_7 5
+    100492: Cap_8
+    100494: Cap_8 1
+    100496: Cap_8 2
+    100498: Cap_8 3
+    100500: Cap_8 4
+    100502: Cap_8 5
+    100504: Cap_9
+    100506: Cap_9 1
+    100508: Cap_9 2
+    100510: Cap_9 3
+    100512: Cap_9 4
+    100514: Cap_9 5
+    100516: Final_JPan_Gate:Cap_1
+    100518: Final_JPan_Gate:Cap_10
+    100520: Final_JPan_Gate:Cap_11
+    100522: Final_JPan_Gate:Cap_12
+    100524: Final_JPan_Gate:Cap_13
+    100526: Final_JPan_Gate:Cap_14
+    100528: Final_JPan_Gate:Cap_15
+    100530: Final_JPan_Gate:Cap_16
+    100532: Final_JPan_Gate:Cap_2
+    100534: Final_JPan_Gate:Cap_3
+    100536: Final_JPan_Gate:Cap_4
+    100538: Final_JPan_Gate:Cap_5
+    100540: Final_JPan_Gate:Cap_6
+    100542: Final_JPan_Gate:Cap_7
+    100544: Final_JPan_Gate:Cap_8
+    100546: Final_JPan_Gate:Cap_9
+    100548: Final_JPan_Gate:Gateway
+    100550: Final_JPan_Gate:Hanger
+    100552: Final_JPan_Gate:Hanger 1
+    100554: Final_JPan_Gate:Hanging_Lantern1
+    100556: Final_JPan_Gate:Hanging_Lantern2
+    100558: Final_JPan_Gate:Hook
+    100560: Final_JPan_Gate:Hook 1
+    100562: Final_JPan_Gate:Hook_Bace
+    100564: Final_JPan_Gate:Hook_Bace 1
+    100566: Final_JPan_Gate:Hook_Support
+    100568: Final_JPan_Gate:Hook_Support 1
+    100570: Final_JPan_Gate:JPan_Gateway
+    100572: Final_JPan_Gate:Lantern
+    100574: Final_JPan_Gate:Lantern 1
+    100576: Final_JPan_Gate:Lantern_Rope1
+    100578: Final_JPan_Gate:Lantern_Rope1 1
+    100580: Final_JPan_Gate:Left_Support
+    100582: Final_JPan_Gate:Loop
+    100584: Final_JPan_Gate:Loop 1
+    100586: Final_JPan_Gate:Paper
+    100588: Final_JPan_Gate:Paper 1
+    100590: Final_JPan_Gate:pCube1
+    100592: Final_JPan_Gate:pCube1 1
+    100594: Final_JPan_Gate:pCube1 2
+    100596: Final_JPan_Gate:pCube1 3
+    100598: Final_JPan_Gate:pCube1 4
+    100600: Final_JPan_Gate:pCube2
+    100602: Final_JPan_Gate:pCube2 1
+    100604: Final_JPan_Gate:pCube2 2
+    100606: Final_JPan_Gate:pCube2 3
+    100608: Final_JPan_Gate:pCube2 4
+    100610: Final_JPan_Gate:pCube28
+    100612: Final_JPan_Gate:pCube29
+    100614: Final_JPan_Gate:pCube3
+    100616: Final_JPan_Gate:pCube3 1
+    100618: Final_JPan_Gate:pCube3 2
+    100620: Final_JPan_Gate:pCube3 3
+    100622: Final_JPan_Gate:pCube3 4
+    100624: Final_JPan_Gate:pCube30
+    100626: Final_JPan_Gate:pCube31
+    100628: Final_JPan_Gate:pCube4
+    100630: Final_JPan_Gate:pCube4 1
+    100632: Final_JPan_Gate:pCube4 2
+    100634: Final_JPan_Gate:pCube4 3
+    100636: Final_JPan_Gate:pCube4 4
+    100638: Final_JPan_Gate:pCube5
+    100640: Final_JPan_Gate:pCube5 1
+    100642: Final_JPan_Gate:pCylinder1
+    100644: Final_JPan_Gate:pCylinder1 1
+    100646: Final_JPan_Gate:pCylinder1 2
+    100648: Final_JPan_Gate:pCylinder1 3
+    100650: Final_JPan_Gate:pCylinder1 4
+    100652: Final_JPan_Gate:Primary_Pillar_1
+    100654: Final_JPan_Gate:Primary_Pillar_2
+    100656: Final_JPan_Gate:Primary_Strut
+    100658: Final_JPan_Gate:Primary_Support
+    100660: Final_JPan_Gate:pSphere1
+    100662: Final_JPan_Gate:pSphere1 1
+    100664: Final_JPan_Gate:pSphere2
+    100666: Final_JPan_Gate:pSphere2 1
+    100668: Final_JPan_Gate:pSphere3
+    100670: Final_JPan_Gate:pSphere3 1
+    100672: Final_JPan_Gate:Right_Support
+    100674: Final_JPan_Gate:Roof
+    100676: Final_JPan_Gate:Rope1
+    100678: Final_JPan_Gate:Rope1 1
+    100680: Final_JPan_Gate:Rope_1
+    100682: Final_JPan_Gate:Rope_1 1
+    100684: Final_JPan_Gate:Rope_2
+    100686: Final_JPan_Gate:Rope_2 1
+    100688: Final_JPan_Gate:Scroll_1
+    100690: Final_JPan_Gate:Scroll_2
+    100692: Final_JPan_Gate:Scroll_Container
+    100694: Final_JPan_Gate:Scroll_Container 1
+    100696: Final_JPan_Gate:Secondary_Pillar_1
+    100698: Final_JPan_Gate:Secondary_Pillar_2
+    100700: Final_JPan_Gate:Secondary_Pillar_3
+    100702: Final_JPan_Gate:Secondary_Pillar_4
+    100704: Final_JPan_Gate:Secondary_Pillar_Top_1
+    100706: Final_JPan_Gate:Secondary_Pillar_Top_2
+    100708: Final_JPan_Gate:Secondary_Pillar_Top_3
+    100710: Final_JPan_Gate:Secondary_Pillar_Top_4
+    100712: Final_JPan_Gate:Secondary_Strut_1
+    100714: Final_JPan_Gate:Secondary_Strut_2
+    100716: Final_JPan_Gate:Secondary_Strut_3
+    100718: Final_JPan_Gate:Secondary_Strut_4
+    100720: Final_JPan_Gate:Tassle_1
+    100722: Final_JPan_Gate:Tassle_2
+    100724: Final_JPan_Gate:Tassle_3
+    100726: Final_JPan_Gate:Tassle_4
+    100728: Final_JPan_Gate:Tassle_5
+    100730: Final_Reflecting_Pool:Bace
+    100732: Final_Reflecting_Pool:Bace 1
+    100734: Final_Reflecting_Pool:Bace 2
+    100736: Final_Reflecting_Pool:Bace 3
+    100738: Final_Reflecting_Pool:Bace 4
+    100740: Final_Reflecting_Pool:Bace 5
+    100742: Final_Reflecting_Pool:Bace 6
+    100744: Final_Reflecting_Pool:Bace 7
+    100746: Final_Reflecting_Pool:Bace 8
+    100748: Final_Reflecting_Pool:Bace_Cracked
+    100750: Final_Reflecting_Pool:Bace_Cracked 1
+    100752: Final_Reflecting_Pool:Bace_Darkness
+    100754: Final_Reflecting_Pool:Bace_Darkness 1
+    100756: Final_Reflecting_Pool:Central_Pedistal
+    100758: Final_Reflecting_Pool:Entrance
+    100760: Final_Reflecting_Pool:fluid1
+    100762: Final_Reflecting_Pool:Gazibo_1
+    100764: Final_Reflecting_Pool:Gazibo_2
+    100766: Final_Reflecting_Pool:Gazibo_3
+    100768: Final_Reflecting_Pool:Gazibo_4
+    100770: Final_Reflecting_Pool:Lilipad_1
+    100772: Final_Reflecting_Pool:Lilipad_10
+    100774: Final_Reflecting_Pool:Lilipad_11
+    100776: Final_Reflecting_Pool:Lilipad_2
+    100778: Final_Reflecting_Pool:Lilipad_3
+    100780: Final_Reflecting_Pool:Lilipad_4
+    100782: Final_Reflecting_Pool:Lilipad_5
+    100784: Final_Reflecting_Pool:Lilipad_6
+    100786: Final_Reflecting_Pool:Lilipad_7
+    100788: Final_Reflecting_Pool:Lilipad_8
+    100790: Final_Reflecting_Pool:Lilipad_9
+    100792: Final_Reflecting_Pool:Lilipads
+    100794: Final_Reflecting_Pool:Main_Roof_Strut
+    100796: Final_Reflecting_Pool:Main_Roof_Strut 1
+    100798: Final_Reflecting_Pool:Main_Roof_Strut 2
+    100800: Final_Reflecting_Pool:Main_Roof_Strut 3
+    100802: Final_Reflecting_Pool:Pillar_1
+    100804: Final_Reflecting_Pool:Pillar_1 1
+    100806: Final_Reflecting_Pool:Pillar_1 2
+    100808: Final_Reflecting_Pool:Pillar_1 3
+    100810: Final_Reflecting_Pool:Pillar_1 4
+    100812: Final_Reflecting_Pool:Pillar_1 5
+    100814: Final_Reflecting_Pool:Pillar_1 6
+    100816: Final_Reflecting_Pool:Pillar_1 7
+    100818: Final_Reflecting_Pool:Pillar_1 8
+    100820: Final_Reflecting_Pool:Pillar_2
+    100822: Final_Reflecting_Pool:Pillar_2 1
+    100824: Final_Reflecting_Pool:Pillar_2 2
+    100826: Final_Reflecting_Pool:Pillar_2 3
+    100828: Final_Reflecting_Pool:Pillar_2 4
+    100830: Final_Reflecting_Pool:Pillar_2 5
+    100832: Final_Reflecting_Pool:Pillar_2 6
+    100834: Final_Reflecting_Pool:Pillar_2 7
+    100836: Final_Reflecting_Pool:Pillar_2 8
+    100838: Final_Reflecting_Pool:Pillar_3
+    100840: Final_Reflecting_Pool:Pillar_3 1
+    100842: Final_Reflecting_Pool:Pillar_3 2
+    100844: Final_Reflecting_Pool:Pillar_3 3
+    100846: Final_Reflecting_Pool:Pillar_3 4
+    100848: Final_Reflecting_Pool:Pillar_3 5
+    100850: Final_Reflecting_Pool:Pillar_3 6
+    100852: Final_Reflecting_Pool:Pillar_3 7
+    100854: Final_Reflecting_Pool:Pillar_3 8
+    100856: Final_Reflecting_Pool:Pillar_4
+    100858: Final_Reflecting_Pool:Pillar_4 1
+    100860: Final_Reflecting_Pool:Pillar_4 2
+    100862: Final_Reflecting_Pool:Pillar_4 3
+    100864: Final_Reflecting_Pool:Pillar_4 4
+    100866: Final_Reflecting_Pool:Pillar_4 5
+    100868: Final_Reflecting_Pool:Pillar_4 6
+    100870: Final_Reflecting_Pool:Pillar_4 7
+    100872: Final_Reflecting_Pool:Pillar_4 8
+    100874: Final_Reflecting_Pool:Pillar_5
+    100876: Final_Reflecting_Pool:Pillar_5 1
+    100878: Final_Reflecting_Pool:Pillar_5 2
+    100880: Final_Reflecting_Pool:Pillar_5 3
+    100882: Final_Reflecting_Pool:Pillar_5 4
+    100884: Final_Reflecting_Pool:Pillar_5 5
+    100886: Final_Reflecting_Pool:Pillar_5 6
+    100888: Final_Reflecting_Pool:Pillar_5 7
+    100890: Final_Reflecting_Pool:Pillar_6
+    100892: Final_Reflecting_Pool:Pillar_6 1
+    100894: Final_Reflecting_Pool:Pillar_6 2
+    100896: Final_Reflecting_Pool:Pillar_6 3
+    100898: Final_Reflecting_Pool:Pillar_6 4
+    100900: Final_Reflecting_Pool:Pillar_6 5
+    100902: Final_Reflecting_Pool:Pillar_6 6
+    100904: Final_Reflecting_Pool:Pillar_6 7
+    100906: Final_Reflecting_Pool:Pillar_7
+    100908: Final_Reflecting_Pool:Pillar_7 1
+    100910: Final_Reflecting_Pool:Pillar_7 2
+    100912: Final_Reflecting_Pool:Pillar_7 3
+    100914: Final_Reflecting_Pool:Pillar_7 4
+    100916: Final_Reflecting_Pool:Pillar_7 5
+    100918: Final_Reflecting_Pool:Pillar_7 6
+    100920: Final_Reflecting_Pool:Pillar_8
+    100922: Final_Reflecting_Pool:Pillar_8 1
+    100924: Final_Reflecting_Pool:Pillar_8 2
+    100926: Final_Reflecting_Pool:Pillar_8 3
+    100928: Final_Reflecting_Pool:polySurface1
+    100930: Final_Reflecting_Pool:polySurface2
+    100932: Final_Reflecting_Pool:Pond
+    100934: Final_Reflecting_Pool:Pond_bottom
+    100936: Final_Reflecting_Pool:Roof
+    100938: Final_Reflecting_Pool:Roof 1
+    100940: Final_Reflecting_Pool:Roof 10
+    100942: Final_Reflecting_Pool:Roof 11
+    100944: Final_Reflecting_Pool:Roof 12
+    100946: Final_Reflecting_Pool:Roof 2
+    100948: Final_Reflecting_Pool:Roof 3
+    100950: Final_Reflecting_Pool:Roof 4
+    100952: Final_Reflecting_Pool:Roof 5
+    100954: Final_Reflecting_Pool:Roof 6
+    100956: Final_Reflecting_Pool:Roof 7
+    100958: Final_Reflecting_Pool:Roof 8
+    100960: Final_Reflecting_Pool:Roof 9
+    100962: Final_Reflecting_Pool:Roof_Strut1
+    100964: Final_Reflecting_Pool:Roof_Strut1 1
+    100966: Final_Reflecting_Pool:Roof_Strut1 2
+    100968: Final_Reflecting_Pool:Roof_Strut1 3
+    100970: Final_Reflecting_Pool:Roof_Strut1 4
+    100972: Final_Reflecting_Pool:Roof_Strut2
+    100974: Final_Reflecting_Pool:Roof_Strut2 1
+    100976: Final_Reflecting_Pool:Roof_Strut2 2
+    100978: Final_Reflecting_Pool:Roof_Strut2 3
+    100980: Final_Reflecting_Pool:Roof_Strut2 4
+    100982: Final_Reflecting_Pool:Roof_Strut3
+    100984: Final_Reflecting_Pool:Roof_Strut3 1
+    100986: Final_Reflecting_Pool:Roof_Strut3 2
+    100988: Final_Reflecting_Pool:Roof_Strut3 3
+    100990: Final_Reflecting_Pool:Roof_Strut3 4
+    100992: Final_Reflecting_Pool:Roof_Strut4
+    100994: Final_Reflecting_Pool:Roof_Strut4 1
+    100996: Final_Reflecting_Pool:Roof_Strut4 2
+    100998: Final_Reflecting_Pool:Roof_Strut4 3
+    101000: Final_Reflecting_Pool:Roof_Strut5
+    101002: Final_Reflecting_Pool:Roof_Strut5 1
+    101004: Final_Reflecting_Pool:Roof_Strut5 2
+    101006: Final_Reflecting_Pool:Roof_Strut5 3
+    101008: Final_Reflecting_Pool:Tempol
+    101010: Final_Reflecting_Pool:Walk_way_1
+    101012: Final_Reflecting_Pool:Walk_way_2
+    101014: Final_Reflecting_Pool:Walk_way_3
+    101016: Final_Reflecting_Pool:Walk_way_4
+    101018: Final_Reflecting_Pool:Wall
+    101020: Final_Reflecting_Pool:Wall 1
+    101022: Final_Reflecting_Pool:Wall 2
+    101024: Final_Reflecting_Pool:Wall1
+    101026: Final_Reflecting_Pool:Wall2
+    101028: Gateway
+    101030: Gateway 1
+    101032: Gateway 2
+    101034: Gateway 3
+    101036: Gateway 4
+    101038: Gateway 5
+    101040: Hanger
+    101042: Hanger 1
+    101044: Hanger 10
+    101046: Hanger 11
+    101048: Hanger 2
+    101050: Hanger 3
+    101052: Hanger 4
+    101054: Hanger 5
+    101056: Hanger 6
+    101058: Hanger 7
+    101060: Hanger 8
+    101062: Hanger 9
+    101064: Hanging_Lantern1
+    101066: Hanging_Lantern1 1
+    101068: Hanging_Lantern1 2
+    101070: Hanging_Lantern1 3
+    101072: Hanging_Lantern1 4
+    101074: Hanging_Lantern1 5
+    101076: Hanging_Lantern2
+    101078: Hanging_Lantern2 1
+    101080: Hanging_Lantern2 2
+    101082: Hanging_Lantern2 3
+    101084: Hanging_Lantern2 4
+    101086: Hanging_Lantern2 5
+    101088: Hook
+    101090: Hook 1
+    101092: Hook 10
+    101094: Hook 11
+    101096: Hook 2
+    101098: Hook 3
+    101100: Hook 4
+    101102: Hook 5
+    101104: Hook 6
+    101106: Hook 7
+    101108: Hook 8
+    101110: Hook 9
+    101112: Hook_Bace
+    101114: Hook_Bace 1
+    101116: Hook_Bace 10
+    101118: Hook_Bace 11
+    101120: Hook_Bace 2
+    101122: Hook_Bace 3
+    101124: Hook_Bace 4
+    101126: Hook_Bace 5
+    101128: Hook_Bace 6
+    101130: Hook_Bace 7
+    101132: Hook_Bace 8
+    101134: Hook_Bace 9
+    101136: Hook_Support
+    101138: Hook_Support 1
+    101140: Hook_Support 10
+    101142: Hook_Support 11
+    101144: Hook_Support 2
+    101146: Hook_Support 3
+    101148: Hook_Support 4
+    101150: Hook_Support 5
+    101152: Hook_Support 6
+    101154: Hook_Support 7
+    101156: Hook_Support 8
+    101158: Hook_Support 9
+    101160: Jpan_Gate_1
+    101162: Jpan_Gate_2
+    101164: Jpan_Gate_3
+    101166: Jpan_Gate_4
+    101168: Jpan_Gate_5
+    101170: Jpan_Gate_6
+    101172: Jpan_Gate_7
+    101174: JPan_Gateway
+    101176: JPan_Gateway 1
+    101178: JPan_Gateway 2
+    101180: JPan_Gateway 3
+    101182: JPan_Gateway 4
+    101184: JPan_Gateway 5
+    101186: Lantern
+    101188: Lantern 1
+    101190: Lantern 10
+    101192: Lantern 11
+    101194: Lantern 2
+    101196: Lantern 3
+    101198: Lantern 4
+    101200: Lantern 5
+    101202: Lantern 6
+    101204: Lantern 7
+    101206: Lantern 8
+    101208: Lantern 9
+    101210: Lantern_Rope1
+    101212: Lantern_Rope1 1
+    101214: Lantern_Rope1 10
+    101216: Lantern_Rope1 11
+    101218: Lantern_Rope1 2
+    101220: Lantern_Rope1 3
+    101222: Lantern_Rope1 4
+    101224: Lantern_Rope1 5
+    101226: Lantern_Rope1 6
+    101228: Lantern_Rope1 7
+    101230: Lantern_Rope1 8
+    101232: Lantern_Rope1 9
+    101234: Left_Support
+    101236: Left_Support 1
+    101238: Left_Support 2
+    101240: Left_Support 3
+    101242: Left_Support 4
+    101244: Left_Support 5
+    101246: Loop
+    101248: Loop 1
+    101250: Loop 10
+    101252: Loop 11
+    101254: Loop 2
+    101256: Loop 3
+    101258: Loop 4
+    101260: Loop 5
+    101262: Loop 6
+    101264: Loop 7
+    101266: Loop 8
+    101268: Loop 9
+    101270: Monk
+    101272: motionTrail1Handle
+    101274: Paper
+    101276: Paper 1
+    101278: Paper 10
+    101280: Paper 11
+    101282: Paper 2
+    101284: Paper 3
+    101286: Paper 4
+    101288: Paper 5
+    101290: Paper 6
+    101292: Paper 7
+    101294: Paper 8
+    101296: Paper 9
+    101298: pCube1
+    101300: pCube1 1
+    101302: pCube1 10
+    101304: pCube1 11
+    101306: pCube1 12
+    101308: pCube1 13
+    101310: pCube1 14
+    101312: pCube1 15
+    101314: pCube1 16
+    101316: pCube1 17
+    101318: pCube1 18
+    101320: pCube1 19
+    101322: pCube1 2
+    101324: pCube1 20
+    101326: pCube1 21
+    101328: pCube1 22
+    101330: pCube1 23
+    101332: pCube1 24
+    101334: pCube1 25
+    101336: pCube1 26
+    101338: pCube1 27
+    101340: pCube1 28
+    101342: pCube1 29
+    101344: pCube1 3
+    101346: pCube1 4
+    101348: pCube1 5
+    101350: pCube1 6
+    101352: pCube1 7
+    101354: pCube1 8
+    101356: pCube1 9
+    101358: pCube2
+    101360: pCube2 1
+    101362: pCube2 10
+    101364: pCube2 11
+    101366: pCube2 12
+    101368: pCube2 13
+    101370: pCube2 14
+    101372: pCube2 15
+    101374: pCube2 16
+    101376: pCube2 17
+    101378: pCube2 18
+    101380: pCube2 19
+    101382: pCube2 2
+    101384: pCube2 20
+    101386: pCube2 21
+    101388: pCube2 22
+    101390: pCube2 23
+    101392: pCube2 24
+    101394: pCube2 25
+    101396: pCube2 26
+    101398: pCube2 27
+    101400: pCube2 28
+    101402: pCube2 29
+    101404: pCube2 3
+    101406: pCube2 4
+    101408: pCube2 5
+    101410: pCube2 6
+    101412: pCube2 7
+    101414: pCube2 8
+    101416: pCube2 9
+    101418: pCube28
+    101420: pCube28 1
+    101422: pCube28 2
+    101424: pCube28 3
+    101426: pCube28 4
+    101428: pCube28 5
+    101430: pCube29
+    101432: pCube29 1
+    101434: pCube29 2
+    101436: pCube29 3
+    101438: pCube29 4
+    101440: pCube29 5
+    101442: pCube3
+    101444: pCube3 1
+    101446: pCube3 10
+    101448: pCube3 11
+    101450: pCube3 12
+    101452: pCube3 13
+    101454: pCube3 14
+    101456: pCube3 15
+    101458: pCube3 16
+    101460: pCube3 17
+    101462: pCube3 18
+    101464: pCube3 19
+    101466: pCube3 2
+    101468: pCube3 20
+    101470: pCube3 21
+    101472: pCube3 22
+    101474: pCube3 23
+    101476: pCube3 24
+    101478: pCube3 25
+    101480: pCube3 26
+    101482: pCube3 27
+    101484: pCube3 28
+    101486: pCube3 29
+    101488: pCube3 3
+    101490: pCube3 4
+    101492: pCube3 5
+    101494: pCube3 6
+    101496: pCube3 7
+    101498: pCube3 8
+    101500: pCube3 9
+    101502: pCube30
+    101504: pCube30 1
+    101506: pCube30 2
+    101508: pCube30 3
+    101510: pCube30 4
+    101512: pCube30 5
+    101514: pCube31
+    101516: pCube31 1
+    101518: pCube31 2
+    101520: pCube31 3
+    101522: pCube31 4
+    101524: pCube31 5
+    101526: pCube4
+    101528: pCube4 1
+    101530: pCube4 10
+    101532: pCube4 11
+    101534: pCube4 12
+    101536: pCube4 13
+    101538: pCube4 14
+    101540: pCube4 15
+    101542: pCube4 16
+    101544: pCube4 17
+    101546: pCube4 18
+    101548: pCube4 19
+    101550: pCube4 2
+    101552: pCube4 20
+    101554: pCube4 21
+    101556: pCube4 22
+    101558: pCube4 23
+    101560: pCube4 24
+    101562: pCube4 25
+    101564: pCube4 26
+    101566: pCube4 27
+    101568: pCube4 28
+    101570: pCube4 29
+    101572: pCube4 3
+    101574: pCube4 4
+    101576: pCube4 5
+    101578: pCube4 6
+    101580: pCube4 7
+    101582: pCube4 8
+    101584: pCube4 9
+    101586: pCube5
+    101588: pCube5 1
+    101590: pCube5 10
+    101592: pCube5 11
+    101594: pCube5 2
+    101596: pCube5 3
+    101598: pCube5 4
+    101600: pCube5 5
+    101602: pCube5 6
+    101604: pCube5 7
+    101606: pCube5 8
+    101608: pCube5 9
+    101610: pCylinder1
+    101612: pCylinder1 1
+    101614: pCylinder1 10
+    101616: pCylinder1 11
+    101618: pCylinder1 12
+    101620: pCylinder1 13
+    101622: pCylinder1 14
+    101624: pCylinder1 15
+    101626: pCylinder1 16
+    101628: pCylinder1 17
+    101630: pCylinder1 18
+    101632: pCylinder1 19
+    101634: pCylinder1 2
+    101636: pCylinder1 20
+    101638: pCylinder1 21
+    101640: pCylinder1 22
+    101642: pCylinder1 23
+    101644: pCylinder1 24
+    101646: pCylinder1 25
+    101648: pCylinder1 26
+    101650: pCylinder1 27
+    101652: pCylinder1 28
+    101654: pCylinder1 29
+    101656: pCylinder1 3
+    101658: pCylinder1 4
+    101660: pCylinder1 5
+    101662: pCylinder1 6
+    101664: pCylinder1 7
+    101666: pCylinder1 8
+    101668: pCylinder1 9
+    101670: Primary_Pillar_1
+    101672: Primary_Pillar_1 1
+    101674: Primary_Pillar_1 2
+    101676: Primary_Pillar_1 3
+    101678: Primary_Pillar_1 4
+    101680: Primary_Pillar_1 5
+    101682: Primary_Pillar_2
+    101684: Primary_Pillar_2 1
+    101686: Primary_Pillar_2 2
+    101688: Primary_Pillar_2 3
+    101690: Primary_Pillar_2 4
+    101692: Primary_Pillar_2 5
+    101694: Primary_Strut
+    101696: Primary_Strut 1
+    101698: Primary_Strut 2
+    101700: Primary_Strut 3
+    101702: Primary_Strut 4
+    101704: Primary_Strut 5
+    101706: Primary_Support
+    101708: Primary_Support 1
+    101710: Primary_Support 2
+    101712: Primary_Support 3
+    101714: Primary_Support 4
+    101716: Primary_Support 5
+    101718: pSphere1
+    101720: pSphere1 1
+    101722: pSphere1 10
+    101724: pSphere1 11
+    101726: pSphere1 2
+    101728: pSphere1 3
+    101730: pSphere1 4
+    101732: pSphere1 5
+    101734: pSphere1 6
+    101736: pSphere1 7
+    101738: pSphere1 8
+    101740: pSphere1 9
+    101742: pSphere2
+    101744: pSphere2 1
+    101746: pSphere2 10
+    101748: pSphere2 11
+    101750: pSphere2 2
+    101752: pSphere2 3
+    101754: pSphere2 4
+    101756: pSphere2 5
+    101758: pSphere2 6
+    101760: pSphere2 7
+    101762: pSphere2 8
+    101764: pSphere2 9
+    101766: pSphere3
+    101768: pSphere3 1
+    101770: pSphere3 10
+    101772: pSphere3 11
+    101774: pSphere3 2
+    101776: pSphere3 3
+    101778: pSphere3 4
+    101780: pSphere3 5
+    101782: pSphere3 6
+    101784: pSphere3 7
+    101786: pSphere3 8
+    101788: pSphere3 9
+    101790: Right_Support
+    101792: Right_Support 1
+    101794: Right_Support 2
+    101796: Right_Support 3
+    101798: Right_Support 4
+    101800: Right_Support 5
+    101802: Roof
+    101804: Roof 1
+    101806: Roof 2
+    101808: Roof 3
+    101810: Roof 4
+    101812: Roof 5
+    101814: Rope1
+    101816: Rope1 1
+    101818: Rope1 10
+    101820: Rope1 11
+    101822: Rope1 2
+    101824: Rope1 3
+    101826: Rope1 4
+    101828: Rope1 5
+    101830: Rope1 6
+    101832: Rope1 7
+    101834: Rope1 8
+    101836: Rope1 9
+    101838: Rope_1
+    101840: Rope_1 1
+    101842: Rope_1 10
+    101844: Rope_1 11
+    101846: Rope_1 2
+    101848: Rope_1 3
+    101850: Rope_1 4
+    101852: Rope_1 5
+    101854: Rope_1 6
+    101856: Rope_1 7
+    101858: Rope_1 8
+    101860: Rope_1 9
+    101862: Rope_2
+    101864: Rope_2 1
+    101866: Rope_2 10
+    101868: Rope_2 11
+    101870: Rope_2 2
+    101872: Rope_2 3
+    101874: Rope_2 4
+    101876: Rope_2 5
+    101878: Rope_2 6
+    101880: Rope_2 7
+    101882: Rope_2 8
+    101884: Rope_2 9
+    101886: Scroll_1
+    101888: Scroll_1 1
+    101890: Scroll_1 2
+    101892: Scroll_1 3
+    101894: Scroll_1 4
+    101896: Scroll_1 5
+    101898: Scroll_2
+    101900: Scroll_2 1
+    101902: Scroll_2 2
+    101904: Scroll_2 3
+    101906: Scroll_2 4
+    101908: Scroll_2 5
+    101910: Scroll_Container
+    101912: Scroll_Container 1
+    101914: Scroll_Container 10
+    101916: Scroll_Container 11
+    101918: Scroll_Container 2
+    101920: Scroll_Container 3
+    101922: Scroll_Container 4
+    101924: Scroll_Container 5
+    101926: Scroll_Container 6
+    101928: Scroll_Container 7
+    101930: Scroll_Container 8
+    101932: Scroll_Container 9
+    101934: Secondary_Pillar_1
+    101936: Secondary_Pillar_1 1
+    101938: Secondary_Pillar_1 2
+    101940: Secondary_Pillar_1 3
+    101942: Secondary_Pillar_1 4
+    101944: Secondary_Pillar_1 5
+    101946: Secondary_Pillar_2
+    101948: Secondary_Pillar_2 1
+    101950: Secondary_Pillar_2 2
+    101952: Secondary_Pillar_2 3
+    101954: Secondary_Pillar_2 4
+    101956: Secondary_Pillar_2 5
+    101958: Secondary_Pillar_3
+    101960: Secondary_Pillar_3 1
+    101962: Secondary_Pillar_3 2
+    101964: Secondary_Pillar_3 3
+    101966: Secondary_Pillar_3 4
+    101968: Secondary_Pillar_3 5
+    101970: Secondary_Pillar_4
+    101972: Secondary_Pillar_4 1
+    101974: Secondary_Pillar_4 2
+    101976: Secondary_Pillar_4 3
+    101978: Secondary_Pillar_4 4
+    101980: Secondary_Pillar_4 5
+    101982: Secondary_Pillar_Top_1
+    101984: Secondary_Pillar_Top_1 1
+    101986: Secondary_Pillar_Top_1 2
+    101988: Secondary_Pillar_Top_1 3
+    101990: Secondary_Pillar_Top_1 4
+    101992: Secondary_Pillar_Top_1 5
+    101994: Secondary_Pillar_Top_2
+    101996: Secondary_Pillar_Top_2 1
+    101998: Secondary_Pillar_Top_2 2
+    102000: Secondary_Pillar_Top_2 3
+    102002: Secondary_Pillar_Top_2 4
+    102004: Secondary_Pillar_Top_2 5
+    102006: Secondary_Pillar_Top_3
+    102008: Secondary_Pillar_Top_3 1
+    102010: Secondary_Pillar_Top_3 2
+    102012: Secondary_Pillar_Top_3 3
+    102014: Secondary_Pillar_Top_3 4
+    102016: Secondary_Pillar_Top_3 5
+    102018: Secondary_Pillar_Top_4
+    102020: Secondary_Pillar_Top_4 1
+    102022: Secondary_Pillar_Top_4 2
+    102024: Secondary_Pillar_Top_4 3
+    102026: Secondary_Pillar_Top_4 4
+    102028: Secondary_Pillar_Top_4 5
+    102030: Secondary_Strut_1
+    102032: Secondary_Strut_1 1
+    102034: Secondary_Strut_1 2
+    102036: Secondary_Strut_1 3
+    102038: Secondary_Strut_1 4
+    102040: Secondary_Strut_1 5
+    102042: Secondary_Strut_2
+    102044: Secondary_Strut_2 1
+    102046: Secondary_Strut_2 2
+    102048: Secondary_Strut_2 3
+    102050: Secondary_Strut_2 4
+    102052: Secondary_Strut_2 5
+    102054: Secondary_Strut_3
+    102056: Secondary_Strut_3 1
+    102058: Secondary_Strut_3 2
+    102060: Secondary_Strut_3 3
+    102062: Secondary_Strut_3 4
+    102064: Secondary_Strut_3 5
+    102066: Secondary_Strut_4
+    102068: Secondary_Strut_4 1
+    102070: Secondary_Strut_4 2
+    102072: Secondary_Strut_4 3
+    102074: Secondary_Strut_4 4
+    102076: Secondary_Strut_4 5
+    102078: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group
+    102080: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    102082: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    102084: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    102086: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    102088: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    102090: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    102092: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    102094: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    102096: Tassle_1
+    102098: Tassle_1 1
+    102100: Tassle_1 2
+    102102: Tassle_1 3
+    102104: Tassle_1 4
+    102106: Tassle_1 5
+    102108: Tassle_2
+    102110: Tassle_2 1
+    102112: Tassle_2 2
+    102114: Tassle_2 3
+    102116: Tassle_2 4
+    102118: Tassle_2 5
+    102120: Tassle_3
+    102122: Tassle_3 1
+    102124: Tassle_3 2
+    102126: Tassle_3 3
+    102128: Tassle_3 4
+    102130: Tassle_3 5
+    102132: Tassle_4
+    102134: Tassle_4 1
+    102136: Tassle_4 2
+    102138: Tassle_4 3
+    102140: Tassle_4 4
+    102142: Tassle_4 5
+    102144: Tassle_5
+    102146: Tassle_5 1
+    102148: Tassle_5 2
+    102150: Tassle_5 3
+    102152: Tassle_5 4
+    102154: Tassle_5 5
+    102156: Temple_Terrein
     400000: ambientLight1
     400002: Branches
     400004: directionalLight1
@@ -327,6 +1244,923 @@ ModelImporter:
     400318: //RootNode
     400320: Trunk
     400322: polySurface1
+    400324: Cap_1
+    400326: Cap_1 1
+    400328: Cap_1 2
+    400330: Cap_1 3
+    400332: Cap_1 4
+    400334: Cap_1 5
+    400336: Cap_10
+    400338: Cap_10 1
+    400340: Cap_10 2
+    400342: Cap_10 3
+    400344: Cap_10 4
+    400346: Cap_10 5
+    400348: Cap_11
+    400350: Cap_11 1
+    400352: Cap_11 2
+    400354: Cap_11 3
+    400356: Cap_11 4
+    400358: Cap_11 5
+    400360: Cap_12
+    400362: Cap_12 1
+    400364: Cap_12 2
+    400366: Cap_12 3
+    400368: Cap_12 4
+    400370: Cap_12 5
+    400372: Cap_13
+    400374: Cap_13 1
+    400376: Cap_13 2
+    400378: Cap_13 3
+    400380: Cap_13 4
+    400382: Cap_13 5
+    400384: Cap_14
+    400386: Cap_14 1
+    400388: Cap_14 2
+    400390: Cap_14 3
+    400392: Cap_14 4
+    400394: Cap_14 5
+    400396: Cap_15
+    400398: Cap_15 1
+    400400: Cap_15 2
+    400402: Cap_15 3
+    400404: Cap_15 4
+    400406: Cap_15 5
+    400408: Cap_16
+    400410: Cap_16 1
+    400412: Cap_16 2
+    400414: Cap_16 3
+    400416: Cap_16 4
+    400418: Cap_16 5
+    400420: Cap_2
+    400422: Cap_2 1
+    400424: Cap_2 2
+    400426: Cap_2 3
+    400428: Cap_2 4
+    400430: Cap_2 5
+    400432: Cap_3
+    400434: Cap_3 1
+    400436: Cap_3 2
+    400438: Cap_3 3
+    400440: Cap_3 4
+    400442: Cap_3 5
+    400444: Cap_4
+    400446: Cap_4 1
+    400448: Cap_4 2
+    400450: Cap_4 3
+    400452: Cap_4 4
+    400454: Cap_4 5
+    400456: Cap_5
+    400458: Cap_5 1
+    400460: Cap_5 2
+    400462: Cap_5 3
+    400464: Cap_5 4
+    400466: Cap_5 5
+    400468: Cap_6
+    400470: Cap_6 1
+    400472: Cap_6 2
+    400474: Cap_6 3
+    400476: Cap_6 4
+    400478: Cap_6 5
+    400480: Cap_7
+    400482: Cap_7 1
+    400484: Cap_7 2
+    400486: Cap_7 3
+    400488: Cap_7 4
+    400490: Cap_7 5
+    400492: Cap_8
+    400494: Cap_8 1
+    400496: Cap_8 2
+    400498: Cap_8 3
+    400500: Cap_8 4
+    400502: Cap_8 5
+    400504: Cap_9
+    400506: Cap_9 1
+    400508: Cap_9 2
+    400510: Cap_9 3
+    400512: Cap_9 4
+    400514: Cap_9 5
+    400516: Final_JPan_Gate:Cap_1
+    400518: Final_JPan_Gate:Cap_10
+    400520: Final_JPan_Gate:Cap_11
+    400522: Final_JPan_Gate:Cap_12
+    400524: Final_JPan_Gate:Cap_13
+    400526: Final_JPan_Gate:Cap_14
+    400528: Final_JPan_Gate:Cap_15
+    400530: Final_JPan_Gate:Cap_16
+    400532: Final_JPan_Gate:Cap_2
+    400534: Final_JPan_Gate:Cap_3
+    400536: Final_JPan_Gate:Cap_4
+    400538: Final_JPan_Gate:Cap_5
+    400540: Final_JPan_Gate:Cap_6
+    400542: Final_JPan_Gate:Cap_7
+    400544: Final_JPan_Gate:Cap_8
+    400546: Final_JPan_Gate:Cap_9
+    400548: Final_JPan_Gate:Gateway
+    400550: Final_JPan_Gate:Hanger
+    400552: Final_JPan_Gate:Hanger 1
+    400554: Final_JPan_Gate:Hanging_Lantern1
+    400556: Final_JPan_Gate:Hanging_Lantern2
+    400558: Final_JPan_Gate:Hook
+    400560: Final_JPan_Gate:Hook 1
+    400562: Final_JPan_Gate:Hook_Bace
+    400564: Final_JPan_Gate:Hook_Bace 1
+    400566: Final_JPan_Gate:Hook_Support
+    400568: Final_JPan_Gate:Hook_Support 1
+    400570: Final_JPan_Gate:JPan_Gateway
+    400572: Final_JPan_Gate:Lantern
+    400574: Final_JPan_Gate:Lantern 1
+    400576: Final_JPan_Gate:Lantern_Rope1
+    400578: Final_JPan_Gate:Lantern_Rope1 1
+    400580: Final_JPan_Gate:Left_Support
+    400582: Final_JPan_Gate:Loop
+    400584: Final_JPan_Gate:Loop 1
+    400586: Final_JPan_Gate:Paper
+    400588: Final_JPan_Gate:Paper 1
+    400590: Final_JPan_Gate:pCube1
+    400592: Final_JPan_Gate:pCube1 1
+    400594: Final_JPan_Gate:pCube1 2
+    400596: Final_JPan_Gate:pCube1 3
+    400598: Final_JPan_Gate:pCube1 4
+    400600: Final_JPan_Gate:pCube2
+    400602: Final_JPan_Gate:pCube2 1
+    400604: Final_JPan_Gate:pCube2 2
+    400606: Final_JPan_Gate:pCube2 3
+    400608: Final_JPan_Gate:pCube2 4
+    400610: Final_JPan_Gate:pCube28
+    400612: Final_JPan_Gate:pCube29
+    400614: Final_JPan_Gate:pCube3
+    400616: Final_JPan_Gate:pCube3 1
+    400618: Final_JPan_Gate:pCube3 2
+    400620: Final_JPan_Gate:pCube3 3
+    400622: Final_JPan_Gate:pCube3 4
+    400624: Final_JPan_Gate:pCube30
+    400626: Final_JPan_Gate:pCube31
+    400628: Final_JPan_Gate:pCube4
+    400630: Final_JPan_Gate:pCube4 1
+    400632: Final_JPan_Gate:pCube4 2
+    400634: Final_JPan_Gate:pCube4 3
+    400636: Final_JPan_Gate:pCube4 4
+    400638: Final_JPan_Gate:pCube5
+    400640: Final_JPan_Gate:pCube5 1
+    400642: Final_JPan_Gate:pCylinder1
+    400644: Final_JPan_Gate:pCylinder1 1
+    400646: Final_JPan_Gate:pCylinder1 2
+    400648: Final_JPan_Gate:pCylinder1 3
+    400650: Final_JPan_Gate:pCylinder1 4
+    400652: Final_JPan_Gate:Primary_Pillar_1
+    400654: Final_JPan_Gate:Primary_Pillar_2
+    400656: Final_JPan_Gate:Primary_Strut
+    400658: Final_JPan_Gate:Primary_Support
+    400660: Final_JPan_Gate:pSphere1
+    400662: Final_JPan_Gate:pSphere1 1
+    400664: Final_JPan_Gate:pSphere2
+    400666: Final_JPan_Gate:pSphere2 1
+    400668: Final_JPan_Gate:pSphere3
+    400670: Final_JPan_Gate:pSphere3 1
+    400672: Final_JPan_Gate:Right_Support
+    400674: Final_JPan_Gate:Roof
+    400676: Final_JPan_Gate:Rope1
+    400678: Final_JPan_Gate:Rope1 1
+    400680: Final_JPan_Gate:Rope_1
+    400682: Final_JPan_Gate:Rope_1 1
+    400684: Final_JPan_Gate:Rope_2
+    400686: Final_JPan_Gate:Rope_2 1
+    400688: Final_JPan_Gate:Scroll_1
+    400690: Final_JPan_Gate:Scroll_2
+    400692: Final_JPan_Gate:Scroll_Container
+    400694: Final_JPan_Gate:Scroll_Container 1
+    400696: Final_JPan_Gate:Secondary_Pillar_1
+    400698: Final_JPan_Gate:Secondary_Pillar_2
+    400700: Final_JPan_Gate:Secondary_Pillar_3
+    400702: Final_JPan_Gate:Secondary_Pillar_4
+    400704: Final_JPan_Gate:Secondary_Pillar_Top_1
+    400706: Final_JPan_Gate:Secondary_Pillar_Top_2
+    400708: Final_JPan_Gate:Secondary_Pillar_Top_3
+    400710: Final_JPan_Gate:Secondary_Pillar_Top_4
+    400712: Final_JPan_Gate:Secondary_Strut_1
+    400714: Final_JPan_Gate:Secondary_Strut_2
+    400716: Final_JPan_Gate:Secondary_Strut_3
+    400718: Final_JPan_Gate:Secondary_Strut_4
+    400720: Final_JPan_Gate:Tassle_1
+    400722: Final_JPan_Gate:Tassle_2
+    400724: Final_JPan_Gate:Tassle_3
+    400726: Final_JPan_Gate:Tassle_4
+    400728: Final_JPan_Gate:Tassle_5
+    400730: Final_Reflecting_Pool:Bace
+    400732: Final_Reflecting_Pool:Bace 1
+    400734: Final_Reflecting_Pool:Bace 2
+    400736: Final_Reflecting_Pool:Bace 3
+    400738: Final_Reflecting_Pool:Bace 4
+    400740: Final_Reflecting_Pool:Bace 5
+    400742: Final_Reflecting_Pool:Bace 6
+    400744: Final_Reflecting_Pool:Bace 7
+    400746: Final_Reflecting_Pool:Bace 8
+    400748: Final_Reflecting_Pool:Bace_Cracked
+    400750: Final_Reflecting_Pool:Bace_Cracked 1
+    400752: Final_Reflecting_Pool:Bace_Darkness
+    400754: Final_Reflecting_Pool:Bace_Darkness 1
+    400756: Final_Reflecting_Pool:Central_Pedistal
+    400758: Final_Reflecting_Pool:Entrance
+    400760: Final_Reflecting_Pool:fluid1
+    400762: Final_Reflecting_Pool:Gazibo_1
+    400764: Final_Reflecting_Pool:Gazibo_2
+    400766: Final_Reflecting_Pool:Gazibo_3
+    400768: Final_Reflecting_Pool:Gazibo_4
+    400770: Final_Reflecting_Pool:Lilipad_1
+    400772: Final_Reflecting_Pool:Lilipad_10
+    400774: Final_Reflecting_Pool:Lilipad_11
+    400776: Final_Reflecting_Pool:Lilipad_2
+    400778: Final_Reflecting_Pool:Lilipad_3
+    400780: Final_Reflecting_Pool:Lilipad_4
+    400782: Final_Reflecting_Pool:Lilipad_5
+    400784: Final_Reflecting_Pool:Lilipad_6
+    400786: Final_Reflecting_Pool:Lilipad_7
+    400788: Final_Reflecting_Pool:Lilipad_8
+    400790: Final_Reflecting_Pool:Lilipad_9
+    400792: Final_Reflecting_Pool:Lilipads
+    400794: Final_Reflecting_Pool:Main_Roof_Strut
+    400796: Final_Reflecting_Pool:Main_Roof_Strut 1
+    400798: Final_Reflecting_Pool:Main_Roof_Strut 2
+    400800: Final_Reflecting_Pool:Main_Roof_Strut 3
+    400802: Final_Reflecting_Pool:Pillar_1
+    400804: Final_Reflecting_Pool:Pillar_1 1
+    400806: Final_Reflecting_Pool:Pillar_1 2
+    400808: Final_Reflecting_Pool:Pillar_1 3
+    400810: Final_Reflecting_Pool:Pillar_1 4
+    400812: Final_Reflecting_Pool:Pillar_1 5
+    400814: Final_Reflecting_Pool:Pillar_1 6
+    400816: Final_Reflecting_Pool:Pillar_1 7
+    400818: Final_Reflecting_Pool:Pillar_1 8
+    400820: Final_Reflecting_Pool:Pillar_2
+    400822: Final_Reflecting_Pool:Pillar_2 1
+    400824: Final_Reflecting_Pool:Pillar_2 2
+    400826: Final_Reflecting_Pool:Pillar_2 3
+    400828: Final_Reflecting_Pool:Pillar_2 4
+    400830: Final_Reflecting_Pool:Pillar_2 5
+    400832: Final_Reflecting_Pool:Pillar_2 6
+    400834: Final_Reflecting_Pool:Pillar_2 7
+    400836: Final_Reflecting_Pool:Pillar_2 8
+    400838: Final_Reflecting_Pool:Pillar_3
+    400840: Final_Reflecting_Pool:Pillar_3 1
+    400842: Final_Reflecting_Pool:Pillar_3 2
+    400844: Final_Reflecting_Pool:Pillar_3 3
+    400846: Final_Reflecting_Pool:Pillar_3 4
+    400848: Final_Reflecting_Pool:Pillar_3 5
+    400850: Final_Reflecting_Pool:Pillar_3 6
+    400852: Final_Reflecting_Pool:Pillar_3 7
+    400854: Final_Reflecting_Pool:Pillar_3 8
+    400856: Final_Reflecting_Pool:Pillar_4
+    400858: Final_Reflecting_Pool:Pillar_4 1
+    400860: Final_Reflecting_Pool:Pillar_4 2
+    400862: Final_Reflecting_Pool:Pillar_4 3
+    400864: Final_Reflecting_Pool:Pillar_4 4
+    400866: Final_Reflecting_Pool:Pillar_4 5
+    400868: Final_Reflecting_Pool:Pillar_4 6
+    400870: Final_Reflecting_Pool:Pillar_4 7
+    400872: Final_Reflecting_Pool:Pillar_4 8
+    400874: Final_Reflecting_Pool:Pillar_5
+    400876: Final_Reflecting_Pool:Pillar_5 1
+    400878: Final_Reflecting_Pool:Pillar_5 2
+    400880: Final_Reflecting_Pool:Pillar_5 3
+    400882: Final_Reflecting_Pool:Pillar_5 4
+    400884: Final_Reflecting_Pool:Pillar_5 5
+    400886: Final_Reflecting_Pool:Pillar_5 6
+    400888: Final_Reflecting_Pool:Pillar_5 7
+    400890: Final_Reflecting_Pool:Pillar_6
+    400892: Final_Reflecting_Pool:Pillar_6 1
+    400894: Final_Reflecting_Pool:Pillar_6 2
+    400896: Final_Reflecting_Pool:Pillar_6 3
+    400898: Final_Reflecting_Pool:Pillar_6 4
+    400900: Final_Reflecting_Pool:Pillar_6 5
+    400902: Final_Reflecting_Pool:Pillar_6 6
+    400904: Final_Reflecting_Pool:Pillar_6 7
+    400906: Final_Reflecting_Pool:Pillar_7
+    400908: Final_Reflecting_Pool:Pillar_7 1
+    400910: Final_Reflecting_Pool:Pillar_7 2
+    400912: Final_Reflecting_Pool:Pillar_7 3
+    400914: Final_Reflecting_Pool:Pillar_7 4
+    400916: Final_Reflecting_Pool:Pillar_7 5
+    400918: Final_Reflecting_Pool:Pillar_7 6
+    400920: Final_Reflecting_Pool:Pillar_8
+    400922: Final_Reflecting_Pool:Pillar_8 1
+    400924: Final_Reflecting_Pool:Pillar_8 2
+    400926: Final_Reflecting_Pool:Pillar_8 3
+    400928: Final_Reflecting_Pool:polySurface1
+    400930: Final_Reflecting_Pool:polySurface2
+    400932: Final_Reflecting_Pool:Pond
+    400934: Final_Reflecting_Pool:Pond_bottom
+    400936: Final_Reflecting_Pool:Roof
+    400938: Final_Reflecting_Pool:Roof 1
+    400940: Final_Reflecting_Pool:Roof 10
+    400942: Final_Reflecting_Pool:Roof 11
+    400944: Final_Reflecting_Pool:Roof 12
+    400946: Final_Reflecting_Pool:Roof 2
+    400948: Final_Reflecting_Pool:Roof 3
+    400950: Final_Reflecting_Pool:Roof 4
+    400952: Final_Reflecting_Pool:Roof 5
+    400954: Final_Reflecting_Pool:Roof 6
+    400956: Final_Reflecting_Pool:Roof 7
+    400958: Final_Reflecting_Pool:Roof 8
+    400960: Final_Reflecting_Pool:Roof 9
+    400962: Final_Reflecting_Pool:Roof_Strut1
+    400964: Final_Reflecting_Pool:Roof_Strut1 1
+    400966: Final_Reflecting_Pool:Roof_Strut1 2
+    400968: Final_Reflecting_Pool:Roof_Strut1 3
+    400970: Final_Reflecting_Pool:Roof_Strut1 4
+    400972: Final_Reflecting_Pool:Roof_Strut2
+    400974: Final_Reflecting_Pool:Roof_Strut2 1
+    400976: Final_Reflecting_Pool:Roof_Strut2 2
+    400978: Final_Reflecting_Pool:Roof_Strut2 3
+    400980: Final_Reflecting_Pool:Roof_Strut2 4
+    400982: Final_Reflecting_Pool:Roof_Strut3
+    400984: Final_Reflecting_Pool:Roof_Strut3 1
+    400986: Final_Reflecting_Pool:Roof_Strut3 2
+    400988: Final_Reflecting_Pool:Roof_Strut3 3
+    400990: Final_Reflecting_Pool:Roof_Strut3 4
+    400992: Final_Reflecting_Pool:Roof_Strut4
+    400994: Final_Reflecting_Pool:Roof_Strut4 1
+    400996: Final_Reflecting_Pool:Roof_Strut4 2
+    400998: Final_Reflecting_Pool:Roof_Strut4 3
+    401000: Final_Reflecting_Pool:Roof_Strut5
+    401002: Final_Reflecting_Pool:Roof_Strut5 1
+    401004: Final_Reflecting_Pool:Roof_Strut5 2
+    401006: Final_Reflecting_Pool:Roof_Strut5 3
+    401008: Final_Reflecting_Pool:Tempol
+    401010: Final_Reflecting_Pool:Walk_way_1
+    401012: Final_Reflecting_Pool:Walk_way_2
+    401014: Final_Reflecting_Pool:Walk_way_3
+    401016: Final_Reflecting_Pool:Walk_way_4
+    401018: Final_Reflecting_Pool:Wall
+    401020: Final_Reflecting_Pool:Wall 1
+    401022: Final_Reflecting_Pool:Wall 2
+    401024: Final_Reflecting_Pool:Wall1
+    401026: Final_Reflecting_Pool:Wall2
+    401028: Gateway
+    401030: Gateway 1
+    401032: Gateway 2
+    401034: Gateway 3
+    401036: Gateway 4
+    401038: Gateway 5
+    401040: Hanger
+    401042: Hanger 1
+    401044: Hanger 10
+    401046: Hanger 11
+    401048: Hanger 2
+    401050: Hanger 3
+    401052: Hanger 4
+    401054: Hanger 5
+    401056: Hanger 6
+    401058: Hanger 7
+    401060: Hanger 8
+    401062: Hanger 9
+    401064: Hanging_Lantern1
+    401066: Hanging_Lantern1 1
+    401068: Hanging_Lantern1 2
+    401070: Hanging_Lantern1 3
+    401072: Hanging_Lantern1 4
+    401074: Hanging_Lantern1 5
+    401076: Hanging_Lantern2
+    401078: Hanging_Lantern2 1
+    401080: Hanging_Lantern2 2
+    401082: Hanging_Lantern2 3
+    401084: Hanging_Lantern2 4
+    401086: Hanging_Lantern2 5
+    401088: Hook
+    401090: Hook 1
+    401092: Hook 10
+    401094: Hook 11
+    401096: Hook 2
+    401098: Hook 3
+    401100: Hook 4
+    401102: Hook 5
+    401104: Hook 6
+    401106: Hook 7
+    401108: Hook 8
+    401110: Hook 9
+    401112: Hook_Bace
+    401114: Hook_Bace 1
+    401116: Hook_Bace 10
+    401118: Hook_Bace 11
+    401120: Hook_Bace 2
+    401122: Hook_Bace 3
+    401124: Hook_Bace 4
+    401126: Hook_Bace 5
+    401128: Hook_Bace 6
+    401130: Hook_Bace 7
+    401132: Hook_Bace 8
+    401134: Hook_Bace 9
+    401136: Hook_Support
+    401138: Hook_Support 1
+    401140: Hook_Support 10
+    401142: Hook_Support 11
+    401144: Hook_Support 2
+    401146: Hook_Support 3
+    401148: Hook_Support 4
+    401150: Hook_Support 5
+    401152: Hook_Support 6
+    401154: Hook_Support 7
+    401156: Hook_Support 8
+    401158: Hook_Support 9
+    401160: Jpan_Gate_1
+    401162: Jpan_Gate_2
+    401164: Jpan_Gate_3
+    401166: Jpan_Gate_4
+    401168: Jpan_Gate_5
+    401170: Jpan_Gate_6
+    401172: Jpan_Gate_7
+    401174: JPan_Gateway
+    401176: JPan_Gateway 1
+    401178: JPan_Gateway 2
+    401180: JPan_Gateway 3
+    401182: JPan_Gateway 4
+    401184: JPan_Gateway 5
+    401186: Lantern
+    401188: Lantern 1
+    401190: Lantern 10
+    401192: Lantern 11
+    401194: Lantern 2
+    401196: Lantern 3
+    401198: Lantern 4
+    401200: Lantern 5
+    401202: Lantern 6
+    401204: Lantern 7
+    401206: Lantern 8
+    401208: Lantern 9
+    401210: Lantern_Rope1
+    401212: Lantern_Rope1 1
+    401214: Lantern_Rope1 10
+    401216: Lantern_Rope1 11
+    401218: Lantern_Rope1 2
+    401220: Lantern_Rope1 3
+    401222: Lantern_Rope1 4
+    401224: Lantern_Rope1 5
+    401226: Lantern_Rope1 6
+    401228: Lantern_Rope1 7
+    401230: Lantern_Rope1 8
+    401232: Lantern_Rope1 9
+    401234: Left_Support
+    401236: Left_Support 1
+    401238: Left_Support 2
+    401240: Left_Support 3
+    401242: Left_Support 4
+    401244: Left_Support 5
+    401246: Loop
+    401248: Loop 1
+    401250: Loop 10
+    401252: Loop 11
+    401254: Loop 2
+    401256: Loop 3
+    401258: Loop 4
+    401260: Loop 5
+    401262: Loop 6
+    401264: Loop 7
+    401266: Loop 8
+    401268: Loop 9
+    401270: Monk
+    401272: motionTrail1Handle
+    401274: Paper
+    401276: Paper 1
+    401278: Paper 10
+    401280: Paper 11
+    401282: Paper 2
+    401284: Paper 3
+    401286: Paper 4
+    401288: Paper 5
+    401290: Paper 6
+    401292: Paper 7
+    401294: Paper 8
+    401296: Paper 9
+    401298: pCube1
+    401300: pCube1 1
+    401302: pCube1 10
+    401304: pCube1 11
+    401306: pCube1 12
+    401308: pCube1 13
+    401310: pCube1 14
+    401312: pCube1 15
+    401314: pCube1 16
+    401316: pCube1 17
+    401318: pCube1 18
+    401320: pCube1 19
+    401322: pCube1 2
+    401324: pCube1 20
+    401326: pCube1 21
+    401328: pCube1 22
+    401330: pCube1 23
+    401332: pCube1 24
+    401334: pCube1 25
+    401336: pCube1 26
+    401338: pCube1 27
+    401340: pCube1 28
+    401342: pCube1 29
+    401344: pCube1 3
+    401346: pCube1 4
+    401348: pCube1 5
+    401350: pCube1 6
+    401352: pCube1 7
+    401354: pCube1 8
+    401356: pCube1 9
+    401358: pCube2
+    401360: pCube2 1
+    401362: pCube2 10
+    401364: pCube2 11
+    401366: pCube2 12
+    401368: pCube2 13
+    401370: pCube2 14
+    401372: pCube2 15
+    401374: pCube2 16
+    401376: pCube2 17
+    401378: pCube2 18
+    401380: pCube2 19
+    401382: pCube2 2
+    401384: pCube2 20
+    401386: pCube2 21
+    401388: pCube2 22
+    401390: pCube2 23
+    401392: pCube2 24
+    401394: pCube2 25
+    401396: pCube2 26
+    401398: pCube2 27
+    401400: pCube2 28
+    401402: pCube2 29
+    401404: pCube2 3
+    401406: pCube2 4
+    401408: pCube2 5
+    401410: pCube2 6
+    401412: pCube2 7
+    401414: pCube2 8
+    401416: pCube2 9
+    401418: pCube28
+    401420: pCube28 1
+    401422: pCube28 2
+    401424: pCube28 3
+    401426: pCube28 4
+    401428: pCube28 5
+    401430: pCube29
+    401432: pCube29 1
+    401434: pCube29 2
+    401436: pCube29 3
+    401438: pCube29 4
+    401440: pCube29 5
+    401442: pCube3
+    401444: pCube3 1
+    401446: pCube3 10
+    401448: pCube3 11
+    401450: pCube3 12
+    401452: pCube3 13
+    401454: pCube3 14
+    401456: pCube3 15
+    401458: pCube3 16
+    401460: pCube3 17
+    401462: pCube3 18
+    401464: pCube3 19
+    401466: pCube3 2
+    401468: pCube3 20
+    401470: pCube3 21
+    401472: pCube3 22
+    401474: pCube3 23
+    401476: pCube3 24
+    401478: pCube3 25
+    401480: pCube3 26
+    401482: pCube3 27
+    401484: pCube3 28
+    401486: pCube3 29
+    401488: pCube3 3
+    401490: pCube3 4
+    401492: pCube3 5
+    401494: pCube3 6
+    401496: pCube3 7
+    401498: pCube3 8
+    401500: pCube3 9
+    401502: pCube30
+    401504: pCube30 1
+    401506: pCube30 2
+    401508: pCube30 3
+    401510: pCube30 4
+    401512: pCube30 5
+    401514: pCube31
+    401516: pCube31 1
+    401518: pCube31 2
+    401520: pCube31 3
+    401522: pCube31 4
+    401524: pCube31 5
+    401526: pCube4
+    401528: pCube4 1
+    401530: pCube4 10
+    401532: pCube4 11
+    401534: pCube4 12
+    401536: pCube4 13
+    401538: pCube4 14
+    401540: pCube4 15
+    401542: pCube4 16
+    401544: pCube4 17
+    401546: pCube4 18
+    401548: pCube4 19
+    401550: pCube4 2
+    401552: pCube4 20
+    401554: pCube4 21
+    401556: pCube4 22
+    401558: pCube4 23
+    401560: pCube4 24
+    401562: pCube4 25
+    401564: pCube4 26
+    401566: pCube4 27
+    401568: pCube4 28
+    401570: pCube4 29
+    401572: pCube4 3
+    401574: pCube4 4
+    401576: pCube4 5
+    401578: pCube4 6
+    401580: pCube4 7
+    401582: pCube4 8
+    401584: pCube4 9
+    401586: pCube5
+    401588: pCube5 1
+    401590: pCube5 10
+    401592: pCube5 11
+    401594: pCube5 2
+    401596: pCube5 3
+    401598: pCube5 4
+    401600: pCube5 5
+    401602: pCube5 6
+    401604: pCube5 7
+    401606: pCube5 8
+    401608: pCube5 9
+    401610: pCylinder1
+    401612: pCylinder1 1
+    401614: pCylinder1 10
+    401616: pCylinder1 11
+    401618: pCylinder1 12
+    401620: pCylinder1 13
+    401622: pCylinder1 14
+    401624: pCylinder1 15
+    401626: pCylinder1 16
+    401628: pCylinder1 17
+    401630: pCylinder1 18
+    401632: pCylinder1 19
+    401634: pCylinder1 2
+    401636: pCylinder1 20
+    401638: pCylinder1 21
+    401640: pCylinder1 22
+    401642: pCylinder1 23
+    401644: pCylinder1 24
+    401646: pCylinder1 25
+    401648: pCylinder1 26
+    401650: pCylinder1 27
+    401652: pCylinder1 28
+    401654: pCylinder1 29
+    401656: pCylinder1 3
+    401658: pCylinder1 4
+    401660: pCylinder1 5
+    401662: pCylinder1 6
+    401664: pCylinder1 7
+    401666: pCylinder1 8
+    401668: pCylinder1 9
+    401670: Primary_Pillar_1
+    401672: Primary_Pillar_1 1
+    401674: Primary_Pillar_1 2
+    401676: Primary_Pillar_1 3
+    401678: Primary_Pillar_1 4
+    401680: Primary_Pillar_1 5
+    401682: Primary_Pillar_2
+    401684: Primary_Pillar_2 1
+    401686: Primary_Pillar_2 2
+    401688: Primary_Pillar_2 3
+    401690: Primary_Pillar_2 4
+    401692: Primary_Pillar_2 5
+    401694: Primary_Strut
+    401696: Primary_Strut 1
+    401698: Primary_Strut 2
+    401700: Primary_Strut 3
+    401702: Primary_Strut 4
+    401704: Primary_Strut 5
+    401706: Primary_Support
+    401708: Primary_Support 1
+    401710: Primary_Support 2
+    401712: Primary_Support 3
+    401714: Primary_Support 4
+    401716: Primary_Support 5
+    401718: pSphere1
+    401720: pSphere1 1
+    401722: pSphere1 10
+    401724: pSphere1 11
+    401726: pSphere1 2
+    401728: pSphere1 3
+    401730: pSphere1 4
+    401732: pSphere1 5
+    401734: pSphere1 6
+    401736: pSphere1 7
+    401738: pSphere1 8
+    401740: pSphere1 9
+    401742: pSphere2
+    401744: pSphere2 1
+    401746: pSphere2 10
+    401748: pSphere2 11
+    401750: pSphere2 2
+    401752: pSphere2 3
+    401754: pSphere2 4
+    401756: pSphere2 5
+    401758: pSphere2 6
+    401760: pSphere2 7
+    401762: pSphere2 8
+    401764: pSphere2 9
+    401766: pSphere3
+    401768: pSphere3 1
+    401770: pSphere3 10
+    401772: pSphere3 11
+    401774: pSphere3 2
+    401776: pSphere3 3
+    401778: pSphere3 4
+    401780: pSphere3 5
+    401782: pSphere3 6
+    401784: pSphere3 7
+    401786: pSphere3 8
+    401788: pSphere3 9
+    401790: Right_Support
+    401792: Right_Support 1
+    401794: Right_Support 2
+    401796: Right_Support 3
+    401798: Right_Support 4
+    401800: Right_Support 5
+    401802: Roof
+    401804: Roof 1
+    401806: Roof 2
+    401808: Roof 3
+    401810: Roof 4
+    401812: Roof 5
+    401814: Rope1
+    401816: Rope1 1
+    401818: Rope1 10
+    401820: Rope1 11
+    401822: Rope1 2
+    401824: Rope1 3
+    401826: Rope1 4
+    401828: Rope1 5
+    401830: Rope1 6
+    401832: Rope1 7
+    401834: Rope1 8
+    401836: Rope1 9
+    401838: Rope_1
+    401840: Rope_1 1
+    401842: Rope_1 10
+    401844: Rope_1 11
+    401846: Rope_1 2
+    401848: Rope_1 3
+    401850: Rope_1 4
+    401852: Rope_1 5
+    401854: Rope_1 6
+    401856: Rope_1 7
+    401858: Rope_1 8
+    401860: Rope_1 9
+    401862: Rope_2
+    401864: Rope_2 1
+    401866: Rope_2 10
+    401868: Rope_2 11
+    401870: Rope_2 2
+    401872: Rope_2 3
+    401874: Rope_2 4
+    401876: Rope_2 5
+    401878: Rope_2 6
+    401880: Rope_2 7
+    401882: Rope_2 8
+    401884: Rope_2 9
+    401886: Scroll_1
+    401888: Scroll_1 1
+    401890: Scroll_1 2
+    401892: Scroll_1 3
+    401894: Scroll_1 4
+    401896: Scroll_1 5
+    401898: Scroll_2
+    401900: Scroll_2 1
+    401902: Scroll_2 2
+    401904: Scroll_2 3
+    401906: Scroll_2 4
+    401908: Scroll_2 5
+    401910: Scroll_Container
+    401912: Scroll_Container 1
+    401914: Scroll_Container 10
+    401916: Scroll_Container 11
+    401918: Scroll_Container 2
+    401920: Scroll_Container 3
+    401922: Scroll_Container 4
+    401924: Scroll_Container 5
+    401926: Scroll_Container 6
+    401928: Scroll_Container 7
+    401930: Scroll_Container 8
+    401932: Scroll_Container 9
+    401934: Secondary_Pillar_1
+    401936: Secondary_Pillar_1 1
+    401938: Secondary_Pillar_1 2
+    401940: Secondary_Pillar_1 3
+    401942: Secondary_Pillar_1 4
+    401944: Secondary_Pillar_1 5
+    401946: Secondary_Pillar_2
+    401948: Secondary_Pillar_2 1
+    401950: Secondary_Pillar_2 2
+    401952: Secondary_Pillar_2 3
+    401954: Secondary_Pillar_2 4
+    401956: Secondary_Pillar_2 5
+    401958: Secondary_Pillar_3
+    401960: Secondary_Pillar_3 1
+    401962: Secondary_Pillar_3 2
+    401964: Secondary_Pillar_3 3
+    401966: Secondary_Pillar_3 4
+    401968: Secondary_Pillar_3 5
+    401970: Secondary_Pillar_4
+    401972: Secondary_Pillar_4 1
+    401974: Secondary_Pillar_4 2
+    401976: Secondary_Pillar_4 3
+    401978: Secondary_Pillar_4 4
+    401980: Secondary_Pillar_4 5
+    401982: Secondary_Pillar_Top_1
+    401984: Secondary_Pillar_Top_1 1
+    401986: Secondary_Pillar_Top_1 2
+    401988: Secondary_Pillar_Top_1 3
+    401990: Secondary_Pillar_Top_1 4
+    401992: Secondary_Pillar_Top_1 5
+    401994: Secondary_Pillar_Top_2
+    401996: Secondary_Pillar_Top_2 1
+    401998: Secondary_Pillar_Top_2 2
+    402000: Secondary_Pillar_Top_2 3
+    402002: Secondary_Pillar_Top_2 4
+    402004: Secondary_Pillar_Top_2 5
+    402006: Secondary_Pillar_Top_3
+    402008: Secondary_Pillar_Top_3 1
+    402010: Secondary_Pillar_Top_3 2
+    402012: Secondary_Pillar_Top_3 3
+    402014: Secondary_Pillar_Top_3 4
+    402016: Secondary_Pillar_Top_3 5
+    402018: Secondary_Pillar_Top_4
+    402020: Secondary_Pillar_Top_4 1
+    402022: Secondary_Pillar_Top_4 2
+    402024: Secondary_Pillar_Top_4 3
+    402026: Secondary_Pillar_Top_4 4
+    402028: Secondary_Pillar_Top_4 5
+    402030: Secondary_Strut_1
+    402032: Secondary_Strut_1 1
+    402034: Secondary_Strut_1 2
+    402036: Secondary_Strut_1 3
+    402038: Secondary_Strut_1 4
+    402040: Secondary_Strut_1 5
+    402042: Secondary_Strut_2
+    402044: Secondary_Strut_2 1
+    402046: Secondary_Strut_2 2
+    402048: Secondary_Strut_2 3
+    402050: Secondary_Strut_2 4
+    402052: Secondary_Strut_2 5
+    402054: Secondary_Strut_3
+    402056: Secondary_Strut_3 1
+    402058: Secondary_Strut_3 2
+    402060: Secondary_Strut_3 3
+    402062: Secondary_Strut_3 4
+    402064: Secondary_Strut_3 5
+    402066: Secondary_Strut_4
+    402068: Secondary_Strut_4 1
+    402070: Secondary_Strut_4 2
+    402072: Secondary_Strut_4 3
+    402074: Secondary_Strut_4 4
+    402076: Secondary_Strut_4 5
+    402078: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group
+    402080: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    402082: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    402084: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    402086: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    402088: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    402090: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    402092: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    402094: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    402096: Tassle_1
+    402098: Tassle_1 1
+    402100: Tassle_1 2
+    402102: Tassle_1 3
+    402104: Tassle_1 4
+    402106: Tassle_1 5
+    402108: Tassle_2
+    402110: Tassle_2 1
+    402112: Tassle_2 2
+    402114: Tassle_2 3
+    402116: Tassle_2 4
+    402118: Tassle_2 5
+    402120: Tassle_3
+    402122: Tassle_3 1
+    402124: Tassle_3 2
+    402126: Tassle_3 3
+    402128: Tassle_3 4
+    402130: Tassle_3 5
+    402132: Tassle_4
+    402134: Tassle_4 1
+    402136: Tassle_4 2
+    402138: Tassle_4 3
+    402140: Tassle_4 4
+    402142: Tassle_4 5
+    402144: Tassle_5
+    402146: Tassle_5 1
+    402148: Tassle_5 2
+    402150: Tassle_5 3
+    402152: Tassle_5 4
+    402154: Tassle_5 5
+    402156: Temple_Terrein
     2300000: pCylinder2
     2300002: pCylinder3
     2300004: pCylinder4
@@ -447,6 +2281,762 @@ ModelImporter:
     2300234: pPlane7 9
     2300236: Trunk
     2300238: polySurface1
+    2300240: Cap_1
+    2300242: Cap_1 1
+    2300244: Cap_1 2
+    2300246: Cap_1 3
+    2300248: Cap_1 4
+    2300250: Cap_1 5
+    2300252: Cap_10
+    2300254: Cap_10 1
+    2300256: Cap_10 2
+    2300258: Cap_10 3
+    2300260: Cap_10 4
+    2300262: Cap_10 5
+    2300264: Cap_11
+    2300266: Cap_11 1
+    2300268: Cap_11 2
+    2300270: Cap_11 3
+    2300272: Cap_11 4
+    2300274: Cap_11 5
+    2300276: Cap_12
+    2300278: Cap_12 1
+    2300280: Cap_12 2
+    2300282: Cap_12 3
+    2300284: Cap_12 4
+    2300286: Cap_12 5
+    2300288: Cap_13
+    2300290: Cap_13 1
+    2300292: Cap_13 2
+    2300294: Cap_13 3
+    2300296: Cap_13 4
+    2300298: Cap_13 5
+    2300300: Cap_14
+    2300302: Cap_14 1
+    2300304: Cap_14 2
+    2300306: Cap_14 3
+    2300308: Cap_14 4
+    2300310: Cap_14 5
+    2300312: Cap_15
+    2300314: Cap_15 1
+    2300316: Cap_15 2
+    2300318: Cap_15 3
+    2300320: Cap_15 4
+    2300322: Cap_15 5
+    2300324: Cap_16
+    2300326: Cap_16 1
+    2300328: Cap_16 2
+    2300330: Cap_16 3
+    2300332: Cap_16 4
+    2300334: Cap_16 5
+    2300336: Cap_2
+    2300338: Cap_2 1
+    2300340: Cap_2 2
+    2300342: Cap_2 3
+    2300344: Cap_2 4
+    2300346: Cap_2 5
+    2300348: Cap_3
+    2300350: Cap_3 1
+    2300352: Cap_3 2
+    2300354: Cap_3 3
+    2300356: Cap_3 4
+    2300358: Cap_3 5
+    2300360: Cap_4
+    2300362: Cap_4 1
+    2300364: Cap_4 2
+    2300366: Cap_4 3
+    2300368: Cap_4 4
+    2300370: Cap_4 5
+    2300372: Cap_5
+    2300374: Cap_5 1
+    2300376: Cap_5 2
+    2300378: Cap_5 3
+    2300380: Cap_5 4
+    2300382: Cap_5 5
+    2300384: Cap_6
+    2300386: Cap_6 1
+    2300388: Cap_6 2
+    2300390: Cap_6 3
+    2300392: Cap_6 4
+    2300394: Cap_6 5
+    2300396: Cap_7
+    2300398: Cap_7 1
+    2300400: Cap_7 2
+    2300402: Cap_7 3
+    2300404: Cap_7 4
+    2300406: Cap_7 5
+    2300408: Cap_8
+    2300410: Cap_8 1
+    2300412: Cap_8 2
+    2300414: Cap_8 3
+    2300416: Cap_8 4
+    2300418: Cap_8 5
+    2300420: Cap_9
+    2300422: Cap_9 1
+    2300424: Cap_9 2
+    2300426: Cap_9 3
+    2300428: Cap_9 4
+    2300430: Cap_9 5
+    2300432: Final_JPan_Gate:Cap_1
+    2300434: Final_JPan_Gate:Cap_10
+    2300436: Final_JPan_Gate:Cap_11
+    2300438: Final_JPan_Gate:Cap_12
+    2300440: Final_JPan_Gate:Cap_13
+    2300442: Final_JPan_Gate:Cap_14
+    2300444: Final_JPan_Gate:Cap_15
+    2300446: Final_JPan_Gate:Cap_16
+    2300448: Final_JPan_Gate:Cap_2
+    2300450: Final_JPan_Gate:Cap_3
+    2300452: Final_JPan_Gate:Cap_4
+    2300454: Final_JPan_Gate:Cap_5
+    2300456: Final_JPan_Gate:Cap_6
+    2300458: Final_JPan_Gate:Cap_7
+    2300460: Final_JPan_Gate:Cap_8
+    2300462: Final_JPan_Gate:Cap_9
+    2300464: Final_JPan_Gate:Hook
+    2300466: Final_JPan_Gate:Hook 1
+    2300468: Final_JPan_Gate:Hook_Bace
+    2300470: Final_JPan_Gate:Hook_Bace 1
+    2300472: Final_JPan_Gate:Hook_Support
+    2300474: Final_JPan_Gate:Hook_Support 1
+    2300476: Final_JPan_Gate:Lantern_Rope1
+    2300478: Final_JPan_Gate:Lantern_Rope1 1
+    2300480: Final_JPan_Gate:Loop
+    2300482: Final_JPan_Gate:Loop 1
+    2300484: Final_JPan_Gate:Paper
+    2300486: Final_JPan_Gate:Paper 1
+    2300488: Final_JPan_Gate:pCube1
+    2300490: Final_JPan_Gate:pCube1 1
+    2300492: Final_JPan_Gate:pCube1 2
+    2300494: Final_JPan_Gate:pCube1 3
+    2300496: Final_JPan_Gate:pCube1 4
+    2300498: Final_JPan_Gate:pCube2
+    2300500: Final_JPan_Gate:pCube2 1
+    2300502: Final_JPan_Gate:pCube2 2
+    2300504: Final_JPan_Gate:pCube2 3
+    2300506: Final_JPan_Gate:pCube2 4
+    2300508: Final_JPan_Gate:pCube28
+    2300510: Final_JPan_Gate:pCube29
+    2300512: Final_JPan_Gate:pCube3
+    2300514: Final_JPan_Gate:pCube3 1
+    2300516: Final_JPan_Gate:pCube3 2
+    2300518: Final_JPan_Gate:pCube3 3
+    2300520: Final_JPan_Gate:pCube3 4
+    2300522: Final_JPan_Gate:pCube30
+    2300524: Final_JPan_Gate:pCube31
+    2300526: Final_JPan_Gate:pCube4
+    2300528: Final_JPan_Gate:pCube4 1
+    2300530: Final_JPan_Gate:pCube4 2
+    2300532: Final_JPan_Gate:pCube4 3
+    2300534: Final_JPan_Gate:pCube4 4
+    2300536: Final_JPan_Gate:pCube5
+    2300538: Final_JPan_Gate:pCube5 1
+    2300540: Final_JPan_Gate:pCylinder1
+    2300542: Final_JPan_Gate:pCylinder1 1
+    2300544: Final_JPan_Gate:pCylinder1 2
+    2300546: Final_JPan_Gate:pCylinder1 3
+    2300548: Final_JPan_Gate:pCylinder1 4
+    2300550: Final_JPan_Gate:Primary_Pillar_1
+    2300552: Final_JPan_Gate:Primary_Pillar_2
+    2300554: Final_JPan_Gate:Primary_Strut
+    2300556: Final_JPan_Gate:Primary_Support
+    2300558: Final_JPan_Gate:pSphere1
+    2300560: Final_JPan_Gate:pSphere1 1
+    2300562: Final_JPan_Gate:pSphere2
+    2300564: Final_JPan_Gate:pSphere2 1
+    2300566: Final_JPan_Gate:pSphere3
+    2300568: Final_JPan_Gate:pSphere3 1
+    2300570: Final_JPan_Gate:Roof
+    2300572: Final_JPan_Gate:Rope_1
+    2300574: Final_JPan_Gate:Rope_1 1
+    2300576: Final_JPan_Gate:Rope_2
+    2300578: Final_JPan_Gate:Rope_2 1
+    2300580: Final_JPan_Gate:Scroll_Container
+    2300582: Final_JPan_Gate:Scroll_Container 1
+    2300584: Final_JPan_Gate:Secondary_Pillar_1
+    2300586: Final_JPan_Gate:Secondary_Pillar_2
+    2300588: Final_JPan_Gate:Secondary_Pillar_3
+    2300590: Final_JPan_Gate:Secondary_Pillar_4
+    2300592: Final_JPan_Gate:Secondary_Pillar_Top_1
+    2300594: Final_JPan_Gate:Secondary_Pillar_Top_2
+    2300596: Final_JPan_Gate:Secondary_Pillar_Top_3
+    2300598: Final_JPan_Gate:Secondary_Pillar_Top_4
+    2300600: Final_JPan_Gate:Secondary_Strut_1
+    2300602: Final_JPan_Gate:Secondary_Strut_2
+    2300604: Final_JPan_Gate:Secondary_Strut_3
+    2300606: Final_JPan_Gate:Secondary_Strut_4
+    2300608: Final_Reflecting_Pool:Bace
+    2300610: Final_Reflecting_Pool:Bace 1
+    2300612: Final_Reflecting_Pool:Bace 2
+    2300614: Final_Reflecting_Pool:Bace 3
+    2300616: Final_Reflecting_Pool:Bace 4
+    2300618: Final_Reflecting_Pool:Bace 5
+    2300620: Final_Reflecting_Pool:Bace 6
+    2300622: Final_Reflecting_Pool:Bace 7
+    2300624: Final_Reflecting_Pool:Bace 8
+    2300626: Final_Reflecting_Pool:Bace_Cracked
+    2300628: Final_Reflecting_Pool:Bace_Cracked 1
+    2300630: Final_Reflecting_Pool:Bace_Darkness
+    2300632: Final_Reflecting_Pool:Bace_Darkness 1
+    2300634: Final_Reflecting_Pool:Central_Pedistal
+    2300636: Final_Reflecting_Pool:Lilipad_1
+    2300638: Final_Reflecting_Pool:Lilipad_10
+    2300640: Final_Reflecting_Pool:Lilipad_11
+    2300642: Final_Reflecting_Pool:Lilipad_2
+    2300644: Final_Reflecting_Pool:Lilipad_3
+    2300646: Final_Reflecting_Pool:Lilipad_4
+    2300648: Final_Reflecting_Pool:Lilipad_5
+    2300650: Final_Reflecting_Pool:Lilipad_6
+    2300652: Final_Reflecting_Pool:Lilipad_7
+    2300654: Final_Reflecting_Pool:Lilipad_8
+    2300656: Final_Reflecting_Pool:Lilipad_9
+    2300658: Final_Reflecting_Pool:Main_Roof_Strut
+    2300660: Final_Reflecting_Pool:Main_Roof_Strut 1
+    2300662: Final_Reflecting_Pool:Main_Roof_Strut 2
+    2300664: Final_Reflecting_Pool:Main_Roof_Strut 3
+    2300666: Final_Reflecting_Pool:Pillar_1
+    2300668: Final_Reflecting_Pool:Pillar_1 1
+    2300670: Final_Reflecting_Pool:Pillar_1 2
+    2300672: Final_Reflecting_Pool:Pillar_1 3
+    2300674: Final_Reflecting_Pool:Pillar_1 4
+    2300676: Final_Reflecting_Pool:Pillar_1 5
+    2300678: Final_Reflecting_Pool:Pillar_1 6
+    2300680: Final_Reflecting_Pool:Pillar_1 7
+    2300682: Final_Reflecting_Pool:Pillar_1 8
+    2300684: Final_Reflecting_Pool:Pillar_2
+    2300686: Final_Reflecting_Pool:Pillar_2 1
+    2300688: Final_Reflecting_Pool:Pillar_2 2
+    2300690: Final_Reflecting_Pool:Pillar_2 3
+    2300692: Final_Reflecting_Pool:Pillar_2 4
+    2300694: Final_Reflecting_Pool:Pillar_2 5
+    2300696: Final_Reflecting_Pool:Pillar_2 6
+    2300698: Final_Reflecting_Pool:Pillar_2 7
+    2300700: Final_Reflecting_Pool:Pillar_2 8
+    2300702: Final_Reflecting_Pool:Pillar_3
+    2300704: Final_Reflecting_Pool:Pillar_3 1
+    2300706: Final_Reflecting_Pool:Pillar_3 2
+    2300708: Final_Reflecting_Pool:Pillar_3 3
+    2300710: Final_Reflecting_Pool:Pillar_3 4
+    2300712: Final_Reflecting_Pool:Pillar_3 5
+    2300714: Final_Reflecting_Pool:Pillar_3 6
+    2300716: Final_Reflecting_Pool:Pillar_3 7
+    2300718: Final_Reflecting_Pool:Pillar_3 8
+    2300720: Final_Reflecting_Pool:Pillar_4
+    2300722: Final_Reflecting_Pool:Pillar_4 1
+    2300724: Final_Reflecting_Pool:Pillar_4 2
+    2300726: Final_Reflecting_Pool:Pillar_4 3
+    2300728: Final_Reflecting_Pool:Pillar_4 4
+    2300730: Final_Reflecting_Pool:Pillar_4 5
+    2300732: Final_Reflecting_Pool:Pillar_4 6
+    2300734: Final_Reflecting_Pool:Pillar_4 7
+    2300736: Final_Reflecting_Pool:Pillar_4 8
+    2300738: Final_Reflecting_Pool:Pillar_5
+    2300740: Final_Reflecting_Pool:Pillar_5 1
+    2300742: Final_Reflecting_Pool:Pillar_5 2
+    2300744: Final_Reflecting_Pool:Pillar_5 3
+    2300746: Final_Reflecting_Pool:Pillar_5 4
+    2300748: Final_Reflecting_Pool:Pillar_5 5
+    2300750: Final_Reflecting_Pool:Pillar_5 6
+    2300752: Final_Reflecting_Pool:Pillar_5 7
+    2300754: Final_Reflecting_Pool:Pillar_6
+    2300756: Final_Reflecting_Pool:Pillar_6 1
+    2300758: Final_Reflecting_Pool:Pillar_6 2
+    2300760: Final_Reflecting_Pool:Pillar_6 3
+    2300762: Final_Reflecting_Pool:Pillar_6 4
+    2300764: Final_Reflecting_Pool:Pillar_6 5
+    2300766: Final_Reflecting_Pool:Pillar_6 6
+    2300768: Final_Reflecting_Pool:Pillar_6 7
+    2300770: Final_Reflecting_Pool:Pillar_7
+    2300772: Final_Reflecting_Pool:Pillar_7 1
+    2300774: Final_Reflecting_Pool:Pillar_7 2
+    2300776: Final_Reflecting_Pool:Pillar_7 3
+    2300778: Final_Reflecting_Pool:Pillar_7 4
+    2300780: Final_Reflecting_Pool:Pillar_7 5
+    2300782: Final_Reflecting_Pool:Pillar_7 6
+    2300784: Final_Reflecting_Pool:Pillar_8
+    2300786: Final_Reflecting_Pool:Pillar_8 1
+    2300788: Final_Reflecting_Pool:Pillar_8 2
+    2300790: Final_Reflecting_Pool:Pillar_8 3
+    2300792: Final_Reflecting_Pool:polySurface1
+    2300794: Final_Reflecting_Pool:polySurface2
+    2300796: Final_Reflecting_Pool:Pond_bottom
+    2300798: Final_Reflecting_Pool:Roof 1
+    2300800: Final_Reflecting_Pool:Roof 10
+    2300802: Final_Reflecting_Pool:Roof 11
+    2300804: Final_Reflecting_Pool:Roof 12
+    2300806: Final_Reflecting_Pool:Roof 2
+    2300808: Final_Reflecting_Pool:Roof 3
+    2300810: Final_Reflecting_Pool:Roof 4
+    2300812: Final_Reflecting_Pool:Roof 9
+    2300814: Final_Reflecting_Pool:Roof_Strut1
+    2300816: Final_Reflecting_Pool:Roof_Strut1 1
+    2300818: Final_Reflecting_Pool:Roof_Strut1 2
+    2300820: Final_Reflecting_Pool:Roof_Strut1 3
+    2300822: Final_Reflecting_Pool:Roof_Strut1 4
+    2300824: Final_Reflecting_Pool:Roof_Strut2
+    2300826: Final_Reflecting_Pool:Roof_Strut2 1
+    2300828: Final_Reflecting_Pool:Roof_Strut2 2
+    2300830: Final_Reflecting_Pool:Roof_Strut2 3
+    2300832: Final_Reflecting_Pool:Roof_Strut2 4
+    2300834: Final_Reflecting_Pool:Roof_Strut3
+    2300836: Final_Reflecting_Pool:Roof_Strut3 1
+    2300838: Final_Reflecting_Pool:Roof_Strut3 2
+    2300840: Final_Reflecting_Pool:Roof_Strut3 3
+    2300842: Final_Reflecting_Pool:Roof_Strut3 4
+    2300844: Final_Reflecting_Pool:Roof_Strut4
+    2300846: Final_Reflecting_Pool:Roof_Strut4 1
+    2300848: Final_Reflecting_Pool:Roof_Strut4 2
+    2300850: Final_Reflecting_Pool:Roof_Strut4 3
+    2300852: Final_Reflecting_Pool:Roof_Strut5
+    2300854: Final_Reflecting_Pool:Roof_Strut5 1
+    2300856: Final_Reflecting_Pool:Roof_Strut5 2
+    2300858: Final_Reflecting_Pool:Roof_Strut5 3
+    2300860: Final_Reflecting_Pool:Wall
+    2300862: Final_Reflecting_Pool:Wall 1
+    2300864: Final_Reflecting_Pool:Wall 2
+    2300866: Final_Reflecting_Pool:Wall1
+    2300868: Final_Reflecting_Pool:Wall2
+    2300870: Hook
+    2300872: Hook 1
+    2300874: Hook 10
+    2300876: Hook 11
+    2300878: Hook 2
+    2300880: Hook 3
+    2300882: Hook 4
+    2300884: Hook 5
+    2300886: Hook 6
+    2300888: Hook 7
+    2300890: Hook 8
+    2300892: Hook 9
+    2300894: Hook_Bace
+    2300896: Hook_Bace 1
+    2300898: Hook_Bace 10
+    2300900: Hook_Bace 11
+    2300902: Hook_Bace 2
+    2300904: Hook_Bace 3
+    2300906: Hook_Bace 4
+    2300908: Hook_Bace 5
+    2300910: Hook_Bace 6
+    2300912: Hook_Bace 7
+    2300914: Hook_Bace 8
+    2300916: Hook_Bace 9
+    2300918: Hook_Support
+    2300920: Hook_Support 1
+    2300922: Hook_Support 10
+    2300924: Hook_Support 11
+    2300926: Hook_Support 2
+    2300928: Hook_Support 3
+    2300930: Hook_Support 4
+    2300932: Hook_Support 5
+    2300934: Hook_Support 6
+    2300936: Hook_Support 7
+    2300938: Hook_Support 8
+    2300940: Hook_Support 9
+    2300942: Lantern_Rope1
+    2300944: Lantern_Rope1 1
+    2300946: Lantern_Rope1 10
+    2300948: Lantern_Rope1 11
+    2300950: Lantern_Rope1 2
+    2300952: Lantern_Rope1 3
+    2300954: Lantern_Rope1 4
+    2300956: Lantern_Rope1 5
+    2300958: Lantern_Rope1 6
+    2300960: Lantern_Rope1 7
+    2300962: Lantern_Rope1 8
+    2300964: Lantern_Rope1 9
+    2300966: Loop
+    2300968: Loop 1
+    2300970: Loop 10
+    2300972: Loop 11
+    2300974: Loop 2
+    2300976: Loop 3
+    2300978: Loop 4
+    2300980: Loop 5
+    2300982: Loop 6
+    2300984: Loop 7
+    2300986: Loop 8
+    2300988: Loop 9
+    2300990: Paper
+    2300992: Paper 1
+    2300994: Paper 10
+    2300996: Paper 11
+    2300998: Paper 2
+    2301000: Paper 3
+    2301002: Paper 4
+    2301004: Paper 5
+    2301006: Paper 6
+    2301008: Paper 7
+    2301010: Paper 8
+    2301012: Paper 9
+    2301014: pCube1
+    2301016: pCube1 1
+    2301018: pCube1 10
+    2301020: pCube1 11
+    2301022: pCube1 12
+    2301024: pCube1 13
+    2301026: pCube1 14
+    2301028: pCube1 15
+    2301030: pCube1 16
+    2301032: pCube1 17
+    2301034: pCube1 18
+    2301036: pCube1 19
+    2301038: pCube1 2
+    2301040: pCube1 20
+    2301042: pCube1 21
+    2301044: pCube1 22
+    2301046: pCube1 23
+    2301048: pCube1 24
+    2301050: pCube1 25
+    2301052: pCube1 26
+    2301054: pCube1 27
+    2301056: pCube1 28
+    2301058: pCube1 29
+    2301060: pCube1 3
+    2301062: pCube1 4
+    2301064: pCube1 5
+    2301066: pCube1 6
+    2301068: pCube1 7
+    2301070: pCube1 8
+    2301072: pCube1 9
+    2301074: pCube2
+    2301076: pCube2 1
+    2301078: pCube2 10
+    2301080: pCube2 11
+    2301082: pCube2 12
+    2301084: pCube2 13
+    2301086: pCube2 14
+    2301088: pCube2 15
+    2301090: pCube2 16
+    2301092: pCube2 17
+    2301094: pCube2 18
+    2301096: pCube2 19
+    2301098: pCube2 2
+    2301100: pCube2 20
+    2301102: pCube2 21
+    2301104: pCube2 22
+    2301106: pCube2 23
+    2301108: pCube2 24
+    2301110: pCube2 25
+    2301112: pCube2 26
+    2301114: pCube2 27
+    2301116: pCube2 28
+    2301118: pCube2 29
+    2301120: pCube2 3
+    2301122: pCube2 4
+    2301124: pCube2 5
+    2301126: pCube2 6
+    2301128: pCube2 7
+    2301130: pCube2 8
+    2301132: pCube2 9
+    2301134: pCube28
+    2301136: pCube28 1
+    2301138: pCube28 2
+    2301140: pCube28 3
+    2301142: pCube28 4
+    2301144: pCube28 5
+    2301146: pCube29
+    2301148: pCube29 1
+    2301150: pCube29 2
+    2301152: pCube29 3
+    2301154: pCube29 4
+    2301156: pCube29 5
+    2301158: pCube3
+    2301160: pCube3 1
+    2301162: pCube3 10
+    2301164: pCube3 11
+    2301166: pCube3 12
+    2301168: pCube3 13
+    2301170: pCube3 14
+    2301172: pCube3 15
+    2301174: pCube3 16
+    2301176: pCube3 17
+    2301178: pCube3 18
+    2301180: pCube3 19
+    2301182: pCube3 2
+    2301184: pCube3 20
+    2301186: pCube3 21
+    2301188: pCube3 22
+    2301190: pCube3 23
+    2301192: pCube3 24
+    2301194: pCube3 25
+    2301196: pCube3 26
+    2301198: pCube3 27
+    2301200: pCube3 28
+    2301202: pCube3 29
+    2301204: pCube3 3
+    2301206: pCube3 4
+    2301208: pCube3 5
+    2301210: pCube3 6
+    2301212: pCube3 7
+    2301214: pCube3 8
+    2301216: pCube3 9
+    2301218: pCube30
+    2301220: pCube30 1
+    2301222: pCube30 2
+    2301224: pCube30 3
+    2301226: pCube30 4
+    2301228: pCube30 5
+    2301230: pCube31
+    2301232: pCube31 1
+    2301234: pCube31 2
+    2301236: pCube31 3
+    2301238: pCube31 4
+    2301240: pCube31 5
+    2301242: pCube4
+    2301244: pCube4 1
+    2301246: pCube4 10
+    2301248: pCube4 11
+    2301250: pCube4 12
+    2301252: pCube4 13
+    2301254: pCube4 14
+    2301256: pCube4 15
+    2301258: pCube4 16
+    2301260: pCube4 17
+    2301262: pCube4 18
+    2301264: pCube4 19
+    2301266: pCube4 2
+    2301268: pCube4 20
+    2301270: pCube4 21
+    2301272: pCube4 22
+    2301274: pCube4 23
+    2301276: pCube4 24
+    2301278: pCube4 25
+    2301280: pCube4 26
+    2301282: pCube4 27
+    2301284: pCube4 28
+    2301286: pCube4 29
+    2301288: pCube4 3
+    2301290: pCube4 4
+    2301292: pCube4 5
+    2301294: pCube4 6
+    2301296: pCube4 7
+    2301298: pCube4 8
+    2301300: pCube4 9
+    2301302: pCube5
+    2301304: pCube5 1
+    2301306: pCube5 10
+    2301308: pCube5 11
+    2301310: pCube5 2
+    2301312: pCube5 3
+    2301314: pCube5 4
+    2301316: pCube5 5
+    2301318: pCube5 6
+    2301320: pCube5 7
+    2301322: pCube5 8
+    2301324: pCube5 9
+    2301326: pCylinder1
+    2301328: pCylinder1 1
+    2301330: pCylinder1 10
+    2301332: pCylinder1 11
+    2301334: pCylinder1 12
+    2301336: pCylinder1 13
+    2301338: pCylinder1 14
+    2301340: pCylinder1 15
+    2301342: pCylinder1 16
+    2301344: pCylinder1 17
+    2301346: pCylinder1 18
+    2301348: pCylinder1 19
+    2301350: pCylinder1 2
+    2301352: pCylinder1 20
+    2301354: pCylinder1 21
+    2301356: pCylinder1 22
+    2301358: pCylinder1 23
+    2301360: pCylinder1 24
+    2301362: pCylinder1 25
+    2301364: pCylinder1 26
+    2301366: pCylinder1 27
+    2301368: pCylinder1 28
+    2301370: pCylinder1 29
+    2301372: pCylinder1 3
+    2301374: pCylinder1 4
+    2301376: pCylinder1 5
+    2301378: pCylinder1 6
+    2301380: pCylinder1 7
+    2301382: pCylinder1 8
+    2301384: pCylinder1 9
+    2301386: Primary_Pillar_1
+    2301388: Primary_Pillar_1 1
+    2301390: Primary_Pillar_1 2
+    2301392: Primary_Pillar_1 3
+    2301394: Primary_Pillar_1 4
+    2301396: Primary_Pillar_1 5
+    2301398: Primary_Pillar_2
+    2301400: Primary_Pillar_2 1
+    2301402: Primary_Pillar_2 2
+    2301404: Primary_Pillar_2 3
+    2301406: Primary_Pillar_2 4
+    2301408: Primary_Pillar_2 5
+    2301410: Primary_Strut
+    2301412: Primary_Strut 1
+    2301414: Primary_Strut 2
+    2301416: Primary_Strut 3
+    2301418: Primary_Strut 4
+    2301420: Primary_Strut 5
+    2301422: Primary_Support
+    2301424: Primary_Support 1
+    2301426: Primary_Support 2
+    2301428: Primary_Support 3
+    2301430: Primary_Support 4
+    2301432: Primary_Support 5
+    2301434: pSphere1
+    2301436: pSphere1 1
+    2301438: pSphere1 10
+    2301440: pSphere1 11
+    2301442: pSphere1 2
+    2301444: pSphere1 3
+    2301446: pSphere1 4
+    2301448: pSphere1 5
+    2301450: pSphere1 6
+    2301452: pSphere1 7
+    2301454: pSphere1 8
+    2301456: pSphere1 9
+    2301458: pSphere2
+    2301460: pSphere2 1
+    2301462: pSphere2 10
+    2301464: pSphere2 11
+    2301466: pSphere2 2
+    2301468: pSphere2 3
+    2301470: pSphere2 4
+    2301472: pSphere2 5
+    2301474: pSphere2 6
+    2301476: pSphere2 7
+    2301478: pSphere2 8
+    2301480: pSphere2 9
+    2301482: pSphere3
+    2301484: pSphere3 1
+    2301486: pSphere3 10
+    2301488: pSphere3 11
+    2301490: pSphere3 2
+    2301492: pSphere3 3
+    2301494: pSphere3 4
+    2301496: pSphere3 5
+    2301498: pSphere3 6
+    2301500: pSphere3 7
+    2301502: pSphere3 8
+    2301504: pSphere3 9
+    2301506: Roof
+    2301508: Roof 1
+    2301510: Roof 2
+    2301512: Roof 3
+    2301514: Roof 4
+    2301516: Roof 5
+    2301518: Rope_1
+    2301520: Rope_1 1
+    2301522: Rope_1 10
+    2301524: Rope_1 11
+    2301526: Rope_1 2
+    2301528: Rope_1 3
+    2301530: Rope_1 4
+    2301532: Rope_1 5
+    2301534: Rope_1 6
+    2301536: Rope_1 7
+    2301538: Rope_1 8
+    2301540: Rope_1 9
+    2301542: Rope_2
+    2301544: Rope_2 1
+    2301546: Rope_2 10
+    2301548: Rope_2 11
+    2301550: Rope_2 2
+    2301552: Rope_2 3
+    2301554: Rope_2 4
+    2301556: Rope_2 5
+    2301558: Rope_2 6
+    2301560: Rope_2 7
+    2301562: Rope_2 8
+    2301564: Rope_2 9
+    2301566: Scroll_Container
+    2301568: Scroll_Container 1
+    2301570: Scroll_Container 10
+    2301572: Scroll_Container 11
+    2301574: Scroll_Container 2
+    2301576: Scroll_Container 3
+    2301578: Scroll_Container 4
+    2301580: Scroll_Container 5
+    2301582: Scroll_Container 6
+    2301584: Scroll_Container 7
+    2301586: Scroll_Container 8
+    2301588: Scroll_Container 9
+    2301590: Secondary_Pillar_1
+    2301592: Secondary_Pillar_1 1
+    2301594: Secondary_Pillar_1 2
+    2301596: Secondary_Pillar_1 3
+    2301598: Secondary_Pillar_1 4
+    2301600: Secondary_Pillar_1 5
+    2301602: Secondary_Pillar_2
+    2301604: Secondary_Pillar_2 1
+    2301606: Secondary_Pillar_2 2
+    2301608: Secondary_Pillar_2 3
+    2301610: Secondary_Pillar_2 4
+    2301612: Secondary_Pillar_2 5
+    2301614: Secondary_Pillar_3
+    2301616: Secondary_Pillar_3 1
+    2301618: Secondary_Pillar_3 2
+    2301620: Secondary_Pillar_3 3
+    2301622: Secondary_Pillar_3 4
+    2301624: Secondary_Pillar_3 5
+    2301626: Secondary_Pillar_4
+    2301628: Secondary_Pillar_4 1
+    2301630: Secondary_Pillar_4 2
+    2301632: Secondary_Pillar_4 3
+    2301634: Secondary_Pillar_4 4
+    2301636: Secondary_Pillar_4 5
+    2301638: Secondary_Pillar_Top_1
+    2301640: Secondary_Pillar_Top_1 1
+    2301642: Secondary_Pillar_Top_1 2
+    2301644: Secondary_Pillar_Top_1 3
+    2301646: Secondary_Pillar_Top_1 4
+    2301648: Secondary_Pillar_Top_1 5
+    2301650: Secondary_Pillar_Top_2
+    2301652: Secondary_Pillar_Top_2 1
+    2301654: Secondary_Pillar_Top_2 2
+    2301656: Secondary_Pillar_Top_2 3
+    2301658: Secondary_Pillar_Top_2 4
+    2301660: Secondary_Pillar_Top_2 5
+    2301662: Secondary_Pillar_Top_3
+    2301664: Secondary_Pillar_Top_3 1
+    2301666: Secondary_Pillar_Top_3 2
+    2301668: Secondary_Pillar_Top_3 3
+    2301670: Secondary_Pillar_Top_3 4
+    2301672: Secondary_Pillar_Top_3 5
+    2301674: Secondary_Pillar_Top_4
+    2301676: Secondary_Pillar_Top_4 1
+    2301678: Secondary_Pillar_Top_4 2
+    2301680: Secondary_Pillar_Top_4 3
+    2301682: Secondary_Pillar_Top_4 4
+    2301684: Secondary_Pillar_Top_4 5
+    2301686: Secondary_Strut_1
+    2301688: Secondary_Strut_1 1
+    2301690: Secondary_Strut_1 2
+    2301692: Secondary_Strut_1 3
+    2301694: Secondary_Strut_1 4
+    2301696: Secondary_Strut_1 5
+    2301698: Secondary_Strut_2
+    2301700: Secondary_Strut_2 1
+    2301702: Secondary_Strut_2 2
+    2301704: Secondary_Strut_2 3
+    2301706: Secondary_Strut_2 4
+    2301708: Secondary_Strut_2 5
+    2301710: Secondary_Strut_3
+    2301712: Secondary_Strut_3 1
+    2301714: Secondary_Strut_3 2
+    2301716: Secondary_Strut_3 3
+    2301718: Secondary_Strut_3 4
+    2301720: Secondary_Strut_3 5
+    2301722: Secondary_Strut_4
+    2301724: Secondary_Strut_4 1
+    2301726: Secondary_Strut_4 2
+    2301728: Secondary_Strut_4 3
+    2301730: Secondary_Strut_4 4
+    2301732: Secondary_Strut_4 5
+    2301734: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    2301736: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    2301738: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    2301740: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    2301742: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    2301744: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    2301746: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    2301748: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    2301750: Temple_Terrein
     3300000: pCylinder2
     3300002: pCylinder3
     3300004: pCylinder4
@@ -567,6 +3157,762 @@ ModelImporter:
     3300234: pPlane7 9
     3300236: Trunk
     3300238: polySurface1
+    3300240: Cap_1
+    3300242: Cap_1 1
+    3300244: Cap_1 2
+    3300246: Cap_1 3
+    3300248: Cap_1 4
+    3300250: Cap_1 5
+    3300252: Cap_10
+    3300254: Cap_10 1
+    3300256: Cap_10 2
+    3300258: Cap_10 3
+    3300260: Cap_10 4
+    3300262: Cap_10 5
+    3300264: Cap_11
+    3300266: Cap_11 1
+    3300268: Cap_11 2
+    3300270: Cap_11 3
+    3300272: Cap_11 4
+    3300274: Cap_11 5
+    3300276: Cap_12
+    3300278: Cap_12 1
+    3300280: Cap_12 2
+    3300282: Cap_12 3
+    3300284: Cap_12 4
+    3300286: Cap_12 5
+    3300288: Cap_13
+    3300290: Cap_13 1
+    3300292: Cap_13 2
+    3300294: Cap_13 3
+    3300296: Cap_13 4
+    3300298: Cap_13 5
+    3300300: Cap_14
+    3300302: Cap_14 1
+    3300304: Cap_14 2
+    3300306: Cap_14 3
+    3300308: Cap_14 4
+    3300310: Cap_14 5
+    3300312: Cap_15
+    3300314: Cap_15 1
+    3300316: Cap_15 2
+    3300318: Cap_15 3
+    3300320: Cap_15 4
+    3300322: Cap_15 5
+    3300324: Cap_16
+    3300326: Cap_16 1
+    3300328: Cap_16 2
+    3300330: Cap_16 3
+    3300332: Cap_16 4
+    3300334: Cap_16 5
+    3300336: Cap_2
+    3300338: Cap_2 1
+    3300340: Cap_2 2
+    3300342: Cap_2 3
+    3300344: Cap_2 4
+    3300346: Cap_2 5
+    3300348: Cap_3
+    3300350: Cap_3 1
+    3300352: Cap_3 2
+    3300354: Cap_3 3
+    3300356: Cap_3 4
+    3300358: Cap_3 5
+    3300360: Cap_4
+    3300362: Cap_4 1
+    3300364: Cap_4 2
+    3300366: Cap_4 3
+    3300368: Cap_4 4
+    3300370: Cap_4 5
+    3300372: Cap_5
+    3300374: Cap_5 1
+    3300376: Cap_5 2
+    3300378: Cap_5 3
+    3300380: Cap_5 4
+    3300382: Cap_5 5
+    3300384: Cap_6
+    3300386: Cap_6 1
+    3300388: Cap_6 2
+    3300390: Cap_6 3
+    3300392: Cap_6 4
+    3300394: Cap_6 5
+    3300396: Cap_7
+    3300398: Cap_7 1
+    3300400: Cap_7 2
+    3300402: Cap_7 3
+    3300404: Cap_7 4
+    3300406: Cap_7 5
+    3300408: Cap_8
+    3300410: Cap_8 1
+    3300412: Cap_8 2
+    3300414: Cap_8 3
+    3300416: Cap_8 4
+    3300418: Cap_8 5
+    3300420: Cap_9
+    3300422: Cap_9 1
+    3300424: Cap_9 2
+    3300426: Cap_9 3
+    3300428: Cap_9 4
+    3300430: Cap_9 5
+    3300432: Final_JPan_Gate:Cap_1
+    3300434: Final_JPan_Gate:Cap_10
+    3300436: Final_JPan_Gate:Cap_11
+    3300438: Final_JPan_Gate:Cap_12
+    3300440: Final_JPan_Gate:Cap_13
+    3300442: Final_JPan_Gate:Cap_14
+    3300444: Final_JPan_Gate:Cap_15
+    3300446: Final_JPan_Gate:Cap_16
+    3300448: Final_JPan_Gate:Cap_2
+    3300450: Final_JPan_Gate:Cap_3
+    3300452: Final_JPan_Gate:Cap_4
+    3300454: Final_JPan_Gate:Cap_5
+    3300456: Final_JPan_Gate:Cap_6
+    3300458: Final_JPan_Gate:Cap_7
+    3300460: Final_JPan_Gate:Cap_8
+    3300462: Final_JPan_Gate:Cap_9
+    3300464: Final_JPan_Gate:Hook
+    3300466: Final_JPan_Gate:Hook 1
+    3300468: Final_JPan_Gate:Hook_Bace
+    3300470: Final_JPan_Gate:Hook_Bace 1
+    3300472: Final_JPan_Gate:Hook_Support
+    3300474: Final_JPan_Gate:Hook_Support 1
+    3300476: Final_JPan_Gate:Lantern_Rope1
+    3300478: Final_JPan_Gate:Lantern_Rope1 1
+    3300480: Final_JPan_Gate:Loop
+    3300482: Final_JPan_Gate:Loop 1
+    3300484: Final_JPan_Gate:Paper
+    3300486: Final_JPan_Gate:Paper 1
+    3300488: Final_JPan_Gate:pCube1
+    3300490: Final_JPan_Gate:pCube1 1
+    3300492: Final_JPan_Gate:pCube1 2
+    3300494: Final_JPan_Gate:pCube1 3
+    3300496: Final_JPan_Gate:pCube1 4
+    3300498: Final_JPan_Gate:pCube2
+    3300500: Final_JPan_Gate:pCube2 1
+    3300502: Final_JPan_Gate:pCube2 2
+    3300504: Final_JPan_Gate:pCube2 3
+    3300506: Final_JPan_Gate:pCube2 4
+    3300508: Final_JPan_Gate:pCube28
+    3300510: Final_JPan_Gate:pCube29
+    3300512: Final_JPan_Gate:pCube3
+    3300514: Final_JPan_Gate:pCube3 1
+    3300516: Final_JPan_Gate:pCube3 2
+    3300518: Final_JPan_Gate:pCube3 3
+    3300520: Final_JPan_Gate:pCube3 4
+    3300522: Final_JPan_Gate:pCube30
+    3300524: Final_JPan_Gate:pCube31
+    3300526: Final_JPan_Gate:pCube4
+    3300528: Final_JPan_Gate:pCube4 1
+    3300530: Final_JPan_Gate:pCube4 2
+    3300532: Final_JPan_Gate:pCube4 3
+    3300534: Final_JPan_Gate:pCube4 4
+    3300536: Final_JPan_Gate:pCube5
+    3300538: Final_JPan_Gate:pCube5 1
+    3300540: Final_JPan_Gate:pCylinder1
+    3300542: Final_JPan_Gate:pCylinder1 1
+    3300544: Final_JPan_Gate:pCylinder1 2
+    3300546: Final_JPan_Gate:pCylinder1 3
+    3300548: Final_JPan_Gate:pCylinder1 4
+    3300550: Final_JPan_Gate:Primary_Pillar_1
+    3300552: Final_JPan_Gate:Primary_Pillar_2
+    3300554: Final_JPan_Gate:Primary_Strut
+    3300556: Final_JPan_Gate:Primary_Support
+    3300558: Final_JPan_Gate:pSphere1
+    3300560: Final_JPan_Gate:pSphere1 1
+    3300562: Final_JPan_Gate:pSphere2
+    3300564: Final_JPan_Gate:pSphere2 1
+    3300566: Final_JPan_Gate:pSphere3
+    3300568: Final_JPan_Gate:pSphere3 1
+    3300570: Final_JPan_Gate:Roof
+    3300572: Final_JPan_Gate:Rope_1
+    3300574: Final_JPan_Gate:Rope_1 1
+    3300576: Final_JPan_Gate:Rope_2
+    3300578: Final_JPan_Gate:Rope_2 1
+    3300580: Final_JPan_Gate:Scroll_Container
+    3300582: Final_JPan_Gate:Scroll_Container 1
+    3300584: Final_JPan_Gate:Secondary_Pillar_1
+    3300586: Final_JPan_Gate:Secondary_Pillar_2
+    3300588: Final_JPan_Gate:Secondary_Pillar_3
+    3300590: Final_JPan_Gate:Secondary_Pillar_4
+    3300592: Final_JPan_Gate:Secondary_Pillar_Top_1
+    3300594: Final_JPan_Gate:Secondary_Pillar_Top_2
+    3300596: Final_JPan_Gate:Secondary_Pillar_Top_3
+    3300598: Final_JPan_Gate:Secondary_Pillar_Top_4
+    3300600: Final_JPan_Gate:Secondary_Strut_1
+    3300602: Final_JPan_Gate:Secondary_Strut_2
+    3300604: Final_JPan_Gate:Secondary_Strut_3
+    3300606: Final_JPan_Gate:Secondary_Strut_4
+    3300608: Final_Reflecting_Pool:Bace
+    3300610: Final_Reflecting_Pool:Bace 1
+    3300612: Final_Reflecting_Pool:Bace 2
+    3300614: Final_Reflecting_Pool:Bace 3
+    3300616: Final_Reflecting_Pool:Bace 4
+    3300618: Final_Reflecting_Pool:Bace 5
+    3300620: Final_Reflecting_Pool:Bace 6
+    3300622: Final_Reflecting_Pool:Bace 7
+    3300624: Final_Reflecting_Pool:Bace 8
+    3300626: Final_Reflecting_Pool:Bace_Cracked
+    3300628: Final_Reflecting_Pool:Bace_Cracked 1
+    3300630: Final_Reflecting_Pool:Bace_Darkness
+    3300632: Final_Reflecting_Pool:Bace_Darkness 1
+    3300634: Final_Reflecting_Pool:Central_Pedistal
+    3300636: Final_Reflecting_Pool:Lilipad_1
+    3300638: Final_Reflecting_Pool:Lilipad_10
+    3300640: Final_Reflecting_Pool:Lilipad_11
+    3300642: Final_Reflecting_Pool:Lilipad_2
+    3300644: Final_Reflecting_Pool:Lilipad_3
+    3300646: Final_Reflecting_Pool:Lilipad_4
+    3300648: Final_Reflecting_Pool:Lilipad_5
+    3300650: Final_Reflecting_Pool:Lilipad_6
+    3300652: Final_Reflecting_Pool:Lilipad_7
+    3300654: Final_Reflecting_Pool:Lilipad_8
+    3300656: Final_Reflecting_Pool:Lilipad_9
+    3300658: Final_Reflecting_Pool:Main_Roof_Strut
+    3300660: Final_Reflecting_Pool:Main_Roof_Strut 1
+    3300662: Final_Reflecting_Pool:Main_Roof_Strut 2
+    3300664: Final_Reflecting_Pool:Main_Roof_Strut 3
+    3300666: Final_Reflecting_Pool:Pillar_1
+    3300668: Final_Reflecting_Pool:Pillar_1 1
+    3300670: Final_Reflecting_Pool:Pillar_1 2
+    3300672: Final_Reflecting_Pool:Pillar_1 3
+    3300674: Final_Reflecting_Pool:Pillar_1 4
+    3300676: Final_Reflecting_Pool:Pillar_1 5
+    3300678: Final_Reflecting_Pool:Pillar_1 6
+    3300680: Final_Reflecting_Pool:Pillar_1 7
+    3300682: Final_Reflecting_Pool:Pillar_1 8
+    3300684: Final_Reflecting_Pool:Pillar_2
+    3300686: Final_Reflecting_Pool:Pillar_2 1
+    3300688: Final_Reflecting_Pool:Pillar_2 2
+    3300690: Final_Reflecting_Pool:Pillar_2 3
+    3300692: Final_Reflecting_Pool:Pillar_2 4
+    3300694: Final_Reflecting_Pool:Pillar_2 5
+    3300696: Final_Reflecting_Pool:Pillar_2 6
+    3300698: Final_Reflecting_Pool:Pillar_2 7
+    3300700: Final_Reflecting_Pool:Pillar_2 8
+    3300702: Final_Reflecting_Pool:Pillar_3
+    3300704: Final_Reflecting_Pool:Pillar_3 1
+    3300706: Final_Reflecting_Pool:Pillar_3 2
+    3300708: Final_Reflecting_Pool:Pillar_3 3
+    3300710: Final_Reflecting_Pool:Pillar_3 4
+    3300712: Final_Reflecting_Pool:Pillar_3 5
+    3300714: Final_Reflecting_Pool:Pillar_3 6
+    3300716: Final_Reflecting_Pool:Pillar_3 7
+    3300718: Final_Reflecting_Pool:Pillar_3 8
+    3300720: Final_Reflecting_Pool:Pillar_4
+    3300722: Final_Reflecting_Pool:Pillar_4 1
+    3300724: Final_Reflecting_Pool:Pillar_4 2
+    3300726: Final_Reflecting_Pool:Pillar_4 3
+    3300728: Final_Reflecting_Pool:Pillar_4 4
+    3300730: Final_Reflecting_Pool:Pillar_4 5
+    3300732: Final_Reflecting_Pool:Pillar_4 6
+    3300734: Final_Reflecting_Pool:Pillar_4 7
+    3300736: Final_Reflecting_Pool:Pillar_4 8
+    3300738: Final_Reflecting_Pool:Pillar_5
+    3300740: Final_Reflecting_Pool:Pillar_5 1
+    3300742: Final_Reflecting_Pool:Pillar_5 2
+    3300744: Final_Reflecting_Pool:Pillar_5 3
+    3300746: Final_Reflecting_Pool:Pillar_5 4
+    3300748: Final_Reflecting_Pool:Pillar_5 5
+    3300750: Final_Reflecting_Pool:Pillar_5 6
+    3300752: Final_Reflecting_Pool:Pillar_5 7
+    3300754: Final_Reflecting_Pool:Pillar_6
+    3300756: Final_Reflecting_Pool:Pillar_6 1
+    3300758: Final_Reflecting_Pool:Pillar_6 2
+    3300760: Final_Reflecting_Pool:Pillar_6 3
+    3300762: Final_Reflecting_Pool:Pillar_6 4
+    3300764: Final_Reflecting_Pool:Pillar_6 5
+    3300766: Final_Reflecting_Pool:Pillar_6 6
+    3300768: Final_Reflecting_Pool:Pillar_6 7
+    3300770: Final_Reflecting_Pool:Pillar_7
+    3300772: Final_Reflecting_Pool:Pillar_7 1
+    3300774: Final_Reflecting_Pool:Pillar_7 2
+    3300776: Final_Reflecting_Pool:Pillar_7 3
+    3300778: Final_Reflecting_Pool:Pillar_7 4
+    3300780: Final_Reflecting_Pool:Pillar_7 5
+    3300782: Final_Reflecting_Pool:Pillar_7 6
+    3300784: Final_Reflecting_Pool:Pillar_8
+    3300786: Final_Reflecting_Pool:Pillar_8 1
+    3300788: Final_Reflecting_Pool:Pillar_8 2
+    3300790: Final_Reflecting_Pool:Pillar_8 3
+    3300792: Final_Reflecting_Pool:polySurface1
+    3300794: Final_Reflecting_Pool:polySurface2
+    3300796: Final_Reflecting_Pool:Pond_bottom
+    3300798: Final_Reflecting_Pool:Roof 1
+    3300800: Final_Reflecting_Pool:Roof 10
+    3300802: Final_Reflecting_Pool:Roof 11
+    3300804: Final_Reflecting_Pool:Roof 12
+    3300806: Final_Reflecting_Pool:Roof 2
+    3300808: Final_Reflecting_Pool:Roof 3
+    3300810: Final_Reflecting_Pool:Roof 4
+    3300812: Final_Reflecting_Pool:Roof 9
+    3300814: Final_Reflecting_Pool:Roof_Strut1
+    3300816: Final_Reflecting_Pool:Roof_Strut1 1
+    3300818: Final_Reflecting_Pool:Roof_Strut1 2
+    3300820: Final_Reflecting_Pool:Roof_Strut1 3
+    3300822: Final_Reflecting_Pool:Roof_Strut1 4
+    3300824: Final_Reflecting_Pool:Roof_Strut2
+    3300826: Final_Reflecting_Pool:Roof_Strut2 1
+    3300828: Final_Reflecting_Pool:Roof_Strut2 2
+    3300830: Final_Reflecting_Pool:Roof_Strut2 3
+    3300832: Final_Reflecting_Pool:Roof_Strut2 4
+    3300834: Final_Reflecting_Pool:Roof_Strut3
+    3300836: Final_Reflecting_Pool:Roof_Strut3 1
+    3300838: Final_Reflecting_Pool:Roof_Strut3 2
+    3300840: Final_Reflecting_Pool:Roof_Strut3 3
+    3300842: Final_Reflecting_Pool:Roof_Strut3 4
+    3300844: Final_Reflecting_Pool:Roof_Strut4
+    3300846: Final_Reflecting_Pool:Roof_Strut4 1
+    3300848: Final_Reflecting_Pool:Roof_Strut4 2
+    3300850: Final_Reflecting_Pool:Roof_Strut4 3
+    3300852: Final_Reflecting_Pool:Roof_Strut5
+    3300854: Final_Reflecting_Pool:Roof_Strut5 1
+    3300856: Final_Reflecting_Pool:Roof_Strut5 2
+    3300858: Final_Reflecting_Pool:Roof_Strut5 3
+    3300860: Final_Reflecting_Pool:Wall
+    3300862: Final_Reflecting_Pool:Wall 1
+    3300864: Final_Reflecting_Pool:Wall 2
+    3300866: Final_Reflecting_Pool:Wall1
+    3300868: Final_Reflecting_Pool:Wall2
+    3300870: Hook
+    3300872: Hook 1
+    3300874: Hook 10
+    3300876: Hook 11
+    3300878: Hook 2
+    3300880: Hook 3
+    3300882: Hook 4
+    3300884: Hook 5
+    3300886: Hook 6
+    3300888: Hook 7
+    3300890: Hook 8
+    3300892: Hook 9
+    3300894: Hook_Bace
+    3300896: Hook_Bace 1
+    3300898: Hook_Bace 10
+    3300900: Hook_Bace 11
+    3300902: Hook_Bace 2
+    3300904: Hook_Bace 3
+    3300906: Hook_Bace 4
+    3300908: Hook_Bace 5
+    3300910: Hook_Bace 6
+    3300912: Hook_Bace 7
+    3300914: Hook_Bace 8
+    3300916: Hook_Bace 9
+    3300918: Hook_Support
+    3300920: Hook_Support 1
+    3300922: Hook_Support 10
+    3300924: Hook_Support 11
+    3300926: Hook_Support 2
+    3300928: Hook_Support 3
+    3300930: Hook_Support 4
+    3300932: Hook_Support 5
+    3300934: Hook_Support 6
+    3300936: Hook_Support 7
+    3300938: Hook_Support 8
+    3300940: Hook_Support 9
+    3300942: Lantern_Rope1
+    3300944: Lantern_Rope1 1
+    3300946: Lantern_Rope1 10
+    3300948: Lantern_Rope1 11
+    3300950: Lantern_Rope1 2
+    3300952: Lantern_Rope1 3
+    3300954: Lantern_Rope1 4
+    3300956: Lantern_Rope1 5
+    3300958: Lantern_Rope1 6
+    3300960: Lantern_Rope1 7
+    3300962: Lantern_Rope1 8
+    3300964: Lantern_Rope1 9
+    3300966: Loop
+    3300968: Loop 1
+    3300970: Loop 10
+    3300972: Loop 11
+    3300974: Loop 2
+    3300976: Loop 3
+    3300978: Loop 4
+    3300980: Loop 5
+    3300982: Loop 6
+    3300984: Loop 7
+    3300986: Loop 8
+    3300988: Loop 9
+    3300990: Paper
+    3300992: Paper 1
+    3300994: Paper 10
+    3300996: Paper 11
+    3300998: Paper 2
+    3301000: Paper 3
+    3301002: Paper 4
+    3301004: Paper 5
+    3301006: Paper 6
+    3301008: Paper 7
+    3301010: Paper 8
+    3301012: Paper 9
+    3301014: pCube1
+    3301016: pCube1 1
+    3301018: pCube1 10
+    3301020: pCube1 11
+    3301022: pCube1 12
+    3301024: pCube1 13
+    3301026: pCube1 14
+    3301028: pCube1 15
+    3301030: pCube1 16
+    3301032: pCube1 17
+    3301034: pCube1 18
+    3301036: pCube1 19
+    3301038: pCube1 2
+    3301040: pCube1 20
+    3301042: pCube1 21
+    3301044: pCube1 22
+    3301046: pCube1 23
+    3301048: pCube1 24
+    3301050: pCube1 25
+    3301052: pCube1 26
+    3301054: pCube1 27
+    3301056: pCube1 28
+    3301058: pCube1 29
+    3301060: pCube1 3
+    3301062: pCube1 4
+    3301064: pCube1 5
+    3301066: pCube1 6
+    3301068: pCube1 7
+    3301070: pCube1 8
+    3301072: pCube1 9
+    3301074: pCube2
+    3301076: pCube2 1
+    3301078: pCube2 10
+    3301080: pCube2 11
+    3301082: pCube2 12
+    3301084: pCube2 13
+    3301086: pCube2 14
+    3301088: pCube2 15
+    3301090: pCube2 16
+    3301092: pCube2 17
+    3301094: pCube2 18
+    3301096: pCube2 19
+    3301098: pCube2 2
+    3301100: pCube2 20
+    3301102: pCube2 21
+    3301104: pCube2 22
+    3301106: pCube2 23
+    3301108: pCube2 24
+    3301110: pCube2 25
+    3301112: pCube2 26
+    3301114: pCube2 27
+    3301116: pCube2 28
+    3301118: pCube2 29
+    3301120: pCube2 3
+    3301122: pCube2 4
+    3301124: pCube2 5
+    3301126: pCube2 6
+    3301128: pCube2 7
+    3301130: pCube2 8
+    3301132: pCube2 9
+    3301134: pCube28
+    3301136: pCube28 1
+    3301138: pCube28 2
+    3301140: pCube28 3
+    3301142: pCube28 4
+    3301144: pCube28 5
+    3301146: pCube29
+    3301148: pCube29 1
+    3301150: pCube29 2
+    3301152: pCube29 3
+    3301154: pCube29 4
+    3301156: pCube29 5
+    3301158: pCube3
+    3301160: pCube3 1
+    3301162: pCube3 10
+    3301164: pCube3 11
+    3301166: pCube3 12
+    3301168: pCube3 13
+    3301170: pCube3 14
+    3301172: pCube3 15
+    3301174: pCube3 16
+    3301176: pCube3 17
+    3301178: pCube3 18
+    3301180: pCube3 19
+    3301182: pCube3 2
+    3301184: pCube3 20
+    3301186: pCube3 21
+    3301188: pCube3 22
+    3301190: pCube3 23
+    3301192: pCube3 24
+    3301194: pCube3 25
+    3301196: pCube3 26
+    3301198: pCube3 27
+    3301200: pCube3 28
+    3301202: pCube3 29
+    3301204: pCube3 3
+    3301206: pCube3 4
+    3301208: pCube3 5
+    3301210: pCube3 6
+    3301212: pCube3 7
+    3301214: pCube3 8
+    3301216: pCube3 9
+    3301218: pCube30
+    3301220: pCube30 1
+    3301222: pCube30 2
+    3301224: pCube30 3
+    3301226: pCube30 4
+    3301228: pCube30 5
+    3301230: pCube31
+    3301232: pCube31 1
+    3301234: pCube31 2
+    3301236: pCube31 3
+    3301238: pCube31 4
+    3301240: pCube31 5
+    3301242: pCube4
+    3301244: pCube4 1
+    3301246: pCube4 10
+    3301248: pCube4 11
+    3301250: pCube4 12
+    3301252: pCube4 13
+    3301254: pCube4 14
+    3301256: pCube4 15
+    3301258: pCube4 16
+    3301260: pCube4 17
+    3301262: pCube4 18
+    3301264: pCube4 19
+    3301266: pCube4 2
+    3301268: pCube4 20
+    3301270: pCube4 21
+    3301272: pCube4 22
+    3301274: pCube4 23
+    3301276: pCube4 24
+    3301278: pCube4 25
+    3301280: pCube4 26
+    3301282: pCube4 27
+    3301284: pCube4 28
+    3301286: pCube4 29
+    3301288: pCube4 3
+    3301290: pCube4 4
+    3301292: pCube4 5
+    3301294: pCube4 6
+    3301296: pCube4 7
+    3301298: pCube4 8
+    3301300: pCube4 9
+    3301302: pCube5
+    3301304: pCube5 1
+    3301306: pCube5 10
+    3301308: pCube5 11
+    3301310: pCube5 2
+    3301312: pCube5 3
+    3301314: pCube5 4
+    3301316: pCube5 5
+    3301318: pCube5 6
+    3301320: pCube5 7
+    3301322: pCube5 8
+    3301324: pCube5 9
+    3301326: pCylinder1
+    3301328: pCylinder1 1
+    3301330: pCylinder1 10
+    3301332: pCylinder1 11
+    3301334: pCylinder1 12
+    3301336: pCylinder1 13
+    3301338: pCylinder1 14
+    3301340: pCylinder1 15
+    3301342: pCylinder1 16
+    3301344: pCylinder1 17
+    3301346: pCylinder1 18
+    3301348: pCylinder1 19
+    3301350: pCylinder1 2
+    3301352: pCylinder1 20
+    3301354: pCylinder1 21
+    3301356: pCylinder1 22
+    3301358: pCylinder1 23
+    3301360: pCylinder1 24
+    3301362: pCylinder1 25
+    3301364: pCylinder1 26
+    3301366: pCylinder1 27
+    3301368: pCylinder1 28
+    3301370: pCylinder1 29
+    3301372: pCylinder1 3
+    3301374: pCylinder1 4
+    3301376: pCylinder1 5
+    3301378: pCylinder1 6
+    3301380: pCylinder1 7
+    3301382: pCylinder1 8
+    3301384: pCylinder1 9
+    3301386: Primary_Pillar_1
+    3301388: Primary_Pillar_1 1
+    3301390: Primary_Pillar_1 2
+    3301392: Primary_Pillar_1 3
+    3301394: Primary_Pillar_1 4
+    3301396: Primary_Pillar_1 5
+    3301398: Primary_Pillar_2
+    3301400: Primary_Pillar_2 1
+    3301402: Primary_Pillar_2 2
+    3301404: Primary_Pillar_2 3
+    3301406: Primary_Pillar_2 4
+    3301408: Primary_Pillar_2 5
+    3301410: Primary_Strut
+    3301412: Primary_Strut 1
+    3301414: Primary_Strut 2
+    3301416: Primary_Strut 3
+    3301418: Primary_Strut 4
+    3301420: Primary_Strut 5
+    3301422: Primary_Support
+    3301424: Primary_Support 1
+    3301426: Primary_Support 2
+    3301428: Primary_Support 3
+    3301430: Primary_Support 4
+    3301432: Primary_Support 5
+    3301434: pSphere1
+    3301436: pSphere1 1
+    3301438: pSphere1 10
+    3301440: pSphere1 11
+    3301442: pSphere1 2
+    3301444: pSphere1 3
+    3301446: pSphere1 4
+    3301448: pSphere1 5
+    3301450: pSphere1 6
+    3301452: pSphere1 7
+    3301454: pSphere1 8
+    3301456: pSphere1 9
+    3301458: pSphere2
+    3301460: pSphere2 1
+    3301462: pSphere2 10
+    3301464: pSphere2 11
+    3301466: pSphere2 2
+    3301468: pSphere2 3
+    3301470: pSphere2 4
+    3301472: pSphere2 5
+    3301474: pSphere2 6
+    3301476: pSphere2 7
+    3301478: pSphere2 8
+    3301480: pSphere2 9
+    3301482: pSphere3
+    3301484: pSphere3 1
+    3301486: pSphere3 10
+    3301488: pSphere3 11
+    3301490: pSphere3 2
+    3301492: pSphere3 3
+    3301494: pSphere3 4
+    3301496: pSphere3 5
+    3301498: pSphere3 6
+    3301500: pSphere3 7
+    3301502: pSphere3 8
+    3301504: pSphere3 9
+    3301506: Roof
+    3301508: Roof 1
+    3301510: Roof 2
+    3301512: Roof 3
+    3301514: Roof 4
+    3301516: Roof 5
+    3301518: Rope_1
+    3301520: Rope_1 1
+    3301522: Rope_1 10
+    3301524: Rope_1 11
+    3301526: Rope_1 2
+    3301528: Rope_1 3
+    3301530: Rope_1 4
+    3301532: Rope_1 5
+    3301534: Rope_1 6
+    3301536: Rope_1 7
+    3301538: Rope_1 8
+    3301540: Rope_1 9
+    3301542: Rope_2
+    3301544: Rope_2 1
+    3301546: Rope_2 10
+    3301548: Rope_2 11
+    3301550: Rope_2 2
+    3301552: Rope_2 3
+    3301554: Rope_2 4
+    3301556: Rope_2 5
+    3301558: Rope_2 6
+    3301560: Rope_2 7
+    3301562: Rope_2 8
+    3301564: Rope_2 9
+    3301566: Scroll_Container
+    3301568: Scroll_Container 1
+    3301570: Scroll_Container 10
+    3301572: Scroll_Container 11
+    3301574: Scroll_Container 2
+    3301576: Scroll_Container 3
+    3301578: Scroll_Container 4
+    3301580: Scroll_Container 5
+    3301582: Scroll_Container 6
+    3301584: Scroll_Container 7
+    3301586: Scroll_Container 8
+    3301588: Scroll_Container 9
+    3301590: Secondary_Pillar_1
+    3301592: Secondary_Pillar_1 1
+    3301594: Secondary_Pillar_1 2
+    3301596: Secondary_Pillar_1 3
+    3301598: Secondary_Pillar_1 4
+    3301600: Secondary_Pillar_1 5
+    3301602: Secondary_Pillar_2
+    3301604: Secondary_Pillar_2 1
+    3301606: Secondary_Pillar_2 2
+    3301608: Secondary_Pillar_2 3
+    3301610: Secondary_Pillar_2 4
+    3301612: Secondary_Pillar_2 5
+    3301614: Secondary_Pillar_3
+    3301616: Secondary_Pillar_3 1
+    3301618: Secondary_Pillar_3 2
+    3301620: Secondary_Pillar_3 3
+    3301622: Secondary_Pillar_3 4
+    3301624: Secondary_Pillar_3 5
+    3301626: Secondary_Pillar_4
+    3301628: Secondary_Pillar_4 1
+    3301630: Secondary_Pillar_4 2
+    3301632: Secondary_Pillar_4 3
+    3301634: Secondary_Pillar_4 4
+    3301636: Secondary_Pillar_4 5
+    3301638: Secondary_Pillar_Top_1
+    3301640: Secondary_Pillar_Top_1 1
+    3301642: Secondary_Pillar_Top_1 2
+    3301644: Secondary_Pillar_Top_1 3
+    3301646: Secondary_Pillar_Top_1 4
+    3301648: Secondary_Pillar_Top_1 5
+    3301650: Secondary_Pillar_Top_2
+    3301652: Secondary_Pillar_Top_2 1
+    3301654: Secondary_Pillar_Top_2 2
+    3301656: Secondary_Pillar_Top_2 3
+    3301658: Secondary_Pillar_Top_2 4
+    3301660: Secondary_Pillar_Top_2 5
+    3301662: Secondary_Pillar_Top_3
+    3301664: Secondary_Pillar_Top_3 1
+    3301666: Secondary_Pillar_Top_3 2
+    3301668: Secondary_Pillar_Top_3 3
+    3301670: Secondary_Pillar_Top_3 4
+    3301672: Secondary_Pillar_Top_3 5
+    3301674: Secondary_Pillar_Top_4
+    3301676: Secondary_Pillar_Top_4 1
+    3301678: Secondary_Pillar_Top_4 2
+    3301680: Secondary_Pillar_Top_4 3
+    3301682: Secondary_Pillar_Top_4 4
+    3301684: Secondary_Pillar_Top_4 5
+    3301686: Secondary_Strut_1
+    3301688: Secondary_Strut_1 1
+    3301690: Secondary_Strut_1 2
+    3301692: Secondary_Strut_1 3
+    3301694: Secondary_Strut_1 4
+    3301696: Secondary_Strut_1 5
+    3301698: Secondary_Strut_2
+    3301700: Secondary_Strut_2 1
+    3301702: Secondary_Strut_2 2
+    3301704: Secondary_Strut_2 3
+    3301706: Secondary_Strut_2 4
+    3301708: Secondary_Strut_2 5
+    3301710: Secondary_Strut_3
+    3301712: Secondary_Strut_3 1
+    3301714: Secondary_Strut_3 2
+    3301716: Secondary_Strut_3 3
+    3301718: Secondary_Strut_3 4
+    3301720: Secondary_Strut_3 5
+    3301722: Secondary_Strut_4
+    3301724: Secondary_Strut_4 1
+    3301726: Secondary_Strut_4 2
+    3301728: Secondary_Strut_4 3
+    3301730: Secondary_Strut_4 4
+    3301732: Secondary_Strut_4 5
+    3301734: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    3301736: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    3301738: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    3301740: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    3301742: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    3301744: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    3301746: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    3301748: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    3301750: Temple_Terrein
     4300000: Trunk
     4300002: pCylinder2
     4300004: pCylinder3
@@ -687,6 +4033,762 @@ ModelImporter:
     4300234: pPlane6
     4300236: pPlane7
     4300238: polySurface1
+    4300240: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    4300242: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    4300244: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    4300246: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    4300248: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    4300250: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    4300252: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    4300254: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    4300256: Final_Reflecting_Pool:Lilipad_1
+    4300258: Final_Reflecting_Pool:Lilipad_2
+    4300260: Final_Reflecting_Pool:Lilipad_3
+    4300262: Final_Reflecting_Pool:Lilipad_4
+    4300264: Final_Reflecting_Pool:Lilipad_5
+    4300266: Final_Reflecting_Pool:Lilipad_6
+    4300268: Final_Reflecting_Pool:Lilipad_7
+    4300270: Final_Reflecting_Pool:Lilipad_8
+    4300272: Final_Reflecting_Pool:Lilipad_9
+    4300274: Final_Reflecting_Pool:Lilipad_10
+    4300276: Final_Reflecting_Pool:Lilipad_11
+    4300278: Final_Reflecting_Pool:Bace
+    4300280: Final_Reflecting_Pool:Bace_Darkness
+    4300282: Final_Reflecting_Pool:Bace_Cracked
+    4300284: Final_Reflecting_Pool:Roof
+    4300286: Final_Reflecting_Pool:Pillar_1
+    4300288: Final_Reflecting_Pool:Pillar_2
+    4300290: Final_Reflecting_Pool:Pillar_3
+    4300292: Final_Reflecting_Pool:Pillar_4
+    4300294: Final_Reflecting_Pool:Pillar_5
+    4300296: Final_Reflecting_Pool:Pillar_6
+    4300298: Final_Reflecting_Pool:Pillar_7
+    4300300: Final_Reflecting_Pool:Pillar_8
+    4300302: Final_Reflecting_Pool:Roof
+    4300304: Final_Reflecting_Pool:Main_Roof_Strut
+    4300306: Final_Reflecting_Pool:Roof_Strut1
+    4300308: Final_Reflecting_Pool:Roof_Strut2
+    4300310: Final_Reflecting_Pool:Roof_Strut3
+    4300312: Final_Reflecting_Pool:Roof_Strut4
+    4300314: Final_Reflecting_Pool:Roof_Strut5
+    4300316: Final_Reflecting_Pool:Bace
+    4300318: Final_Reflecting_Pool:Pillar_1
+    4300320: Final_Reflecting_Pool:Pillar_2
+    4300322: Final_Reflecting_Pool:Pillar_3
+    4300324: Final_Reflecting_Pool:Pillar_4
+    4300326: Final_Reflecting_Pool:Pillar_5
+    4300328: Final_Reflecting_Pool:Pillar_6
+    4300330: Final_Reflecting_Pool:Pillar_7
+    4300332: Final_Reflecting_Pool:Wall
+    4300334: Final_Reflecting_Pool:Bace
+    4300336: Final_Reflecting_Pool:Bace_Darkness
+    4300338: Final_Reflecting_Pool:Bace_Cracked
+    4300340: Final_Reflecting_Pool:Roof
+    4300342: Final_Reflecting_Pool:Pillar_1
+    4300344: Final_Reflecting_Pool:Pillar_2
+    4300346: Final_Reflecting_Pool:Pillar_3
+    4300348: Final_Reflecting_Pool:Pillar_4
+    4300350: Final_Reflecting_Pool:Pillar_5
+    4300352: Final_Reflecting_Pool:Pillar_6
+    4300354: Final_Reflecting_Pool:Pillar_7
+    4300356: Final_Reflecting_Pool:Pillar_8
+    4300358: Final_Reflecting_Pool:Roof
+    4300360: Final_Reflecting_Pool:Main_Roof_Strut
+    4300362: Final_Reflecting_Pool:Roof_Strut1
+    4300364: Final_Reflecting_Pool:Roof_Strut2
+    4300366: Final_Reflecting_Pool:Roof_Strut3
+    4300368: Final_Reflecting_Pool:Roof_Strut4
+    4300370: Final_Reflecting_Pool:Roof_Strut5
+    4300372: Final_Reflecting_Pool:Bace
+    4300374: Final_Reflecting_Pool:Pillar_1
+    4300376: Final_Reflecting_Pool:Pillar_2
+    4300378: Final_Reflecting_Pool:Pillar_3
+    4300380: Final_Reflecting_Pool:Pillar_4
+    4300382: Final_Reflecting_Pool:Pillar_5
+    4300384: Final_Reflecting_Pool:Pillar_6
+    4300386: Final_Reflecting_Pool:Pillar_7
+    4300388: Final_Reflecting_Pool:Wall
+    4300390: Final_Reflecting_Pool:Bace
+    4300392: Final_Reflecting_Pool:Roof
+    4300394: Final_Reflecting_Pool:Pillar_1
+    4300396: Final_Reflecting_Pool:Pillar_2
+    4300398: Final_Reflecting_Pool:Pillar_3
+    4300400: Final_Reflecting_Pool:Pillar_4
+    4300402: Final_Reflecting_Pool:Pillar_5
+    4300404: Final_Reflecting_Pool:Pillar_6
+    4300406: Final_Reflecting_Pool:Pillar_7
+    4300408: Final_Reflecting_Pool:Pillar_8
+    4300410: Final_Reflecting_Pool:Roof
+    4300412: Final_Reflecting_Pool:Main_Roof_Strut
+    4300414: Final_Reflecting_Pool:Roof_Strut1
+    4300416: Final_Reflecting_Pool:Roof_Strut2
+    4300418: Final_Reflecting_Pool:Roof_Strut3
+    4300420: Final_Reflecting_Pool:Roof_Strut4
+    4300422: Final_Reflecting_Pool:Roof_Strut5
+    4300424: Final_Reflecting_Pool:Bace
+    4300426: Final_Reflecting_Pool:Pillar_1
+    4300428: Final_Reflecting_Pool:Pillar_2
+    4300430: Final_Reflecting_Pool:Pillar_3
+    4300432: Final_Reflecting_Pool:Pillar_4
+    4300434: Final_Reflecting_Pool:Pillar_5
+    4300436: Final_Reflecting_Pool:Pillar_6
+    4300438: Final_Reflecting_Pool:Pillar_7
+    4300440: Final_Reflecting_Pool:Wall
+    4300442: Final_Reflecting_Pool:Bace
+    4300444: Final_Reflecting_Pool:Roof
+    4300446: Final_Reflecting_Pool:Pillar_1
+    4300448: Final_Reflecting_Pool:Pillar_2
+    4300450: Final_Reflecting_Pool:Pillar_3
+    4300452: Final_Reflecting_Pool:Pillar_4
+    4300454: Final_Reflecting_Pool:Pillar_5
+    4300456: Final_Reflecting_Pool:Pillar_6
+    4300458: Final_Reflecting_Pool:Pillar_7
+    4300460: Final_Reflecting_Pool:Pillar_8
+    4300462: Final_Reflecting_Pool:Roof
+    4300464: Final_Reflecting_Pool:Main_Roof_Strut
+    4300466: Final_Reflecting_Pool:Roof_Strut1
+    4300468: Final_Reflecting_Pool:Roof_Strut2
+    4300470: Final_Reflecting_Pool:Roof_Strut3
+    4300472: Final_Reflecting_Pool:Roof_Strut4
+    4300474: Final_Reflecting_Pool:Roof_Strut5
+    4300476: Final_Reflecting_Pool:Bace
+    4300478: Final_Reflecting_Pool:Pillar_1
+    4300480: Final_Reflecting_Pool:Pillar_2
+    4300482: Final_Reflecting_Pool:Pillar_3
+    4300484: Final_Reflecting_Pool:Pillar_4
+    4300486: Final_Reflecting_Pool:Pillar_5
+    4300488: Final_Reflecting_Pool:Pillar_6
+    4300490: Final_Reflecting_Pool:Wall1
+    4300492: Final_Reflecting_Pool:Wall2
+    4300494: Final_Reflecting_Pool:polySurface1
+    4300496: Final_Reflecting_Pool:polySurface2
+    4300498: Final_Reflecting_Pool:Roof_Strut1
+    4300500: Final_Reflecting_Pool:Roof_Strut2
+    4300502: Final_Reflecting_Pool:Roof_Strut3
+    4300504: Final_Reflecting_Pool:Bace
+    4300506: Final_Reflecting_Pool:Pillar_4
+    4300508: Final_Reflecting_Pool:Pillar_1
+    4300510: Final_Reflecting_Pool:Pillar_2
+    4300512: Final_Reflecting_Pool:Pillar_3
+    4300514: Final_Reflecting_Pool:Central_Pedistal
+    4300516: Final_Reflecting_Pool:Pond_bottom
+    4300518: Final_JPan_Gate:Primary_Pillar_1
+    4300520: Final_JPan_Gate:Primary_Pillar_2
+    4300522: Final_JPan_Gate:Primary_Strut
+    4300524: Final_JPan_Gate:Primary_Support
+    4300526: Final_JPan_Gate:Roof
+    4300528: Final_JPan_Gate:pCube28
+    4300530: Final_JPan_Gate:pCube29
+    4300532: Final_JPan_Gate:pCube30
+    4300534: Final_JPan_Gate:pCube31
+    4300536: Final_JPan_Gate:Secondary_Pillar_3
+    4300538: Final_JPan_Gate:Secondary_Pillar_Top_3
+    4300540: Final_JPan_Gate:Secondary_Pillar_4
+    4300542: Final_JPan_Gate:Secondary_Pillar_Top_4
+    4300544: Final_JPan_Gate:Secondary_Strut_3
+    4300546: Final_JPan_Gate:Cap_9
+    4300548: Final_JPan_Gate:Cap_10
+    4300550: Final_JPan_Gate:Cap_11
+    4300552: Final_JPan_Gate:Cap_12
+    4300554: Final_JPan_Gate:Secondary_Strut_4
+    4300556: Final_JPan_Gate:Cap_13
+    4300558: Final_JPan_Gate:Cap_14
+    4300560: Final_JPan_Gate:Cap_15
+    4300562: Final_JPan_Gate:Cap_16
+    4300564: Final_JPan_Gate:Secondary_Pillar_1
+    4300566: Final_JPan_Gate:Secondary_Pillar_Top_1
+    4300568: Final_JPan_Gate:Secondary_Pillar_2
+    4300570: Final_JPan_Gate:Secondary_Pillar_Top_2
+    4300572: Final_JPan_Gate:Secondary_Strut_1
+    4300574: Final_JPan_Gate:Cap_1
+    4300576: Final_JPan_Gate:Cap_2
+    4300578: Final_JPan_Gate:Cap_3
+    4300580: Final_JPan_Gate:Cap_4
+    4300582: Final_JPan_Gate:Secondary_Strut_2
+    4300584: Final_JPan_Gate:Cap_8
+    4300586: Final_JPan_Gate:Cap_7
+    4300588: Final_JPan_Gate:Cap_6
+    4300590: Final_JPan_Gate:Cap_5
+    4300592: Final_JPan_Gate:pCube1
+    4300594: Final_JPan_Gate:pCylinder1
+    4300596: Final_JPan_Gate:pCube2
+    4300598: Final_JPan_Gate:pCube3
+    4300600: Final_JPan_Gate:pCube4
+    4300602: Final_JPan_Gate:pCube1
+    4300604: Final_JPan_Gate:pCylinder1
+    4300606: Final_JPan_Gate:pCube2
+    4300608: Final_JPan_Gate:pCube3
+    4300610: Final_JPan_Gate:pCube4
+    4300612: Final_JPan_Gate:pCube1
+    4300614: Final_JPan_Gate:pCylinder1
+    4300616: Final_JPan_Gate:pCube2
+    4300618: Final_JPan_Gate:pCube3
+    4300620: Final_JPan_Gate:pCube4
+    4300622: Final_JPan_Gate:pCube1
+    4300624: Final_JPan_Gate:pCylinder1
+    4300626: Final_JPan_Gate:pCube2
+    4300628: Final_JPan_Gate:pCube3
+    4300630: Final_JPan_Gate:pCube4
+    4300632: Final_JPan_Gate:pCube5
+    4300634: Final_JPan_Gate:pCube1
+    4300636: Final_JPan_Gate:pCylinder1
+    4300638: Final_JPan_Gate:pCube2
+    4300640: Final_JPan_Gate:pCube3
+    4300642: Final_JPan_Gate:pCube4
+    4300644: Final_JPan_Gate:pCube5
+    4300646: Final_JPan_Gate:pSphere1
+    4300648: Final_JPan_Gate:pSphere2
+    4300650: Final_JPan_Gate:pSphere3
+    4300652: Final_JPan_Gate:Lantern_Rope1
+    4300654: Final_JPan_Gate:Loop
+    4300656: Final_JPan_Gate:Hook
+    4300658: Final_JPan_Gate:Hook_Support
+    4300660: Final_JPan_Gate:Hook_Bace
+    4300662: Final_JPan_Gate:pSphere1
+    4300664: Final_JPan_Gate:pSphere2
+    4300666: Final_JPan_Gate:pSphere3
+    4300668: Final_JPan_Gate:Lantern_Rope1
+    4300670: Final_JPan_Gate:Loop
+    4300672: Final_JPan_Gate:Hook
+    4300674: Final_JPan_Gate:Hook_Support
+    4300676: Final_JPan_Gate:Hook_Bace
+    4300678: Final_JPan_Gate:Paper
+    4300680: Final_JPan_Gate:Scroll_Container
+    4300682: Final_JPan_Gate:Rope_1
+    4300684: Final_JPan_Gate:Rope_2
+    4300686: Final_JPan_Gate:Paper
+    4300688: Final_JPan_Gate:Scroll_Container
+    4300690: Final_JPan_Gate:Rope_1
+    4300692: Final_JPan_Gate:Rope_2
+    4300694: Primary_Pillar_1
+    4300696: Primary_Pillar_2
+    4300698: Primary_Strut
+    4300700: Primary_Support
+    4300702: Roof
+    4300704: pCube28
+    4300706: pCube29
+    4300708: pCube30
+    4300710: pCube31
+    4300712: Secondary_Pillar_3
+    4300714: Secondary_Pillar_Top_3
+    4300716: Secondary_Pillar_4
+    4300718: Secondary_Pillar_Top_4
+    4300720: Secondary_Strut_3
+    4300722: Cap_9
+    4300724: Cap_10
+    4300726: Cap_11
+    4300728: Cap_12
+    4300730: Secondary_Strut_4
+    4300732: Cap_13
+    4300734: Cap_14
+    4300736: Cap_15
+    4300738: Cap_16
+    4300740: Secondary_Pillar_1
+    4300742: Secondary_Pillar_Top_1
+    4300744: Secondary_Pillar_2
+    4300746: Secondary_Pillar_Top_2
+    4300748: Secondary_Strut_1
+    4300750: Cap_1
+    4300752: Cap_2
+    4300754: Cap_3
+    4300756: Cap_4
+    4300758: Secondary_Strut_2
+    4300760: Cap_8
+    4300762: Cap_7
+    4300764: Cap_6
+    4300766: Cap_5
+    4300768: pCube1
+    4300770: pCylinder1
+    4300772: pCube2
+    4300774: pCube3
+    4300776: pCube4
+    4300778: pCube1
+    4300780: pCylinder1
+    4300782: pCube2
+    4300784: pCube3
+    4300786: pCube4
+    4300788: pCube1
+    4300790: pCylinder1
+    4300792: pCube2
+    4300794: pCube3
+    4300796: pCube4
+    4300798: pCube1
+    4300800: pCylinder1
+    4300802: pCube2
+    4300804: pCube3
+    4300806: pCube4
+    4300808: pCube5
+    4300810: pCube1
+    4300812: pCylinder1
+    4300814: pCube2
+    4300816: pCube3
+    4300818: pCube4
+    4300820: pCube5
+    4300822: pSphere1
+    4300824: pSphere2
+    4300826: pSphere3
+    4300828: Lantern_Rope1
+    4300830: Loop
+    4300832: Hook
+    4300834: Hook_Support
+    4300836: Hook_Bace
+    4300838: pSphere1
+    4300840: pSphere2
+    4300842: pSphere3
+    4300844: Lantern_Rope1
+    4300846: Loop
+    4300848: Hook
+    4300850: Hook_Support
+    4300852: Hook_Bace
+    4300854: Paper
+    4300856: Scroll_Container
+    4300858: Rope_1
+    4300860: Rope_2
+    4300862: Paper
+    4300864: Scroll_Container
+    4300866: Rope_1
+    4300868: Rope_2
+    4300870: Primary_Pillar_1
+    4300872: Primary_Pillar_2
+    4300874: Primary_Strut
+    4300876: Primary_Support
+    4300878: Roof
+    4300880: pCube28
+    4300882: pCube29
+    4300884: pCube30
+    4300886: pCube31
+    4300888: Secondary_Pillar_3
+    4300890: Secondary_Pillar_Top_3
+    4300892: Secondary_Pillar_4
+    4300894: Secondary_Pillar_Top_4
+    4300896: Secondary_Strut_3
+    4300898: Cap_9
+    4300900: Cap_10
+    4300902: Cap_11
+    4300904: Cap_12
+    4300906: Secondary_Strut_4
+    4300908: Cap_13
+    4300910: Cap_14
+    4300912: Cap_15
+    4300914: Cap_16
+    4300916: Secondary_Pillar_1
+    4300918: Secondary_Pillar_Top_1
+    4300920: Secondary_Pillar_2
+    4300922: Secondary_Pillar_Top_2
+    4300924: Secondary_Strut_1
+    4300926: Cap_1
+    4300928: Cap_2
+    4300930: Cap_3
+    4300932: Cap_4
+    4300934: Secondary_Strut_2
+    4300936: Cap_8
+    4300938: Cap_7
+    4300940: Cap_6
+    4300942: Cap_5
+    4300944: pCube1
+    4300946: pCylinder1
+    4300948: pCube2
+    4300950: pCube3
+    4300952: pCube4
+    4300954: pCube1
+    4300956: pCylinder1
+    4300958: pCube2
+    4300960: pCube3
+    4300962: pCube4
+    4300964: pCube1
+    4300966: pCylinder1
+    4300968: pCube2
+    4300970: pCube3
+    4300972: pCube4
+    4300974: pCube1
+    4300976: pCylinder1
+    4300978: pCube2
+    4300980: pCube3
+    4300982: pCube4
+    4300984: pCube5
+    4300986: pCube1
+    4300988: pCylinder1
+    4300990: pCube2
+    4300992: pCube3
+    4300994: pCube4
+    4300996: pCube5
+    4300998: pSphere1
+    4301000: pSphere2
+    4301002: pSphere3
+    4301004: Lantern_Rope1
+    4301006: Loop
+    4301008: Hook
+    4301010: Hook_Support
+    4301012: Hook_Bace
+    4301014: pSphere1
+    4301016: pSphere2
+    4301018: pSphere3
+    4301020: Lantern_Rope1
+    4301022: Loop
+    4301024: Hook
+    4301026: Hook_Support
+    4301028: Hook_Bace
+    4301030: Paper
+    4301032: Scroll_Container
+    4301034: Rope_1
+    4301036: Rope_2
+    4301038: Paper
+    4301040: Scroll_Container
+    4301042: Rope_1
+    4301044: Rope_2
+    4301046: Primary_Pillar_1
+    4301048: Primary_Pillar_2
+    4301050: Primary_Strut
+    4301052: Primary_Support
+    4301054: Roof
+    4301056: pCube28
+    4301058: pCube29
+    4301060: pCube30
+    4301062: pCube31
+    4301064: Secondary_Pillar_3
+    4301066: Secondary_Pillar_Top_3
+    4301068: Secondary_Pillar_4
+    4301070: Secondary_Pillar_Top_4
+    4301072: Secondary_Strut_3
+    4301074: Cap_9
+    4301076: Cap_10
+    4301078: Cap_11
+    4301080: Cap_12
+    4301082: Secondary_Strut_4
+    4301084: Cap_13
+    4301086: Cap_14
+    4301088: Cap_15
+    4301090: Cap_16
+    4301092: Secondary_Pillar_1
+    4301094: Secondary_Pillar_Top_1
+    4301096: Secondary_Pillar_2
+    4301098: Secondary_Pillar_Top_2
+    4301100: Secondary_Strut_1
+    4301102: Cap_1
+    4301104: Cap_2
+    4301106: Cap_3
+    4301108: Cap_4
+    4301110: Secondary_Strut_2
+    4301112: Cap_8
+    4301114: Cap_7
+    4301116: Cap_6
+    4301118: Cap_5
+    4301120: pCube1
+    4301122: pCylinder1
+    4301124: pCube2
+    4301126: pCube3
+    4301128: pCube4
+    4301130: pCube1
+    4301132: pCylinder1
+    4301134: pCube2
+    4301136: pCube3
+    4301138: pCube4
+    4301140: pCube1
+    4301142: pCylinder1
+    4301144: pCube2
+    4301146: pCube3
+    4301148: pCube4
+    4301150: pCube1
+    4301152: pCylinder1
+    4301154: pCube2
+    4301156: pCube3
+    4301158: pCube4
+    4301160: pCube5
+    4301162: pCube1
+    4301164: pCylinder1
+    4301166: pCube2
+    4301168: pCube3
+    4301170: pCube4
+    4301172: pCube5
+    4301174: pSphere1
+    4301176: pSphere2
+    4301178: pSphere3
+    4301180: Lantern_Rope1
+    4301182: Loop
+    4301184: Hook
+    4301186: Hook_Support
+    4301188: Hook_Bace
+    4301190: pSphere1
+    4301192: pSphere2
+    4301194: pSphere3
+    4301196: Lantern_Rope1
+    4301198: Loop
+    4301200: Hook
+    4301202: Hook_Support
+    4301204: Hook_Bace
+    4301206: Paper
+    4301208: Scroll_Container
+    4301210: Rope_1
+    4301212: Rope_2
+    4301214: Paper
+    4301216: Scroll_Container
+    4301218: Rope_1
+    4301220: Rope_2
+    4301222: Primary_Pillar_1
+    4301224: Primary_Pillar_2
+    4301226: Primary_Strut
+    4301228: Primary_Support
+    4301230: Roof
+    4301232: pCube28
+    4301234: pCube29
+    4301236: pCube30
+    4301238: pCube31
+    4301240: Secondary_Pillar_3
+    4301242: Secondary_Pillar_Top_3
+    4301244: Secondary_Pillar_4
+    4301246: Secondary_Pillar_Top_4
+    4301248: Secondary_Strut_3
+    4301250: Cap_9
+    4301252: Cap_10
+    4301254: Cap_11
+    4301256: Cap_12
+    4301258: Secondary_Strut_4
+    4301260: Cap_13
+    4301262: Cap_14
+    4301264: Cap_15
+    4301266: Cap_16
+    4301268: Secondary_Pillar_1
+    4301270: Secondary_Pillar_Top_1
+    4301272: Secondary_Pillar_2
+    4301274: Secondary_Pillar_Top_2
+    4301276: Secondary_Strut_1
+    4301278: Cap_1
+    4301280: Cap_2
+    4301282: Cap_3
+    4301284: Cap_4
+    4301286: Secondary_Strut_2
+    4301288: Cap_8
+    4301290: Cap_7
+    4301292: Cap_6
+    4301294: Cap_5
+    4301296: pCube1
+    4301298: pCylinder1
+    4301300: pCube2
+    4301302: pCube3
+    4301304: pCube4
+    4301306: pCube1
+    4301308: pCylinder1
+    4301310: pCube2
+    4301312: pCube3
+    4301314: pCube4
+    4301316: pCube1
+    4301318: pCylinder1
+    4301320: pCube2
+    4301322: pCube3
+    4301324: pCube4
+    4301326: pCube1
+    4301328: pCylinder1
+    4301330: pCube2
+    4301332: pCube3
+    4301334: pCube4
+    4301336: pCube5
+    4301338: pCube1
+    4301340: pCylinder1
+    4301342: pCube2
+    4301344: pCube3
+    4301346: pCube4
+    4301348: pCube5
+    4301350: pSphere1
+    4301352: pSphere2
+    4301354: pSphere3
+    4301356: Lantern_Rope1
+    4301358: Loop
+    4301360: Hook
+    4301362: Hook_Support
+    4301364: Hook_Bace
+    4301366: pSphere1
+    4301368: pSphere2
+    4301370: pSphere3
+    4301372: Lantern_Rope1
+    4301374: Loop
+    4301376: Hook
+    4301378: Hook_Support
+    4301380: Hook_Bace
+    4301382: Paper
+    4301384: Scroll_Container
+    4301386: Rope_1
+    4301388: Rope_2
+    4301390: Paper
+    4301392: Scroll_Container
+    4301394: Rope_1
+    4301396: Rope_2
+    4301398: Primary_Pillar_1
+    4301400: Primary_Pillar_2
+    4301402: Primary_Strut
+    4301404: Primary_Support
+    4301406: Roof
+    4301408: pCube28
+    4301410: pCube29
+    4301412: pCube30
+    4301414: pCube31
+    4301416: Secondary_Pillar_3
+    4301418: Secondary_Pillar_Top_3
+    4301420: Secondary_Pillar_4
+    4301422: Secondary_Pillar_Top_4
+    4301424: Secondary_Strut_3
+    4301426: Cap_9
+    4301428: Cap_10
+    4301430: Cap_11
+    4301432: Cap_12
+    4301434: Secondary_Strut_4
+    4301436: Cap_13
+    4301438: Cap_14
+    4301440: Cap_15
+    4301442: Cap_16
+    4301444: Secondary_Pillar_1
+    4301446: Secondary_Pillar_Top_1
+    4301448: Secondary_Pillar_2
+    4301450: Secondary_Pillar_Top_2
+    4301452: Secondary_Strut_1
+    4301454: Cap_1
+    4301456: Cap_2
+    4301458: Cap_3
+    4301460: Cap_4
+    4301462: Secondary_Strut_2
+    4301464: Cap_8
+    4301466: Cap_7
+    4301468: Cap_6
+    4301470: Cap_5
+    4301472: pCube1
+    4301474: pCylinder1
+    4301476: pCube2
+    4301478: pCube3
+    4301480: pCube4
+    4301482: pCube1
+    4301484: pCylinder1
+    4301486: pCube2
+    4301488: pCube3
+    4301490: pCube4
+    4301492: pCube1
+    4301494: pCylinder1
+    4301496: pCube2
+    4301498: pCube3
+    4301500: pCube4
+    4301502: pCube1
+    4301504: pCylinder1
+    4301506: pCube2
+    4301508: pCube3
+    4301510: pCube4
+    4301512: pCube5
+    4301514: pCube1
+    4301516: pCylinder1
+    4301518: pCube2
+    4301520: pCube3
+    4301522: pCube4
+    4301524: pCube5
+    4301526: pSphere1
+    4301528: pSphere2
+    4301530: pSphere3
+    4301532: Lantern_Rope1
+    4301534: Loop
+    4301536: Hook
+    4301538: Hook_Support
+    4301540: Hook_Bace
+    4301542: pSphere1
+    4301544: pSphere2
+    4301546: pSphere3
+    4301548: Lantern_Rope1
+    4301550: Loop
+    4301552: Hook
+    4301554: Hook_Support
+    4301556: Hook_Bace
+    4301558: Paper
+    4301560: Scroll_Container
+    4301562: Rope_1
+    4301564: Rope_2
+    4301566: Paper
+    4301568: Scroll_Container
+    4301570: Rope_1
+    4301572: Rope_2
+    4301574: Primary_Pillar_1
+    4301576: Primary_Pillar_2
+    4301578: Primary_Strut
+    4301580: Primary_Support
+    4301582: Roof
+    4301584: pCube28
+    4301586: pCube29
+    4301588: pCube30
+    4301590: pCube31
+    4301592: Secondary_Pillar_3
+    4301594: Secondary_Pillar_Top_3
+    4301596: Secondary_Pillar_4
+    4301598: Secondary_Pillar_Top_4
+    4301600: Secondary_Strut_3
+    4301602: Cap_9
+    4301604: Cap_10
+    4301606: Cap_11
+    4301608: Cap_12
+    4301610: Secondary_Strut_4
+    4301612: Cap_13
+    4301614: Cap_14
+    4301616: Cap_15
+    4301618: Cap_16
+    4301620: Secondary_Pillar_1
+    4301622: Secondary_Pillar_Top_1
+    4301624: Secondary_Pillar_2
+    4301626: Secondary_Pillar_Top_2
+    4301628: Secondary_Strut_1
+    4301630: Cap_1
+    4301632: Cap_2
+    4301634: Cap_3
+    4301636: Cap_4
+    4301638: Secondary_Strut_2
+    4301640: Cap_8
+    4301642: Cap_7
+    4301644: Cap_6
+    4301646: Cap_5
+    4301648: pCube1
+    4301650: pCylinder1
+    4301652: pCube2
+    4301654: pCube3
+    4301656: pCube4
+    4301658: pCube1
+    4301660: pCylinder1
+    4301662: pCube2
+    4301664: pCube3
+    4301666: pCube4
+    4301668: pCube1
+    4301670: pCylinder1
+    4301672: pCube2
+    4301674: pCube3
+    4301676: pCube4
+    4301678: pCube1
+    4301680: pCylinder1
+    4301682: pCube2
+    4301684: pCube3
+    4301686: pCube4
+    4301688: pCube5
+    4301690: pCube1
+    4301692: pCylinder1
+    4301694: pCube2
+    4301696: pCube3
+    4301698: pCube4
+    4301700: pCube5
+    4301702: pSphere1
+    4301704: pSphere2
+    4301706: pSphere3
+    4301708: Lantern_Rope1
+    4301710: Loop
+    4301712: Hook
+    4301714: Hook_Support
+    4301716: Hook_Bace
+    4301718: pSphere1
+    4301720: pSphere2
+    4301722: pSphere3
+    4301724: Lantern_Rope1
+    4301726: Loop
+    4301728: Hook
+    4301730: Hook_Support
+    4301732: Hook_Bace
+    4301734: Paper
+    4301736: Scroll_Container
+    4301738: Rope_1
+    4301740: Rope_2
+    4301742: Paper
+    4301744: Scroll_Container
+    4301746: Rope_1
+    4301748: Rope_2
+    4301750: Temple_Terrein
     6400000: pCylinder2
     6400002: pCylinder3
     6400004: pCylinder4
@@ -807,6 +4909,763 @@ ModelImporter:
     6400234: pPlane7 9
     6400236: Trunk
     6400238: polySurface1
+    6400240: Cap_1
+    6400242: Cap_1 1
+    6400244: Cap_1 2
+    6400246: Cap_1 3
+    6400248: Cap_1 4
+    6400250: Cap_1 5
+    6400252: Cap_10
+    6400254: Cap_10 1
+    6400256: Cap_10 2
+    6400258: Cap_10 3
+    6400260: Cap_10 4
+    6400262: Cap_10 5
+    6400264: Cap_11
+    6400266: Cap_11 1
+    6400268: Cap_11 2
+    6400270: Cap_11 3
+    6400272: Cap_11 4
+    6400274: Cap_11 5
+    6400276: Cap_12
+    6400278: Cap_12 1
+    6400280: Cap_12 2
+    6400282: Cap_12 3
+    6400284: Cap_12 4
+    6400286: Cap_12 5
+    6400288: Cap_13
+    6400290: Cap_13 1
+    6400292: Cap_13 2
+    6400294: Cap_13 3
+    6400296: Cap_13 4
+    6400298: Cap_13 5
+    6400300: Cap_14
+    6400302: Cap_14 1
+    6400304: Cap_14 2
+    6400306: Cap_14 3
+    6400308: Cap_14 4
+    6400310: Cap_14 5
+    6400312: Cap_15
+    6400314: Cap_15 1
+    6400316: Cap_15 2
+    6400318: Cap_15 3
+    6400320: Cap_15 4
+    6400322: Cap_15 5
+    6400324: Cap_16
+    6400326: Cap_16 1
+    6400328: Cap_16 2
+    6400330: Cap_16 3
+    6400332: Cap_16 4
+    6400334: Cap_16 5
+    6400336: Cap_2
+    6400338: Cap_2 1
+    6400340: Cap_2 2
+    6400342: Cap_2 3
+    6400344: Cap_2 4
+    6400346: Cap_2 5
+    6400348: Cap_3
+    6400350: Cap_3 1
+    6400352: Cap_3 2
+    6400354: Cap_3 3
+    6400356: Cap_3 4
+    6400358: Cap_3 5
+    6400360: Cap_4
+    6400362: Cap_4 1
+    6400364: Cap_4 2
+    6400366: Cap_4 3
+    6400368: Cap_4 4
+    6400370: Cap_4 5
+    6400372: Cap_5
+    6400374: Cap_5 1
+    6400376: Cap_5 2
+    6400378: Cap_5 3
+    6400380: Cap_5 4
+    6400382: Cap_5 5
+    6400384: Cap_6
+    6400386: Cap_6 1
+    6400388: Cap_6 2
+    6400390: Cap_6 3
+    6400392: Cap_6 4
+    6400394: Cap_6 5
+    6400396: Cap_7
+    6400398: Cap_7 1
+    6400400: Cap_7 2
+    6400402: Cap_7 3
+    6400404: Cap_7 4
+    6400406: Cap_7 5
+    6400408: Cap_8
+    6400410: Cap_8 1
+    6400412: Cap_8 2
+    6400414: Cap_8 3
+    6400416: Cap_8 4
+    6400418: Cap_8 5
+    6400420: Cap_9
+    6400422: Cap_9 1
+    6400424: Cap_9 2
+    6400426: Cap_9 3
+    6400428: Cap_9 4
+    6400430: Cap_9 5
+    6400432: Final_JPan_Gate:Cap_1
+    6400434: Final_JPan_Gate:Cap_10
+    6400436: Final_JPan_Gate:Cap_11
+    6400438: Final_JPan_Gate:Cap_12
+    6400440: Final_JPan_Gate:Cap_13
+    6400442: Final_JPan_Gate:Cap_14
+    6400444: Final_JPan_Gate:Cap_15
+    6400446: Final_JPan_Gate:Cap_16
+    6400448: Final_JPan_Gate:Cap_2
+    6400450: Final_JPan_Gate:Cap_3
+    6400452: Final_JPan_Gate:Cap_4
+    6400454: Final_JPan_Gate:Cap_5
+    6400456: Final_JPan_Gate:Cap_6
+    6400458: Final_JPan_Gate:Cap_7
+    6400460: Final_JPan_Gate:Cap_8
+    6400462: Final_JPan_Gate:Cap_9
+    6400464: Final_JPan_Gate:Hook
+    6400466: Final_JPan_Gate:Hook 1
+    6400468: Final_JPan_Gate:Hook_Bace
+    6400470: Final_JPan_Gate:Hook_Bace 1
+    6400472: Final_JPan_Gate:Hook_Support
+    6400474: Final_JPan_Gate:Hook_Support 1
+    6400476: Final_JPan_Gate:Lantern_Rope1
+    6400478: Final_JPan_Gate:Lantern_Rope1 1
+    6400480: Final_JPan_Gate:Loop
+    6400482: Final_JPan_Gate:Loop 1
+    6400484: Final_JPan_Gate:Paper
+    6400486: Final_JPan_Gate:Paper 1
+    6400488: Final_JPan_Gate:pCube1
+    6400490: Final_JPan_Gate:pCube1 1
+    6400492: Final_JPan_Gate:pCube1 2
+    6400494: Final_JPan_Gate:pCube1 3
+    6400496: Final_JPan_Gate:pCube1 4
+    6400498: Final_JPan_Gate:pCube2
+    6400500: Final_JPan_Gate:pCube2 1
+    6400502: Final_JPan_Gate:pCube2 2
+    6400504: Final_JPan_Gate:pCube2 3
+    6400506: Final_JPan_Gate:pCube2 4
+    6400508: Final_JPan_Gate:pCube28
+    6400510: Final_JPan_Gate:pCube29
+    6400512: Final_JPan_Gate:pCube3
+    6400514: Final_JPan_Gate:pCube3 1
+    6400516: Final_JPan_Gate:pCube3 2
+    6400518: Final_JPan_Gate:pCube3 3
+    6400520: Final_JPan_Gate:pCube3 4
+    6400522: Final_JPan_Gate:pCube30
+    6400524: Final_JPan_Gate:pCube31
+    6400526: Final_JPan_Gate:pCube4
+    6400528: Final_JPan_Gate:pCube4 1
+    6400530: Final_JPan_Gate:pCube4 2
+    6400532: Final_JPan_Gate:pCube4 3
+    6400534: Final_JPan_Gate:pCube4 4
+    6400536: Final_JPan_Gate:pCube5
+    6400538: Final_JPan_Gate:pCube5 1
+    6400540: Final_JPan_Gate:pCylinder1
+    6400542: Final_JPan_Gate:pCylinder1 1
+    6400544: Final_JPan_Gate:pCylinder1 2
+    6400546: Final_JPan_Gate:pCylinder1 3
+    6400548: Final_JPan_Gate:pCylinder1 4
+    6400550: Final_JPan_Gate:Primary_Pillar_1
+    6400552: Final_JPan_Gate:Primary_Pillar_2
+    6400554: Final_JPan_Gate:Primary_Strut
+    6400556: Final_JPan_Gate:Primary_Support
+    6400558: Final_JPan_Gate:pSphere1
+    6400560: Final_JPan_Gate:pSphere1 1
+    6400562: Final_JPan_Gate:pSphere2
+    6400564: Final_JPan_Gate:pSphere2 1
+    6400566: Final_JPan_Gate:pSphere3
+    6400568: Final_JPan_Gate:pSphere3 1
+    6400570: Final_JPan_Gate:Roof
+    6400572: Final_JPan_Gate:Rope_1
+    6400574: Final_JPan_Gate:Rope_1 1
+    6400576: Final_JPan_Gate:Rope_2
+    6400578: Final_JPan_Gate:Rope_2 1
+    6400580: Final_JPan_Gate:Scroll_Container
+    6400582: Final_JPan_Gate:Scroll_Container 1
+    6400584: Final_JPan_Gate:Secondary_Pillar_1
+    6400586: Final_JPan_Gate:Secondary_Pillar_2
+    6400588: Final_JPan_Gate:Secondary_Pillar_3
+    6400590: Final_JPan_Gate:Secondary_Pillar_4
+    6400592: Final_JPan_Gate:Secondary_Pillar_Top_1
+    6400594: Final_JPan_Gate:Secondary_Pillar_Top_2
+    6400596: Final_JPan_Gate:Secondary_Pillar_Top_3
+    6400598: Final_JPan_Gate:Secondary_Pillar_Top_4
+    6400600: Final_JPan_Gate:Secondary_Strut_1
+    6400602: Final_JPan_Gate:Secondary_Strut_2
+    6400604: Final_JPan_Gate:Secondary_Strut_3
+    6400606: Final_JPan_Gate:Secondary_Strut_4
+    6400608: Final_Reflecting_Pool:Bace
+    6400610: Final_Reflecting_Pool:Bace 1
+    6400612: Final_Reflecting_Pool:Bace 2
+    6400614: Final_Reflecting_Pool:Bace 3
+    6400616: Final_Reflecting_Pool:Bace 4
+    6400618: Final_Reflecting_Pool:Bace 5
+    6400620: Final_Reflecting_Pool:Bace 6
+    6400622: Final_Reflecting_Pool:Bace 7
+    6400624: Final_Reflecting_Pool:Bace 8
+    6400626: Final_Reflecting_Pool:Bace_Cracked
+    6400628: Final_Reflecting_Pool:Bace_Cracked 1
+    6400630: Final_Reflecting_Pool:Bace_Darkness
+    6400632: Final_Reflecting_Pool:Bace_Darkness 1
+    6400634: Final_Reflecting_Pool:Central_Pedistal
+    6400636: Final_Reflecting_Pool:Lilipad_1
+    6400638: Final_Reflecting_Pool:Lilipad_10
+    6400640: Final_Reflecting_Pool:Lilipad_11
+    6400642: Final_Reflecting_Pool:Lilipad_2
+    6400644: Final_Reflecting_Pool:Lilipad_3
+    6400646: Final_Reflecting_Pool:Lilipad_4
+    6400648: Final_Reflecting_Pool:Lilipad_5
+    6400650: Final_Reflecting_Pool:Lilipad_6
+    6400652: Final_Reflecting_Pool:Lilipad_7
+    6400654: Final_Reflecting_Pool:Lilipad_8
+    6400656: Final_Reflecting_Pool:Lilipad_9
+    6400658: Final_Reflecting_Pool:Main_Roof_Strut
+    6400660: Final_Reflecting_Pool:Main_Roof_Strut 1
+    6400662: Final_Reflecting_Pool:Main_Roof_Strut 2
+    6400664: Final_Reflecting_Pool:Main_Roof_Strut 3
+    6400666: Final_Reflecting_Pool:Pillar_1
+    6400668: Final_Reflecting_Pool:Pillar_1 1
+    6400670: Final_Reflecting_Pool:Pillar_1 2
+    6400672: Final_Reflecting_Pool:Pillar_1 3
+    6400674: Final_Reflecting_Pool:Pillar_1 4
+    6400676: Final_Reflecting_Pool:Pillar_1 5
+    6400678: Final_Reflecting_Pool:Pillar_1 6
+    6400680: Final_Reflecting_Pool:Pillar_1 7
+    6400682: Final_Reflecting_Pool:Pillar_1 8
+    6400684: Final_Reflecting_Pool:Pillar_2
+    6400686: Final_Reflecting_Pool:Pillar_2 1
+    6400688: Final_Reflecting_Pool:Pillar_2 2
+    6400690: Final_Reflecting_Pool:Pillar_2 3
+    6400692: Final_Reflecting_Pool:Pillar_2 4
+    6400694: Final_Reflecting_Pool:Pillar_2 5
+    6400696: Final_Reflecting_Pool:Pillar_2 6
+    6400698: Final_Reflecting_Pool:Pillar_2 7
+    6400700: Final_Reflecting_Pool:Pillar_2 8
+    6400702: Final_Reflecting_Pool:Pillar_3
+    6400704: Final_Reflecting_Pool:Pillar_3 1
+    6400706: Final_Reflecting_Pool:Pillar_3 2
+    6400708: Final_Reflecting_Pool:Pillar_3 3
+    6400710: Final_Reflecting_Pool:Pillar_3 4
+    6400712: Final_Reflecting_Pool:Pillar_3 5
+    6400714: Final_Reflecting_Pool:Pillar_3 6
+    6400716: Final_Reflecting_Pool:Pillar_3 7
+    6400718: Final_Reflecting_Pool:Pillar_3 8
+    6400720: Final_Reflecting_Pool:Pillar_4
+    6400722: Final_Reflecting_Pool:Pillar_4 1
+    6400724: Final_Reflecting_Pool:Pillar_4 2
+    6400726: Final_Reflecting_Pool:Pillar_4 3
+    6400728: Final_Reflecting_Pool:Pillar_4 4
+    6400730: Final_Reflecting_Pool:Pillar_4 5
+    6400732: Final_Reflecting_Pool:Pillar_4 6
+    6400734: Final_Reflecting_Pool:Pillar_4 7
+    6400736: Final_Reflecting_Pool:Pillar_4 8
+    6400738: Final_Reflecting_Pool:Pillar_5
+    6400740: Final_Reflecting_Pool:Pillar_5 1
+    6400742: Final_Reflecting_Pool:Pillar_5 2
+    6400744: Final_Reflecting_Pool:Pillar_5 3
+    6400746: Final_Reflecting_Pool:Pillar_5 4
+    6400748: Final_Reflecting_Pool:Pillar_5 5
+    6400750: Final_Reflecting_Pool:Pillar_5 6
+    6400752: Final_Reflecting_Pool:Pillar_5 7
+    6400754: Final_Reflecting_Pool:Pillar_6
+    6400756: Final_Reflecting_Pool:Pillar_6 1
+    6400758: Final_Reflecting_Pool:Pillar_6 2
+    6400760: Final_Reflecting_Pool:Pillar_6 3
+    6400762: Final_Reflecting_Pool:Pillar_6 4
+    6400764: Final_Reflecting_Pool:Pillar_6 5
+    6400766: Final_Reflecting_Pool:Pillar_6 6
+    6400768: Final_Reflecting_Pool:Pillar_6 7
+    6400770: Final_Reflecting_Pool:Pillar_7
+    6400772: Final_Reflecting_Pool:Pillar_7 1
+    6400774: Final_Reflecting_Pool:Pillar_7 2
+    6400776: Final_Reflecting_Pool:Pillar_7 3
+    6400778: Final_Reflecting_Pool:Pillar_7 4
+    6400780: Final_Reflecting_Pool:Pillar_7 5
+    6400782: Final_Reflecting_Pool:Pillar_7 6
+    6400784: Final_Reflecting_Pool:Pillar_8
+    6400786: Final_Reflecting_Pool:Pillar_8 1
+    6400788: Final_Reflecting_Pool:Pillar_8 2
+    6400790: Final_Reflecting_Pool:Pillar_8 3
+    6400792: Final_Reflecting_Pool:polySurface1
+    6400794: Final_Reflecting_Pool:polySurface2
+    6400796: Final_Reflecting_Pool:Pond_bottom
+    6400798: Final_Reflecting_Pool:Roof 1
+    6400800: Final_Reflecting_Pool:Roof 10
+    6400802: Final_Reflecting_Pool:Roof 11
+    6400804: Final_Reflecting_Pool:Roof 12
+    6400806: Final_Reflecting_Pool:Roof 2
+    6400808: Final_Reflecting_Pool:Roof 3
+    6400810: Final_Reflecting_Pool:Roof 4
+    6400812: Final_Reflecting_Pool:Roof 9
+    6400814: Final_Reflecting_Pool:Roof_Strut1
+    6400816: Final_Reflecting_Pool:Roof_Strut1 1
+    6400818: Final_Reflecting_Pool:Roof_Strut1 2
+    6400820: Final_Reflecting_Pool:Roof_Strut1 3
+    6400822: Final_Reflecting_Pool:Roof_Strut1 4
+    6400824: Final_Reflecting_Pool:Roof_Strut2
+    6400826: Final_Reflecting_Pool:Roof_Strut2 1
+    6400828: Final_Reflecting_Pool:Roof_Strut2 2
+    6400830: Final_Reflecting_Pool:Roof_Strut2 3
+    6400832: Final_Reflecting_Pool:Roof_Strut2 4
+    6400834: Final_Reflecting_Pool:Roof_Strut3
+    6400836: Final_Reflecting_Pool:Roof_Strut3 1
+    6400838: Final_Reflecting_Pool:Roof_Strut3 2
+    6400840: Final_Reflecting_Pool:Roof_Strut3 3
+    6400842: Final_Reflecting_Pool:Roof_Strut3 4
+    6400844: Final_Reflecting_Pool:Roof_Strut4
+    6400846: Final_Reflecting_Pool:Roof_Strut4 1
+    6400848: Final_Reflecting_Pool:Roof_Strut4 2
+    6400850: Final_Reflecting_Pool:Roof_Strut4 3
+    6400852: Final_Reflecting_Pool:Roof_Strut5
+    6400854: Final_Reflecting_Pool:Roof_Strut5 1
+    6400856: Final_Reflecting_Pool:Roof_Strut5 2
+    6400858: Final_Reflecting_Pool:Roof_Strut5 3
+    6400860: Final_Reflecting_Pool:Wall
+    6400862: Final_Reflecting_Pool:Wall 1
+    6400864: Final_Reflecting_Pool:Wall 2
+    6400866: Final_Reflecting_Pool:Wall1
+    6400868: Final_Reflecting_Pool:Wall2
+    6400870: Hook
+    6400872: Hook 1
+    6400874: Hook 10
+    6400876: Hook 11
+    6400878: Hook 2
+    6400880: Hook 3
+    6400882: Hook 4
+    6400884: Hook 5
+    6400886: Hook 6
+    6400888: Hook 7
+    6400890: Hook 8
+    6400892: Hook 9
+    6400894: Hook_Bace
+    6400896: Hook_Bace 1
+    6400898: Hook_Bace 10
+    6400900: Hook_Bace 11
+    6400902: Hook_Bace 2
+    6400904: Hook_Bace 3
+    6400906: Hook_Bace 4
+    6400908: Hook_Bace 5
+    6400910: Hook_Bace 6
+    6400912: Hook_Bace 7
+    6400914: Hook_Bace 8
+    6400916: Hook_Bace 9
+    6400918: Hook_Support
+    6400920: Hook_Support 1
+    6400922: Hook_Support 10
+    6400924: Hook_Support 11
+    6400926: Hook_Support 2
+    6400928: Hook_Support 3
+    6400930: Hook_Support 4
+    6400932: Hook_Support 5
+    6400934: Hook_Support 6
+    6400936: Hook_Support 7
+    6400938: Hook_Support 8
+    6400940: Hook_Support 9
+    6400942: Lantern_Rope1
+    6400944: Lantern_Rope1 1
+    6400946: Lantern_Rope1 10
+    6400948: Lantern_Rope1 11
+    6400950: Lantern_Rope1 2
+    6400952: Lantern_Rope1 3
+    6400954: Lantern_Rope1 4
+    6400956: Lantern_Rope1 5
+    6400958: Lantern_Rope1 6
+    6400960: Lantern_Rope1 7
+    6400962: Lantern_Rope1 8
+    6400964: Lantern_Rope1 9
+    6400966: Loop
+    6400968: Loop 1
+    6400970: Loop 10
+    6400972: Loop 11
+    6400974: Loop 2
+    6400976: Loop 3
+    6400978: Loop 4
+    6400980: Loop 5
+    6400982: Loop 6
+    6400984: Loop 7
+    6400986: Loop 8
+    6400988: Loop 9
+    6400990: Paper
+    6400992: Paper 1
+    6400994: Paper 10
+    6400996: Paper 11
+    6400998: Paper 2
+    6401000: Paper 3
+    6401002: Paper 4
+    6401004: Paper 5
+    6401006: Paper 6
+    6401008: Paper 7
+    6401010: Paper 8
+    6401012: Paper 9
+    6401014: pCube1
+    6401016: pCube1 1
+    6401018: pCube1 10
+    6401020: pCube1 11
+    6401022: pCube1 12
+    6401024: pCube1 13
+    6401026: pCube1 14
+    6401028: pCube1 15
+    6401030: pCube1 16
+    6401032: pCube1 17
+    6401034: pCube1 18
+    6401036: pCube1 19
+    6401038: pCube1 2
+    6401040: pCube1 20
+    6401042: pCube1 21
+    6401044: pCube1 22
+    6401046: pCube1 23
+    6401048: pCube1 24
+    6401050: pCube1 25
+    6401052: pCube1 26
+    6401054: pCube1 27
+    6401056: pCube1 28
+    6401058: pCube1 29
+    6401060: pCube1 3
+    6401062: pCube1 4
+    6401064: pCube1 5
+    6401066: pCube1 6
+    6401068: pCube1 7
+    6401070: pCube1 8
+    6401072: pCube1 9
+    6401074: pCube2
+    6401076: pCube2 1
+    6401078: pCube2 10
+    6401080: pCube2 11
+    6401082: pCube2 12
+    6401084: pCube2 13
+    6401086: pCube2 14
+    6401088: pCube2 15
+    6401090: pCube2 16
+    6401092: pCube2 17
+    6401094: pCube2 18
+    6401096: pCube2 19
+    6401098: pCube2 2
+    6401100: pCube2 20
+    6401102: pCube2 21
+    6401104: pCube2 22
+    6401106: pCube2 23
+    6401108: pCube2 24
+    6401110: pCube2 25
+    6401112: pCube2 26
+    6401114: pCube2 27
+    6401116: pCube2 28
+    6401118: pCube2 29
+    6401120: pCube2 3
+    6401122: pCube2 4
+    6401124: pCube2 5
+    6401126: pCube2 6
+    6401128: pCube2 7
+    6401130: pCube2 8
+    6401132: pCube2 9
+    6401134: pCube28
+    6401136: pCube28 1
+    6401138: pCube28 2
+    6401140: pCube28 3
+    6401142: pCube28 4
+    6401144: pCube28 5
+    6401146: pCube29
+    6401148: pCube29 1
+    6401150: pCube29 2
+    6401152: pCube29 3
+    6401154: pCube29 4
+    6401156: pCube29 5
+    6401158: pCube3
+    6401160: pCube3 1
+    6401162: pCube3 10
+    6401164: pCube3 11
+    6401166: pCube3 12
+    6401168: pCube3 13
+    6401170: pCube3 14
+    6401172: pCube3 15
+    6401174: pCube3 16
+    6401176: pCube3 17
+    6401178: pCube3 18
+    6401180: pCube3 19
+    6401182: pCube3 2
+    6401184: pCube3 20
+    6401186: pCube3 21
+    6401188: pCube3 22
+    6401190: pCube3 23
+    6401192: pCube3 24
+    6401194: pCube3 25
+    6401196: pCube3 26
+    6401198: pCube3 27
+    6401200: pCube3 28
+    6401202: pCube3 29
+    6401204: pCube3 3
+    6401206: pCube3 4
+    6401208: pCube3 5
+    6401210: pCube3 6
+    6401212: pCube3 7
+    6401214: pCube3 8
+    6401216: pCube3 9
+    6401218: pCube30
+    6401220: pCube30 1
+    6401222: pCube30 2
+    6401224: pCube30 3
+    6401226: pCube30 4
+    6401228: pCube30 5
+    6401230: pCube31
+    6401232: pCube31 1
+    6401234: pCube31 2
+    6401236: pCube31 3
+    6401238: pCube31 4
+    6401240: pCube31 5
+    6401242: pCube4
+    6401244: pCube4 1
+    6401246: pCube4 10
+    6401248: pCube4 11
+    6401250: pCube4 12
+    6401252: pCube4 13
+    6401254: pCube4 14
+    6401256: pCube4 15
+    6401258: pCube4 16
+    6401260: pCube4 17
+    6401262: pCube4 18
+    6401264: pCube4 19
+    6401266: pCube4 2
+    6401268: pCube4 20
+    6401270: pCube4 21
+    6401272: pCube4 22
+    6401274: pCube4 23
+    6401276: pCube4 24
+    6401278: pCube4 25
+    6401280: pCube4 26
+    6401282: pCube4 27
+    6401284: pCube4 28
+    6401286: pCube4 29
+    6401288: pCube4 3
+    6401290: pCube4 4
+    6401292: pCube4 5
+    6401294: pCube4 6
+    6401296: pCube4 7
+    6401298: pCube4 8
+    6401300: pCube4 9
+    6401302: pCube5
+    6401304: pCube5 1
+    6401306: pCube5 10
+    6401308: pCube5 11
+    6401310: pCube5 2
+    6401312: pCube5 3
+    6401314: pCube5 4
+    6401316: pCube5 5
+    6401318: pCube5 6
+    6401320: pCube5 7
+    6401322: pCube5 8
+    6401324: pCube5 9
+    6401326: pCylinder1
+    6401328: pCylinder1 1
+    6401330: pCylinder1 10
+    6401332: pCylinder1 11
+    6401334: pCylinder1 12
+    6401336: pCylinder1 13
+    6401338: pCylinder1 14
+    6401340: pCylinder1 15
+    6401342: pCylinder1 16
+    6401344: pCylinder1 17
+    6401346: pCylinder1 18
+    6401348: pCylinder1 19
+    6401350: pCylinder1 2
+    6401352: pCylinder1 20
+    6401354: pCylinder1 21
+    6401356: pCylinder1 22
+    6401358: pCylinder1 23
+    6401360: pCylinder1 24
+    6401362: pCylinder1 25
+    6401364: pCylinder1 26
+    6401366: pCylinder1 27
+    6401368: pCylinder1 28
+    6401370: pCylinder1 29
+    6401372: pCylinder1 3
+    6401374: pCylinder1 4
+    6401376: pCylinder1 5
+    6401378: pCylinder1 6
+    6401380: pCylinder1 7
+    6401382: pCylinder1 8
+    6401384: pCylinder1 9
+    6401386: Primary_Pillar_1
+    6401388: Primary_Pillar_1 1
+    6401390: Primary_Pillar_1 2
+    6401392: Primary_Pillar_1 3
+    6401394: Primary_Pillar_1 4
+    6401396: Primary_Pillar_1 5
+    6401398: Primary_Pillar_2
+    6401400: Primary_Pillar_2 1
+    6401402: Primary_Pillar_2 2
+    6401404: Primary_Pillar_2 3
+    6401406: Primary_Pillar_2 4
+    6401408: Primary_Pillar_2 5
+    6401410: Primary_Strut
+    6401412: Primary_Strut 1
+    6401414: Primary_Strut 2
+    6401416: Primary_Strut 3
+    6401418: Primary_Strut 4
+    6401420: Primary_Strut 5
+    6401422: Primary_Support
+    6401424: Primary_Support 1
+    6401426: Primary_Support 2
+    6401428: Primary_Support 3
+    6401430: Primary_Support 4
+    6401432: Primary_Support 5
+    6401434: pSphere1
+    6401436: pSphere1 1
+    6401438: pSphere1 10
+    6401440: pSphere1 11
+    6401442: pSphere1 2
+    6401444: pSphere1 3
+    6401446: pSphere1 4
+    6401448: pSphere1 5
+    6401450: pSphere1 6
+    6401452: pSphere1 7
+    6401454: pSphere1 8
+    6401456: pSphere1 9
+    6401458: pSphere2
+    6401460: pSphere2 1
+    6401462: pSphere2 10
+    6401464: pSphere2 11
+    6401466: pSphere2 2
+    6401468: pSphere2 3
+    6401470: pSphere2 4
+    6401472: pSphere2 5
+    6401474: pSphere2 6
+    6401476: pSphere2 7
+    6401478: pSphere2 8
+    6401480: pSphere2 9
+    6401482: pSphere3
+    6401484: pSphere3 1
+    6401486: pSphere3 10
+    6401488: pSphere3 11
+    6401490: pSphere3 2
+    6401492: pSphere3 3
+    6401494: pSphere3 4
+    6401496: pSphere3 5
+    6401498: pSphere3 6
+    6401500: pSphere3 7
+    6401502: pSphere3 8
+    6401504: pSphere3 9
+    6401506: Roof
+    6401508: Roof 1
+    6401510: Roof 2
+    6401512: Roof 3
+    6401514: Roof 4
+    6401516: Roof 5
+    6401518: Rope_1
+    6401520: Rope_1 1
+    6401522: Rope_1 10
+    6401524: Rope_1 11
+    6401526: Rope_1 2
+    6401528: Rope_1 3
+    6401530: Rope_1 4
+    6401532: Rope_1 5
+    6401534: Rope_1 6
+    6401536: Rope_1 7
+    6401538: Rope_1 8
+    6401540: Rope_1 9
+    6401542: Rope_2
+    6401544: Rope_2 1
+    6401546: Rope_2 10
+    6401548: Rope_2 11
+    6401550: Rope_2 2
+    6401552: Rope_2 3
+    6401554: Rope_2 4
+    6401556: Rope_2 5
+    6401558: Rope_2 6
+    6401560: Rope_2 7
+    6401562: Rope_2 8
+    6401564: Rope_2 9
+    6401566: Scroll_Container
+    6401568: Scroll_Container 1
+    6401570: Scroll_Container 10
+    6401572: Scroll_Container 11
+    6401574: Scroll_Container 2
+    6401576: Scroll_Container 3
+    6401578: Scroll_Container 4
+    6401580: Scroll_Container 5
+    6401582: Scroll_Container 6
+    6401584: Scroll_Container 7
+    6401586: Scroll_Container 8
+    6401588: Scroll_Container 9
+    6401590: Secondary_Pillar_1
+    6401592: Secondary_Pillar_1 1
+    6401594: Secondary_Pillar_1 2
+    6401596: Secondary_Pillar_1 3
+    6401598: Secondary_Pillar_1 4
+    6401600: Secondary_Pillar_1 5
+    6401602: Secondary_Pillar_2
+    6401604: Secondary_Pillar_2 1
+    6401606: Secondary_Pillar_2 2
+    6401608: Secondary_Pillar_2 3
+    6401610: Secondary_Pillar_2 4
+    6401612: Secondary_Pillar_2 5
+    6401614: Secondary_Pillar_3
+    6401616: Secondary_Pillar_3 1
+    6401618: Secondary_Pillar_3 2
+    6401620: Secondary_Pillar_3 3
+    6401622: Secondary_Pillar_3 4
+    6401624: Secondary_Pillar_3 5
+    6401626: Secondary_Pillar_4
+    6401628: Secondary_Pillar_4 1
+    6401630: Secondary_Pillar_4 2
+    6401632: Secondary_Pillar_4 3
+    6401634: Secondary_Pillar_4 4
+    6401636: Secondary_Pillar_4 5
+    6401638: Secondary_Pillar_Top_1
+    6401640: Secondary_Pillar_Top_1 1
+    6401642: Secondary_Pillar_Top_1 2
+    6401644: Secondary_Pillar_Top_1 3
+    6401646: Secondary_Pillar_Top_1 4
+    6401648: Secondary_Pillar_Top_1 5
+    6401650: Secondary_Pillar_Top_2
+    6401652: Secondary_Pillar_Top_2 1
+    6401654: Secondary_Pillar_Top_2 2
+    6401656: Secondary_Pillar_Top_2 3
+    6401658: Secondary_Pillar_Top_2 4
+    6401660: Secondary_Pillar_Top_2 5
+    6401662: Secondary_Pillar_Top_3
+    6401664: Secondary_Pillar_Top_3 1
+    6401666: Secondary_Pillar_Top_3 2
+    6401668: Secondary_Pillar_Top_3 3
+    6401670: Secondary_Pillar_Top_3 4
+    6401672: Secondary_Pillar_Top_3 5
+    6401674: Secondary_Pillar_Top_4
+    6401676: Secondary_Pillar_Top_4 1
+    6401678: Secondary_Pillar_Top_4 2
+    6401680: Secondary_Pillar_Top_4 3
+    6401682: Secondary_Pillar_Top_4 4
+    6401684: Secondary_Pillar_Top_4 5
+    6401686: Secondary_Strut_1
+    6401688: Secondary_Strut_1 1
+    6401690: Secondary_Strut_1 2
+    6401692: Secondary_Strut_1 3
+    6401694: Secondary_Strut_1 4
+    6401696: Secondary_Strut_1 5
+    6401698: Secondary_Strut_2
+    6401700: Secondary_Strut_2 1
+    6401702: Secondary_Strut_2 2
+    6401704: Secondary_Strut_2 3
+    6401706: Secondary_Strut_2 4
+    6401708: Secondary_Strut_2 5
+    6401710: Secondary_Strut_3
+    6401712: Secondary_Strut_3 1
+    6401714: Secondary_Strut_3 2
+    6401716: Secondary_Strut_3 3
+    6401718: Secondary_Strut_3 4
+    6401720: Secondary_Strut_3 5
+    6401722: Secondary_Strut_4
+    6401724: Secondary_Strut_4 1
+    6401726: Secondary_Strut_4 2
+    6401728: Secondary_Strut_4 3
+    6401730: Secondary_Strut_4 4
+    6401732: Secondary_Strut_4 5
+    6401734: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart0
+    6401736: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart1
+    6401738: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart2
+    6401740: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart3
+    6401742: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart4
+    6401744: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart5
+    6401746: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart6
+    6401748: ShrineTerreinExtendedHDFinal:ZBrush_defualt_group_MeshPart7
+    6401750: Temple_Terrein
+    7400000: Take 001
     9500000: //RootNode
   materials:
     importMaterials: 1

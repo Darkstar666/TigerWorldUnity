@@ -1,33 +1,10 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: c6ef21a02596b484491c4490cd7d9108
-=======
-guid: 90c32e905b1d0224bb9b6611bdd0aa55
->>>>>>> d98952acd82dee0be363e89202e293fbb735c241
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: Centralobject
-    100002: FlameCam
-    100004: Orb
-    100006: //RootNode
-    100008: pCylinder1
-    400000: Centralobject
-    400002: FlameCam
-    400004: Orb
-    400006: //RootNode
-    400008: pCylinder1
-    2300000: Orb
-    2300002: pCylinder1
-    3300000: Orb
-    3300002: pCylinder1
-    4300000: pCylinder1
-    4300002: Orb
-<<<<<<< HEAD
-=======
-    6400000: Orb
-    6400002: pCylinder1
->>>>>>> d98952acd82dee0be363e89202e293fbb735c241
+    100000: //RootNode
+    400000: //RootNode
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -47,17 +24,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-<<<<<<< HEAD
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
-=======
-    addColliders: 1
-    importBlendShapes: 1
-    swapUVChannels: 0
-    generateSecondaryUV: 1
->>>>>>> d98952acd82dee0be363e89202e293fbb735c241
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
