@@ -1,22 +1,26 @@
 fileFormatVersion: 2
-guid: bacbadcdbdbddd042a6881fb1487fa0e
+guid: 67da837468ca4004bb33e6d05d505959
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: joint1
-    100002: joint2
-    100004: joint3
-    100006: joint4
-    100008: joint5
-    100010: //RootNode
-    100012: ZBrush_defualt_group
-    400000: joint1
-    400002: joint2
-    400004: joint3
-    400006: joint4
-    400008: joint5
-    400010: //RootNode
-    400012: ZBrush_defualt_group
+    100000: Bones
+    100002: joint1
+    100004: joint2
+    100006: joint3
+    100008: joint4
+    100010: joint5
+    100012: //RootNode
+    100014: nurbsCircle1
+    100016: ZBrush_defualt_group
+    400000: Bones
+    400002: joint1
+    400004: joint2
+    400006: joint3
+    400008: joint4
+    400010: joint5
+    400012: //RootNode
+    400014: nurbsCircle1
+    400016: ZBrush_defualt_group
     4300000: ZBrush_defualt_group
     7400000: Take 001
     9500000: //RootNode
@@ -38,16 +42,16 @@ ModelImporter:
     - name: Take 001
       takeName: Take 001
       firstFrame: 1
-      lastFrame: 24
+      lastFrame: 800
       wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
-      loopBlend: 1
-      loopBlendOrientation: 1
-      loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
       keepOriginalOrientation: 0
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
@@ -61,7 +65,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
