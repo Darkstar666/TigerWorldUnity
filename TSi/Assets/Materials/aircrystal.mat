@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: aircrystal
-  m_Shader: {fileID: 32, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 3, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: []
   m_SavedProperties:
     serializedVersion: 2
@@ -28,8 +28,8 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .0607461669, g: .0607461669, b: .0607461669, a: .45599997}
+        second: {r: .91911763, g: .00675822422, b: .00675822422, a: .45599997}
       data:
         first:
           name: _SpecColor
-        second: {r: 1, g: 1, b: 1, a: 0}
+        second: {r: 1, g: .889655232, b: 0, a: 0}

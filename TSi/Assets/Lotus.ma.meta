@@ -48,6 +48,7 @@ ModelImporter:
     100084: transform9
     100086: directionalLight1
     100088: pPlane1
+    100090: sunDirection
     400000: LeafgroupA
     400002: LeafgroupB
     400004: LeafgroupC
@@ -93,6 +94,7 @@ ModelImporter:
     400084: transform9
     400086: directionalLight1
     400088: pPlane1
+    400090: sunDirection
     2300000: Lotus_Roots:Group10877
     2300002: Lotus_Roots:Group16016
     2300004: Lotus_Roots:Group3550
