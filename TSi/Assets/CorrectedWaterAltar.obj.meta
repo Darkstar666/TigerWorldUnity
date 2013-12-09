@@ -35,6 +35,12 @@ ModelImporter:
     4300006: WaterUVs:Group19544
     4300008: WaterUVs:Group19545
     4300010: WaterUVs:Group19546
+    6400000: WaterUVs:Group19499
+    6400002: WaterUVs:Group19514
+    6400004: WaterUVs:Group19515
+    6400006: WaterUVs:Group19544
+    6400008: WaterUVs:Group19545
+    6400010: WaterUVs:Group19546
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -54,7 +60,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
